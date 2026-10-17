@@ -1,0 +1,29 @@
+source,check,value
+jra,rows_raw,12101
+jra,date_range,2024-01-06 to 2024-03-31
+jra,rows_without_finish_position,92
+jra,rows_missing_pedigree_or_connections,455
+hkjc,race_record_rows_raw,1021
+hkjc,overseas_rows_dropped,2
+hkjc,race_record_date_range,2025-03-02 to 2025-04-09 (file name says 2024; dates are 2025)
+hkjc,duplicate_race_horse_rows,0
+hkjc,racecard_rows_raw,1278
+hkjc,racecard_nonrunner_rows_dropped,5
+hkjc,racecard_runners_found_in_results_pct,70.5
+hkjc,races_in_results,115
+hkjc,races_only_on_racecards,0
+hkjc,barrier_trial_rows,1000
+ecuador,rows_raw,750
+ecuador,exact_duplicate_rows_removed,600
+ecuador,rows_after_dedupe,150
+ecuador,rows_per_season,"{2024: 50, 2025: 50, 2026: 50}"
+ecuador,not_finish_all_zero,True
+ecuador,interpretation,Seasonal top-50 leaderboards (not full career records); earnings currency not stated; 2026 is a partial season
+jra,races_total,873
+jra,races_with_winner,873
+jra,races_market_complete,834
+jra,median_overround,1.265
+hkjc,races_total,115
+hkjc,races_with_winner,102
+hkjc,races_market_complete,41
+hkjc,median_overround,0.982
