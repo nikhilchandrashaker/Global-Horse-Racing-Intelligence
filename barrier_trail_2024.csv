@@ -1,0 +1,1001 @@
+barrier_trial_date,race_course,batch_no,race_track,distance,going,horse,horse_id,jockey,trainer,draw,gear,LBW,running_position,finish_time,finish_time_s,result,comment
+2025-04-15,CH,batch 1,CONGHUA TURF,1000,GOOD,LOOKING BRIGHT,K315,M F Poon,F C Lor,1,,3/4L,1>1>2,0.57.27,57.27,,Led early; kept on evenly thereafter.
+2025-04-15,CH,batch 1,CONGHUA TURF,1000,GOOD,SPORTS LEGEND,H456,E C W Wong,C S Shum,6,B,4-1/4L,4>3>3,0.57.81,57.81,Passed,Dashed along halfway momentarily; under a hold thereafter.
+2025-04-15,CH,batch 1,CONGHUA TURF,1000,GOOD,RED ELEGANCE,H241,H Bentley,D J Whyte,2,B,6-1/4L,2>4>4,0.58.11,58.11,,Not as expected when ridden along.
+2025-04-15,CH,batch 1,CONGHUA TURF,1000,GOOD,SEA CHARIOT,K358,K C Leung,W K Mo,3,,6-1/4L,3>5>5,0.58.12,58.12,Passed,Limited response when asked late.
+2025-04-15,CH,batch 1,CONGHUA TURF,1000,GOOD,ATULLIBIGEAL,G173,Q Y Ng,D J Hall,4,H/XB,7-1/4L,6>6>6,0.58.30,58.3,,Settled at rear; not much progress.
+2025-04-15,CH,batch 2,CONGHUA TURF,1000,GOOD,AWESOME TREASURE,E435,P N Wong,D A Hayes,5,,,2>2>1,0.59.44,59.44,,On pace in 2nd position early; hit the front late to score.
+2025-04-15,CH,batch 2,CONGHUA TURF,1000,GOOD,KA YING RADIANCE,K134,M F Poon,D A Hayes,3,,Neck,5>4>2,0.59.50,59.5,,Bounded on jumping; made up good ground when recovered; responded fairly well.
+2025-04-15,CH,batch 2,CONGHUA TURF,1000,GOOD,HAPPY BUDDIES,K344,K C Leung,W K Mo,2,H,2-1/2L,3>3>3,0.59.84,59.84,,Tardy start; made steady progress under whip.
+2025-04-15,CH,batch 2,CONGHUA TURF,1000,GOOD,SUMMIT CHEERS,E221,Q Y Ng,D J Hall,4,,2-3/4L,1>1>4,0.59.87,59.87,,Led from middle gate; weakened near the line.
+2025-04-15,CH,batch 2,CONGHUA TURF,1000,GOOD,COUNTRY DANCER,H436,R Thomas,J Size,1,E,5-1/2L,4>5>5,1.00.33,60.33,,Ridden conservatively; not tested.
+2025-04-15,CH,batch 3,CONGHUA TURF,1000,GOOD,ARGENTO OCEAN,K322,H Bentley,D J Whyte,2,,,1>2>1,0.57.97,57.97,Passed,Fought on well to the line; stayed on fairly well.
+2025-04-15,CH,batch 3,CONGHUA TURF,1000,GOOD,GLORIOUS EXPERT,J028,P N Wong,D J Hall,1,P,SH,2>1>2,0.57.99,57.99,,Shared lead early; always in touch.
+2025-04-15,CH,batch 3,CONGHUA TURF,1000,GOOD,LIGHT YEARS GLORY,K204,K C Leung,W K Mo,3,CP,3/4L,5>5>3,0.58.11,58.11,Passed,Made steady progress when ridden along.
+2025-04-15,CH,batch 3,CONGHUA TURF,1000,GOOD,CHAMPION METHOD,H366,Y T Leung,C S Shum,5,B,2-1/4L,3>3>4,0.58.32,58.32,,Raced under his own steam in 3rd/4th position.
+2025-04-15,CH,batch 3,CONGHUA TURF,1000,GOOD,WATCH THE FORT,J522,M F Poon,D J Hall,4,,3-1/4L,6>6>5,0.58.47,58.47,,Jumped awkwardly; made minor inroads when hard ridden.
+2025-04-15,CH,batch 3,CONGHUA TURF,1000,GOOD,GO GENERAL,H330,C M Thabana,C H Yip,6,CP,7L,4>4>6,0.59.10,59.1,Passed,Weakened and gave ground passing halfway; ran on ordinary.
+2025-04-15,CH,batch 4,CONGHUA TURF,800,GOOD,WUNDERBAR,H411,Y Salim,J Size,4,,,2>2>1,0.46.25,46.25,,On pace without cover; ran on OK to score.
+2025-04-15,CH,batch 4,CONGHUA TURF,800,GOOD,O'LINER,H264,Z Zuriman,J Richards,2,,1L,1>1>2,0.46.42,46.42,,Bounded several times in stall; led along the rail; kept on evenly.
+2025-04-15,CH,batch 4,CONGHUA TURF,800,GOOD,TIER FLY,K311,M F Poon,K L Man,6,,4L,4>3>3,0.46.89,46.89,Passed,Ran on smoothly; stayed on OK.
+2025-04-15,CH,batch 4,CONGHUA TURF,800,GOOD,WIN EASE,K384,K C Leung,K W Lui,5,,6-1/4L,3>4>4,0.47.25,47.25,Passed,Ran on fairly when hard ridden.
+2025-04-15,CH,batch 4,CONGHUA TURF,800,GOOD,FIVEFORTWO,K381,C M Thabana,K W Lui,7,XB,6-1/2L,6>5>5,0.47.29,47.29,Passed,Slow to begin; raced at rear when recovered.
+2025-04-15,CH,batch 4,CONGHUA TURF,800,GOOD,GOLDEN BRILLIANT,K347,H Bentley,C Fownes,3,,8L,5>6>6,0.47.55,47.55,Passed,Slightly slow to begin; just to stretch out.
+2025-04-15,CH,batch 4,CONGHUA TURF,800,GOOD,TYCOON EXPRESS,K376,E C W Wong,C Fownes,1,,8-1/2L,7>7>7,0.47.62,47.62,Passed,Tardy start; just to stretch out.
+2025-04-15,CH,batch 5,CONGHUA TURF,800,GOOD,MR DESIRA,K411,H Bentley,C Fownes,1,,,3>3>1,0.46.71,46.71,Passed,Up with the pace; ran on smoothly.
+2025-04-15,CH,batch 5,CONGHUA TURF,800,GOOD,DANCING CLASSICS,J060,E C W Wong,C Fownes,4,,SH,5>4>2,0.46.72,46.72,Passed,Quickened passing halfway; ran on well.
+2025-04-15,CH,batch 5,CONGHUA TURF,800,GOOD,AEROVOLANIC,K400,P N Wong,P C Ng,3,,3/4L,1>1>3,0.46.84,46.84,Passed,Led from middle gate under a hold.
+2025-04-15,CH,batch 5,CONGHUA TURF,800,GOOD,OLDTOWN,K105,C M Thabana,W Y So,2,,3/4L,4>5>4,0.46.84,46.84,,Ran on fairly after a break.
+2025-04-15,CH,batch 5,CONGHUA TURF,800,GOOD,SKY PHOENIX,K404,M F Poon,P C Ng,5,,1L,2>2>5,0.46.86,46.86,Failed,Fractious behind the stall; held ground.
+2025-04-15,CH,batch 6,CONGHUA TURF,1200,GOOD,MARKWIN,J420,H Bentley,W K Mo,4,H,,3>2>1,1.11.30,71.3,,Made progress at turn; stayed on strongly.
+2025-04-15,CH,batch 6,CONGHUA TURF,1200,GOOD,HEALTHY HAPPY,D435,K C Leung,F C Lor,7,B,1-3/4L,1>1>2,1.11.58,71.58,Passed,Led early; stayed on well.
+2025-04-15,CH,batch 6,CONGHUA TURF,1200,GOOD,MASTEROFMYUNIVERSE,J325,C M Thabana,J Size,2,,5L,5>5>3,1.12.11,72.11,,Settled along the rail; stayed on fairly well.
+2025-04-15,CH,batch 6,CONGHUA TURF,1200,GOOD,ALLCASH,K190,E C W Wong,C S Shum,1,CP,5-1/2L,2>3>4,1.12.19,72.19,,Settled midfield under his own steam.
+2025-04-15,CH,batch 6,CONGHUA TURF,1200,GOOD,NORDIC DRAGON,G467,M F Poon,C S Shum,3,,7-3/4L,4>4>5,1.12.54,72.54,,Raced under a hold; ran on smoothly.
+2025-04-15,CH,batch 6,CONGHUA TURF,1200,GOOD,YOUNG CHAMPION,J195,Y Salim,J Size,5,B/E,9-1/4L,6>6>6,1.12.77,72.77,,Ridden conservatively; not fully tested.
+2025-04-15,CH,batch 7,CONGHUA TURF,1200,GOOD,DO YOUR PART,J444,C M Thabana,K W Lui,8,XB,,2>2>1,1.10.37,70.37,,Difficult to load; on pace without cover; hit the front late to score.
+2025-04-15,CH,batch 7,CONGHUA TURF,1200,GOOD,HANDSOME BOMB,H402,R Thomas,W Y So,5,CP,1-1/2L,1>1>2,1.10.60,70.6,,Led early; hard ridden for 2nd.
+2025-04-15,CH,batch 7,CONGHUA TURF,1200,GOOD,JOLLY RULER,E346,M Kellady,P F Yiu,6,,5-3/4L,5>5>3,1.11.31,71.31,,Made steady progress when hard ridden.
+2025-04-15,CH,batch 7,CONGHUA TURF,1200,GOOD,THE LION KING,K265,M F Poon,F C Lor,2,CP,6-3/4L,4>4>4,1.11.45,71.45,,Limited response when given reminders.
+2025-04-15,CH,batch 7,CONGHUA TURF,1200,GOOD,RAINBOW WARRIOR,K348,H Bentley,D J Whyte,1,,9-1/4L,3>3>5,1.11.87,71.87,,In box seat position; limited response late.
+2025-04-15,CH,batch 7,CONGHUA TURF,1200,GOOD,MAGNIFICENT NINE,H433,Y Salim,J Size,7,B/E,11L,7>7>6,1.12.11,72.11,,Just to stretch out; not tested.
+2025-04-15,CH,batch 7,CONGHUA TURF,1200,GOOD,SHINING POWER,K185,Z Zuriman,J Size,3,,12-3/4L,6>6>7,1.12.41,72.41,,Fractious behind the stall; finished at rear.
+2025-04-15,CH,batch 7,CONGHUA TURF,1200,GOOD,PATCH OF DIAMONDS,J450,K C Leung,W K Mo,4,B,19-1/4L,8>8>8,1.13.45,73.45,,Slightly slow to begin; not much progress when under whip early Straight.
+2025-04-15,CH,batch 8,CONGHUA TURF,1200,GOOD,LUCKY MCQUEEN,K064,M F Poon,W K Mo,3,H,,3>3>1,1.11.85,71.85,,In handy position; responded fairly well when given reminders late.
+2025-04-15,CH,batch 8,CONGHUA TURF,1200,GOOD,PANDA LEGEND,H002,C M Thabana,W Y So,2,V,3/4L,5>5>2,1.11.96,71.96,,Ridden along to make progress when clear early Straight.
+2025-04-15,CH,batch 8,CONGHUA TURF,1200,GOOD,CONFRINGO,J322,H Bentley,W K Mo,7,V,1L,4>4>3,1.12.01,72.01,Passed,Made steady progress when persuaded; ran on fairly well.
+2025-04-15,CH,batch 8,CONGHUA TURF,1200,GOOD,VIVA GRACIOUSNESS,J079,Y Salim,A S Cruz,9,,1L,1>1>4,1.12.02,72.02,Passed,Led early; being overhauled late but stayed on strongly.
+2025-04-15,CH,batch 8,CONGHUA TURF,1200,GOOD,SPIRIT OF PEACE,K007,K C Leung,J Size,8,H,3-1/2L,6>6>5,1.12.40,72.4,Passed,Racing wide throughout; not tested.
+2025-04-15,CH,batch 8,CONGHUA TURF,1200,GOOD,RUN YES RUN,J264,Z Zuriman,W Y So,5,,3-1/2L,2>2>6,1.12.43,72.43,,Under a hold and settled midfield.
+2025-04-15,CH,batch 8,CONGHUA TURF,1200,GOOD,AMAZING RUN,H401,P N Wong,D A Hayes,4,,4-1/2L,7>7>7,1.12.57,72.57,,Caught in traffic in the Straight; not fully tested.
+2025-04-15,CH,batch 8,CONGHUA TURF,1200,GOOD,STRANGE ALERT,K278,K L Chui,D Eustace,6,,5-3/4L,9>9>8,1.12.78,72.78,Passed,Slightly slow to begin; raced behind runners thereafter.
+2025-04-15,CH,batch 8,CONGHUA TURF,1200,GOOD,U S S CONSTITUTION,H357,R Thomas,J Size,1,H,10L,8>8>9,1.13.47,73.47,,Tailed off; never in contention.
+2025-04-14,ST,batch 1,SHA TIN ALL WEATHER TRACK,1200,GOOD,VICTOR THE WINNER,G404,K Teetan,D Eustace,5,B,,1>1>1,1.10.09,70.09,,Jumped well; led all the way to score.
+2025-04-14,ST,batch 1,SHA TIN ALL WEATHER TRACK,1200,GOOD,CHANCHENG GLORY,H212,K C Leung,K W Lui,6,B/XB,1-3/4L,2>2>2,1.10.36,70.36,,On pace early; kept on evenly in the Straight.
+2025-04-14,ST,batch 1,SHA TIN ALL WEATHER TRACK,1200,GOOD,INVINCIBLE SHIELD,K168,L Hewitson,K W Lui,2,,2L,3>3>3,1.10.42,70.42,,Ridden conservatively early; stayed on well when let go at 200m.
+2025-04-14,ST,batch 1,SHA TIN ALL WEATHER TRACK,1200,GOOD,EVERYONE'S STAR,K172,M F Poon,F C Lor,1,SR,5-1/2L,4>4>4,1.10.98,70.98,,Saved ground throughout; made progress along the rail.
+2025-04-14,ST,batch 1,SHA TIN ALL WEATHER TRACK,1200,GOOD,CAP FERRAT,K021,M L Yeung,K W Lui,4,,6L,6>5>5,1.11.04,71.04,,Stretching out nicely when clear in the Straight.
+2025-04-14,ST,batch 1,SHA TIN ALL WEATHER TRACK,1200,GOOD,TURIN MASCOT,H165,Z Purton,P C Ng,3,PC,6-1/2L,5>6>6,1.11.12,71.12,,Finished worse than midfield when persuaded at 200m.
+2025-04-14,ST,batch 1,SHA TIN ALL WEATHER TRACK,1200,GOOD,BUNDLE AWARD,K020,H Bowman,J Size,7,E/P,9-3/4L,7>7>7,1.11.64,71.64,,Swung wide at turn; just to stretch out.
+2025-04-14,ST,batch 2,SHA TIN ALL WEATHER TRACK,1200,GOOD,LUCKY EIGHT,G204,C L Chau,P F Yiu,5,,,2>2>1,1.11.61,71.61,,First to jump; always in touch.
+2025-04-14,ST,batch 2,SHA TIN ALL WEATHER TRACK,1200,GOOD,BEAUTY ALLIANCE,J260,A Badel,J Size,6,,SH,4>3>2,1.11.62,71.62,,Swung wide at turn; raced under his own steam in the Straight.
+2025-04-14,ST,batch 2,SHA TIN ALL WEATHER TRACK,1200,GOOD,COURIER ALADDIN,J387,Z Purton,K L Man,3,CP/XB,SH,5>4>3,1.11.62,71.62,,Taken back and cut across after start; dashed on well when let go late.
+2025-04-14,ST,batch 2,SHA TIN ALL WEATHER TRACK,1200,GOOD,RUNJEET,K276,H Bowman,D Eustace,1,XB,Neck,1>1>4,1.11.68,71.68,,Led along the rail; under a hold thereafter.
+2025-04-14,ST,batch 2,SHA TIN ALL WEATHER TRACK,1200,GOOD,MEGA FORCE,K200,K C Leung,P C Ng,4,,1/2L,6>6>5,1.11.70,71.7,,Made minor inroads when clear in the Straight.
+2025-04-14,ST,batch 2,SHA TIN ALL WEATHER TRACK,1200,GOOD,RISING PHOENIX,J498,M F Poon,D J Hall,2,,2-1/2L,3>5>6,1.12.02,72.02,,Ran on fairly when asked at 300m.
+2025-04-14,ST,batch 3,SHA TIN ALL WEATHER TRACK,1200,GOOD,VIEW ALL THINGS,K101,M L Yeung,Y S Tsui,6,,,1>1>1,1.10.15,70.15,Passed,Cut across early; drew away to score when persuaded at 200m.
+2025-04-14,ST,batch 3,SHA TIN ALL WEATHER TRACK,1200,GOOD,BETTER AND BETTER,K277,Z Purton,F C Lor,3,,5L,2>2>2,1.10.97,70.97,,Under restraint; not fully tested.
+2025-04-14,ST,batch 3,SHA TIN ALL WEATHER TRACK,1200,GOOD,LUCKY GOLD,G112,L Hewitson,K W Lui,1,V,6-3/4L,5>4>3,1.11.24,71.24,,Made progress steadily along the rail.
+2025-04-14,ST,batch 3,SHA TIN ALL WEATHER TRACK,1200,GOOD,SMART CITY,J213,M F Poon,P F Yiu,5,CP,8-1/4L,3>3>4,1.11.48,71.48,,Not quickened when hard ridden at 200m.
+2025-04-14,ST,batch 3,SHA TIN ALL WEATHER TRACK,1200,GOOD,TIME TO FIRE,K117,H Bowman,D J Hall,4,,11L,6>5>5,1.11.91,71.91,,Limited response when hard ridden.
+2025-04-14,ST,batch 3,SHA TIN ALL WEATHER TRACK,1200,GOOD,APOLAR FIGHTER,J169,K Teetan,D Eustace,2,CP,11-1/2L,7>6>6,1.11.97,71.97,,Slightly slow to begin; under a hold in the Straight.
+2025-04-14,ST,batch 3,SHA TIN ALL WEATHER TRACK,1200,GOOD,INNO SUPER,K319,A Atzeni,D Eustace,7,,14L,4>7>7,1.12.41,72.41,Failed,Racing wide throughout; gave ground in the Straight.
+2025-04-14,ST,batch 4,SHA TIN ALL WEATHER TRACK,1050,GOOD,SUNNY DARLING,J171,E C W Wong,P C Ng,2,B,,1>1>1,1.02.63,62.63,,Over-racing early; led all the way to score.
+2025-04-14,ST,batch 4,SHA TIN ALL WEATHER TRACK,1050,GOOD,CROSSBORDERPEGASUS,K008,Z Purton,J Size,4,,3-1/4L,2>2>2,1.03.16,63.16,,Under a hold for 2nd; ready to go.
+2025-04-14,ST,batch 4,SHA TIN ALL WEATHER TRACK,1050,GOOD,BOOMBAYAH,H307,Y L Chung,A S Cruz,3,,4-1/2L,4>4>3,1.03.35,63.35,Passed,Slightly slow to begin; ran on for 3rd when asked in the Straight.
+2025-04-14,ST,batch 4,SHA TIN ALL WEATHER TRACK,1050,GOOD,MULTISUPER,G416,J Orman,T P Yung,1,SR,4-3/4L,3>3>4,1.03.40,63.4,Failed,Slightly slow to begin; ran on along the rail.
+2025-04-14,ST,batch 4,SHA TIN ALL WEATHER TRACK,1050,GOOD,VIEW OF THE WORLD,J348,A Hamelin,C H Yip,5,,4-3/4L,5>5>5,1.03.40,63.4,Passed,Taken back early; ran on well when clear at 200m.
+2025-04-11,CH,batch 1,CONGHUA TURF,1000,GOOD,PERFECT GENERAL,J417,K Teetan,C Fownes,3,H/P,,3>4>1,0.57.60,57.6,,Being ridden along; ran on to score near the line.
+2025-04-11,CH,batch 1,CONGHUA TURF,1000,GOOD,HEALTHY HEALTHY,H203,K C Leung,P C Ng,5,B,SH,5>1>2,0.57.61,57.61,,Hit the front halfway; under a hold thereafter.
+2025-04-11,CH,batch 1,CONGHUA TURF,1000,GOOD,WINNING DIAMOND,K216,C M Thabana,C H Yip,2,,1-1/2L,7>7>3,0.57.84,57.84,,Slightly slow to begin; ran on strongly from behind when quickened at 300m.
+2025-04-11,CH,batch 1,CONGHUA TURF,1000,GOOD,INFINITE RESOLVE,K369,L Ferraris,M Newnham,8,,1-1/2L,6>6>4,0.57.85,57.85,Passed,Up with the pace; ran on fairly.
+2025-04-11,CH,batch 1,CONGHUA TURF,1000,GOOD,FORZA TORO,K355,M L Yeung,C Fownes,7,,4-3/4L,8>3>5,0.58.36,58.36,Passed,Average to begin; dashed on momentarily halfway; worth noting.
+2025-04-11,CH,batch 1,CONGHUA TURF,1000,GOOD,WOLF COMING,K353,M F Poon,C S Shum,4,,5-3/4L,2>5>6,0.58.52,58.52,,Settled worse than midfield; just to stretch out.
+2025-04-11,CH,batch 1,CONGHUA TURF,1000,GOOD,FRIENDS OF SHAJING,K202,C L Chau,C S Shum,6,,10L,1>2>7,0.59.20,59.2,,Ran on fairly well early; weakened late.
+2025-04-11,CH,batch 1,CONGHUA TURF,1000,GOOD,LITTLE MONSTER,K391,K De Melo,W K Mo,1,H,16L,4>8>8,1.00.16,60.16,Failed,Weakened early; never in contention.
+2025-04-11,CH,batch 10,CONGHUA TURF,1200,GOOD,FORTUNE BOY,K098,K Teetan,D A Hayes,2,CP,,7>6>1,1.11.09,71.09,,Won cozily when shifted racing ground on several occasions late.
+2025-04-11,CH,batch 10,CONGHUA TURF,1200,GOOD,CALIFORNIA MOXIE,J131,K De Melo,A S Cruz,1,B,1-1/4L,2>1>2,1.11.31,71.31,,Led along the rail; stayed on well.
+2025-04-11,CH,batch 10,CONGHUA TURF,1200,GOOD,LUCKY BANNER,G354,E C W Wong,C Fownes,8,,2-1/4L,3>3>3,1.11.45,71.45,Passed,In handy position; always in touch.
+2025-04-11,CH,batch 10,CONGHUA TURF,1200,GOOD,GLAMOUR,J455,M F Poon,P F Yiu,9,B,3-1/4L,5>5>4,1.11.60,71.6,Passed,Settled midfield; moved slightly better than before.
+2025-04-11,CH,batch 10,CONGHUA TURF,1200,GOOD,MILES AWAY,J221,Z Zuriman,J Richards,4,,4-1/4L,6>7>5,1.11.76,71.76,,Made minor inroads when hard ridden.
+2025-04-11,CH,batch 10,CONGHUA TURF,1200,GOOD,LUCKY DUO,K210,C M Thabana,K W Lui,7,B/XB,4-1/2L,4>4>6,1.11.82,71.82,Passed,Made minor inroads along the inside late; ran on fairly.
+2025-04-11,CH,batch 10,CONGHUA TURF,1200,GOOD,FLYING AKEED,J471,M L Yeung,K L Man,6,B,5L,1>2>7,1.11.88,71.88,,On pace in 2nd position early; under a hold in the Straight.
+2025-04-11,CH,batch 10,CONGHUA TURF,1200,GOOD,JOYFUL FRIENDSHIP,H295,K C Leung,P F Yiu,5,,6-1/4L,8>8>8,1.12.09,72.09,,Raced at rear; not tested.
+2025-04-11,CH,batch 10,CONGHUA TURF,1200,GOOD,WINNING TURN,J163,C L Chau,P F Yiu,3,,13-3/4L,9>9>9,1.13.28,73.28,,Failed to respond under whip.
+2025-04-11,CH,batch 2,CONGHUA TURF,1000,GOOD,INVICTUS DRAGON,K318,K De Melo,K W Lui,1,,,5>4>1,0.57.92,57.92,,Slightly slow to begin; ran on well when shifted for a clear running at 300m.
+2025-04-11,CH,batch 2,CONGHUA TURF,1000,GOOD,JUDY'S GREAT,J016,M L Yeung,C S Shum,3,,1/2L,1>2>2,0.57.99,57.99,,Led from middle gate; stayed on well.
+2025-04-11,CH,batch 2,CONGHUA TURF,1000,GOOD,FLYING DOUBLE,J388,M F Poon,D J Hall,2,,1L,2>1>3,0.58.10,58.1,,Settled along the rail; always in touch.
+2025-04-11,CH,batch 2,CONGHUA TURF,1000,GOOD,FANTASTIC HONOUR,K100,E C W Wong,D A Hayes,6,,4-1/4L,6>5>4,0.58.59,58.59,,Ran on fairly when hard ridden.
+2025-04-11,CH,batch 2,CONGHUA TURF,1000,GOOD,FLYING KNIGHT,K370,K C Leung,W K Mo,9,B,4-3/4L,9>9>5,0.58.67,58.67,Passed,Made up good ground when under whip.
+2025-04-11,CH,batch 2,CONGHUA TURF,1000,GOOD,MR VIGOR,K164,C L Chau,C S Shum,7,,5-1/2L,8>8>6,0.58.80,58.8,,Limited response when persuaded.
+2025-04-11,CH,batch 2,CONGHUA TURF,1000,GOOD,GREAT LOOKING,J198,L Ferraris,M Newnham,5,XB,5-3/4L,3>3>7,0.58.85,58.85,,In handy position; weakened over the concluding stages.
+2025-04-11,CH,batch 2,CONGHUA TURF,1000,GOOD,OSI HONOUR,K232,K Teetan,D Eustace,8,B/XB,6-1/4L,7>7>8,0.58.92,58.92,Passed,Limited response when given reminders.
+2025-04-11,CH,batch 2,CONGHUA TURF,1000,GOOD,TORVEIN,K375,Z Zuriman,J Richards,4,,7-3/4L,4>6>9,0.59.15,59.15,Passed,Not much progress when hard ridden.
+2025-04-11,CH,batch 3,CONGHUA TURF,1000,GOOD,THE GOLDEN KNIGHT,K341,C M Thabana,K W Lui,4,,,8>6>1,0.58.40,58.4,,Made steady progress when shifted racing ground at 300m.
+2025-04-11,CH,batch 3,CONGHUA TURF,1000,GOOD,LUCKY FIELD,K292,M F Poon,K L Man,6,,SH,4>5>2,0.58.40,58.4,,Came from behind for 2nd when asked.
+2025-04-11,CH,batch 3,CONGHUA TURF,1000,GOOD,SIGHT HAPPY,J261,K Teetan,D A Hayes,8,CP,Neck,6>2>3,0.58.46,58.46,Passed,Ran on under a hold with plenty in hand.
+2025-04-11,CH,batch 3,CONGHUA TURF,1000,GOOD,SUPERB GUY,K323,K De Melo,K W Lui,7,,3/4L,5>1>4,0.58.54,58.54,,Made progress passing halfway; kept on evenly when asked.
+2025-04-11,CH,batch 3,CONGHUA TURF,1000,GOOD,SUPER UNIVERSAL,K303,K C Leung,K W Lui,2,,1L,2>3>5,0.58.56,58.56,,Not beaten far when hard ridden; improving.
+2025-04-11,CH,batch 3,CONGHUA TURF,1000,GOOD,AUDACIOUS PURSUIT,K398,L Ferraris,C Fownes,5,,2-1/2L,3>7>6,0.58.80,58.8,Passed,Ridden conservatively; raced under his own steam.
+2025-04-11,CH,batch 3,CONGHUA TURF,1000,GOOD,SUPER PACE,K349,M L Yeung,C Fownes,1,,5-1/4L,1>4>7,0.59.23,59.23,,Ran on ordinary along the rail.
+2025-04-11,CH,batch 3,CONGHUA TURF,1000,GOOD,MR JUSTICE,K072,C L Chau,C S Shum,3,CP,10-1/4L,7>8>8,1.00.04,60.04,,Being detached from field; unimpressive.
+2025-04-11,CH,batch 4,CONGHUA TURF,1000,GOOD,MACANESE MASTER,J532,C L Chau,C H Yip,5,CP,,4>5>1,0.58.32,58.32,,Hit the front at 200m; responded well.
+2025-04-11,CH,batch 4,CONGHUA TURF,1000,GOOD,NOBLE GO,K053,K Teetan,J Size,4,XB,1/2L,3>3>2,0.58.41,58.41,,Moved better than before when hard ridden.
+2025-04-11,CH,batch 4,CONGHUA TURF,1000,GOOD,RUBY SAILING,H347,M L Yeung,K L Man,2,B,2-1/2L,9>4>3,0.58.71,58.71,,Slow to begin; made progress thereafter; stayed on fairly well.
+2025-04-11,CH,batch 4,CONGHUA TURF,1000,GOOD,CHINA WIN,K395,M F Poon,D A Hayes,1,,2-3/4L,5>7>4,0.58.75,58.75,,Made progress when ridden along; ran on fairly.
+2025-04-11,CH,batch 4,CONGHUA TURF,1000,GOOD,THOUSAND CUPS,J482,K De Melo,A S Cruz,7,,3-1/4L,2>2>5,0.58.85,58.85,,Up with the pace; weakened near the line.
+2025-04-11,CH,batch 4,CONGHUA TURF,1000,GOOD,KING DANCE,K157,C M Thabana,K W Lui,8,XB,5L,10>9>6,0.59.14,59.14,,Tardy start; limited response when hard ridden halfway; made minor inroads thereafter.
+2025-04-11,CH,batch 4,CONGHUA TURF,1000,GOOD,SUPER ELITE,H247,K C Leung,D J Hall,3,,5-1/4L,6>6>7,0.59.15,59.15,,Limited response when asked; not as expected.
+2025-04-11,CH,batch 4,CONGHUA TURF,1000,GOOD,COLONEL,D090,L Ferraris,M Newnham,10,B,6-1/2L,1>1>8,0.59.36,59.36,Passed,Led early; weakened and gave ground late.
+2025-04-11,CH,batch 4,CONGHUA TURF,1000,GOOD,CHAMPION METHOD,H366,E C W Wong,C S Shum,9,,6-3/4L,7>8>9,0.59.39,59.39,,Ran on under a hold; just to stretch out.
+2025-04-11,CH,batch 4,CONGHUA TURF,1000,GOOD,HAPPY ACTION,K399,M Kellady,D A Hayes,6,,7L,8>10>10,0.59.45,59.45,,Ran on ordinary when ridden along.
+2025-04-11,CH,batch 5,CONGHUA TURF,1200,GOOD,SOLEIL FIGHTER,J127,M L Yeung,D A Hayes,5,XB,,2>2>1,1.10.39,70.39,,On pace in 2nd position early; won cozily in the Straight.
+2025-04-11,CH,batch 5,CONGHUA TURF,1200,GOOD,MASK RIDER,K169,R Thomas,W Y So,7,,SH,1>1>2,1.10.40,70.4,Passed,Led early; stayed on well.
+2025-04-11,CH,batch 5,CONGHUA TURF,1200,GOOD,EXCELLENCE VALUE,K093,L Ferraris,M Newnham,1,B,1-1/4L,5>5>3,1.10.60,70.6,,Came from behind for 3rd along the rail.
+2025-04-11,CH,batch 5,CONGHUA TURF,1200,GOOD,MICKLEY,K082,C M Thabana,J Size,4,,1-3/4L,4>4>4,1.10.67,70.67,,Settled midfield; held ground.
+2025-04-11,CH,batch 5,CONGHUA TURF,1200,GOOD,SILVERY BREEZE,K057,K Teetan,D Eustace,2,,3L,7>7>5,1.10.87,70.87,,Ran on under a hold; not fully tested.
+2025-04-11,CH,batch 5,CONGHUA TURF,1200,GOOD,ENCOUNTERED,G236,K C Leung,D J Hall,6,,4-3/4L,3>3>6,1.11.16,71.16,,Limited response when asked in the Straight.
+2025-04-11,CH,batch 5,CONGHUA TURF,1200,GOOD,SUPER LEGENDS,H364,C L Chau,C S Shum,3,B,5-1/2L,6>6>7,1.11.28,71.28,,Racing wide and not tested.
+2025-04-11,CH,batch 6,CONGHUA TURF,1200,GOOD,I P O BROS,K193,M L Yeung,D A Hayes,6,B,,4>4>1,1.11.21,71.21,Passed,Hit the front in the Straight; won cozily.
+2025-04-11,CH,batch 6,CONGHUA TURF,1200,GOOD,EMBLAZON,K122,C L Chau,W K Mo,2,,1-1/2L,3>3>2,1.11.44,71.44,,Kept on for 2nd when asked and under whip.
+2025-04-11,CH,batch 6,CONGHUA TURF,1200,GOOD,JUNEAU PRIDE,J443,C M Thabana,J Size,4,,2-1/2L,2>2>3,1.11.62,71.62,,On pace without cover; stayed on comfortably.
+2025-04-11,CH,batch 6,CONGHUA TURF,1200,GOOD,MONARCH COUNTY,J421,E C W Wong,C Fownes,1,,2-3/4L,5>5>4,1.11.65,71.65,,Slightly slow to begin; ridden conservatively under his own steam.
+2025-04-11,CH,batch 6,CONGHUA TURF,1200,GOOD,CIRCUIT GRAND SLAM,K201,K C Leung,K L Man,7,B,3-1/4L,7>6>5,1.11.73,71.73,Passed,Ran on fairly well when persuaded.
+2025-04-11,CH,batch 6,CONGHUA TURF,1200,GOOD,KEEN MOLLY,K386,K Teetan,D Eustace,8,,6L,8>8>6,1.12.15,72.15,Passed,Settled at rear; never a threat.
+2025-04-11,CH,batch 6,CONGHUA TURF,1200,GOOD,LUCKY CAPTAIN,K380,M F Poon,D Eustace,5,,7-3/4L,6>7>7,1.12.46,72.46,Passed,Slightly slow to begin; ran on ordinary when given reminders.
+2025-04-11,CH,batch 6,CONGHUA TURF,1200,GOOD,ELIUD,K123,L Ferraris,C Fownes,3,,8-1/2L,1>1>8,1.12.55,72.55,,Average to begin; led thereafter; weakened and gave ground late.
+2025-04-11,CH,batch 7,CONGHUA TURF,1200,GOOD,WORLDWIDE,K233,K C Leung,P F Yiu,4,CP,,1>1>1,1.12.31,72.31,,Good early speed; drew away to score.
+2025-04-11,CH,batch 7,CONGHUA TURF,1200,GOOD,LEADING ARTICLE,K071,C L Chau,W K Mo,1,CP,3/4L,2>2>2,1.12.43,72.43,,On pace early; kept on for 2nd when hard ridden.
+2025-04-11,CH,batch 7,CONGHUA TURF,1200,GOOD,SUPER LOVE,K118,K Teetan,C H Yip,7,,3/4L,7>8>3,1.12.43,72.43,,Taken back early; ran on strongly in the Straight; impressive.
+2025-04-11,CH,batch 7,CONGHUA TURF,1200,GOOD,MISTER DAPPER,H376,K L Chui,D Eustace,5,B/XB,1-3/4L,3>3>4,1.12.57,72.57,,Stretching out evenly for 4th.
+2025-04-11,CH,batch 7,CONGHUA TURF,1200,GOOD,BRIGHT INHERITANCE,J215,L Ferraris,C H Yip,3,B/SR,3-1/2L,5>6>5,1.12.87,72.87,,Ran on under a hold; not tested.
+2025-04-11,CH,batch 7,CONGHUA TURF,1200,GOOD,UNIVERSAL HORIZON,G360,C M Thabana,K W Lui,8,B,4L,8>7>6,1.12.95,72.95,,Held ground when ridden along.
+2025-04-11,CH,batch 7,CONGHUA TURF,1200,GOOD,BLAZING WUKONG,K335,M F Poon,P F Yiu,6,,4-1/4L,4>4>7,1.12.99,72.99,,Ran on nicely; in good condition.
+2025-04-11,CH,batch 7,CONGHUA TURF,1200,GOOD,GOR GOR,K104,Z Zuriman,J Richards,2,,5-3/4L,6>5>8,1.13.21,73.21,,Slow to begin; limited response when hard ridden.
+2025-04-11,CH,batch 8,CONGHUA TURF,1200,GOOD,DASHING DRAGON,J464,E C W Wong,D A Hayes,2,B,,4>4>1,1.11.80,71.8,,Made steady progress when asked.
+2025-04-11,CH,batch 8,CONGHUA TURF,1200,GOOD,SOLID CAR,K058,K Teetan,D J Hall,5,,Neck,2>2>2,1.11.85,71.85,,On pace for 2nd; always in touch.
+2025-04-11,CH,batch 8,CONGHUA TURF,1200,GOOD,LUCKY SYMPHONY,J089,Z Zuriman,J Richards,4,H/P,1/2L,3>3>3,1.11.90,71.9,,In box-seat position; raced under his own steam.
+2025-04-11,CH,batch 8,CONGHUA TURF,1200,GOOD,PRECISION GOAL,H016,L Ferraris,D A Hayes,7,BO,1-1/4L,1>1>4,1.12.00,72.0,Passed,Led early; stayed on well.
+2025-04-11,CH,batch 8,CONGHUA TURF,1200,GOOD,PERPETUAL POWER,J326,C L Chau,T P Yung,6,B,4-3/4L,8>8>5,1.12.55,72.55,Passed,Ran on to be nearest at finish when under whip in the Straight.
+2025-04-11,CH,batch 8,CONGHUA TURF,1200,GOOD,VIVACIOUS WIN,K223,K L Chui,D Eustace,3,,6L,6>5>6,1.12.75,72.75,,Raced greenly; needs time.
+2025-04-11,CH,batch 8,CONGHUA TURF,1200,GOOD,LANIAKEA,J544,K C Leung,W K Mo,8,H,9-1/4L,7>7>7,1.13.30,73.3,Failed,Difficult to load; missed start; raced at rear.
+2025-04-11,CH,batch 8,CONGHUA TURF,1200,GOOD,D STAR,G374,K De Melo,A S Cruz,1,B,17L,5>6>8,1.14.52,74.52,,Weakened badly in the Straight; never in contention.
+2025-04-11,CH,batch 9,CONGHUA TURF,1200,GOOD,LUCKY STATEMENT,J521,Z Zuriman,K L Man,5,B,,3>3>1,1.10.98,70.98,,Won narrowly when under whip and hard ridden.
+2025-04-11,CH,batch 9,CONGHUA TURF,1200,GOOD,WIN SPEED,J205,L Ferraris,M Newnham,3,B,1/2L,4>4>2,1.11.08,71.08,,Made steady progress when persuaded.
+2025-04-11,CH,batch 9,CONGHUA TURF,1200,GOOD,FASHION LEGEND,J080,K L Chui,D Eustace,4,H,1-1/4L,7>6>3,1.11.17,71.17,,Made progress under his own steam in a tractable manner.
+2025-04-11,CH,batch 9,CONGHUA TURF,1200,GOOD,SMART FAT CAT,K280,M F Poon,W K Mo,6,,1-1/4L,9>9>4,1.11.20,71.2,Passed,Average to begin; made progress along the rail; ran on fairly well.
+2025-04-11,CH,batch 9,CONGHUA TURF,1200,GOOD,ONE AND ONLY,K273,K C Leung,W K Mo,1,,1-1/2L,2>2>5,1.11.22,71.22,,Kept on evenly when under whip at 200m.
+2025-04-11,CH,batch 9,CONGHUA TURF,1200,GOOD,REZEKI,J340,K Teetan,D J Hall,7,,2-1/2L,8>8>6,1.11.40,71.4,,Taken back early; moved better than before.
+2025-04-11,CH,batch 9,CONGHUA TURF,1200,GOOD,DRAGON SUNRISE,J269,K De Melo,K W Lui,2,,3-1/4L,6>7>7,1.11.51,71.51,,Slightly slow to begin; raced behind runners.
+2025-04-11,CH,batch 9,CONGHUA TURF,1200,GOOD,GLORIOUS KINGDOM,K269,C L Chau,P F Yiu,8,B,6L,1>1>8,1.11.94,71.94,Passed,Led early under big stride; weakened and gave ground at 200m.
+2025-04-11,CH,batch 9,CONGHUA TURF,1200,GOOD,DEAL COMPLETED,J378,M L Yeung,D J Whyte,9,B/XB,6-3/4L,5>5>9,1.12.04,72.04,Passed,Racing wide throughout; just to stretch out.
+2025-04-10,ST,batch 1,SHA TIN ALL WEATHER TRACK,1200,GOOD,TALENTS AMBITION,J136,H Bowman,M Newnham,5,B/XB,,7>7>1,1.09.98,69.98,,Hit the line strongly when shifted out at turn.
+2025-04-10,ST,batch 1,SHA TIN ALL WEATHER TRACK,1200,GOOD,STEPS AHEAD,J263,L Hewitson,K W Lui,6,,SH,3>3>2,1.09.99,69.99,,Three wide at turn; stayed on comfortably.
+2025-04-10,ST,batch 1,SHA TIN ALL WEATHER TRACK,1200,GOOD,MASTER CHAMPION,K266,H T Mo,C S Shum,4,,Neck,2>2>3,1.10.02,70.02,Passed,Shared lead and one-off; kept on when asked late.
+2025-04-10,ST,batch 1,SHA TIN ALL WEATHER TRACK,1200,GOOD,G LINER,H072,Y L Chung,J Richards,1,H/P/XB,3/4L,1>1>4,1.10.10,70.1,,Led along the rail; kept on late.
+2025-04-10,ST,batch 1,SHA TIN ALL WEATHER TRACK,1200,GOOD,SUPER INFINITY,J320,H Bentley,M Newnham,2,B,1-3/4L,5>4>5,1.10.27,70.27,,Saved ground throughout; made progress in between runners.
+2025-04-10,ST,batch 1,SHA TIN ALL WEATHER TRACK,1200,GOOD,CAPITAL DELIGHT,H262,B Avdulla,C Fownes,7,B,5-1/2L,6>5>6,1.10.88,70.88,,Dashed on momentarily at turn; under a hold in the Straight.
+2025-04-10,ST,batch 1,SHA TIN ALL WEATHER TRACK,1200,GOOD,RAGGA BOMB,K162,K Teetan,D Eustace,3,XB,7L,4>6>7,1.11.11,71.11,,Failed to respond when asked at 300m.
+2025-04-10,ST,batch 2,SHA TIN ALL WEATHER TRACK,1200,GOOD,LUCKY TWIN STARS,K126,K Teetan,K W Lui,5,CP,,2>2>1,1.10.75,70.75,,Hard ridden at turn; ran on to score when under whip at 200m.
+2025-04-10,ST,batch 2,SHA TIN ALL WEATHER TRACK,1200,GOOD,MOJAVE DESERT,J330,L Ferraris,M Newnham,8,CP/XB,SH,7>6>2,1.10.76,70.76,Passed,Taken back early; shifted out at turn; impressive.
+2025-04-10,ST,batch 2,SHA TIN ALL WEATHER TRACK,1200,GOOD,BIG STRIDE,K194,H Bentley,M Newnham,4,,1/2L,3>4>3,1.10.82,70.82,,Dashed along when asked at 200m racing tight.
+2025-04-10,ST,batch 2,SHA TIN ALL WEATHER TRACK,1200,GOOD,GAZELEY,K253,L Hewitson,K W Lui,7,,3/4L,1>1>4,1.10.90,70.9,,Led early; not fully tested.
+2025-04-10,ST,batch 2,SHA TIN ALL WEATHER TRACK,1200,GOOD,FOREVER FOLKS,G463,M L Yeung,C W Chang,2,,2-1/4L,8>8>5,1.11.09,71.09,,Hard ridden to make progress when clear in the Straight.
+2025-04-10,ST,batch 2,SHA TIN ALL WEATHER TRACK,1200,GOOD,QUICK QUICK WIN,K102,J Orman,P C Ng,1,B,4-1/4L,5>7>6,1.11.43,71.43,,Laying-in slightly when under whip late.
+2025-04-10,ST,batch 2,SHA TIN ALL WEATHER TRACK,1200,GOOD,CALIFORNIA SUN,J129,Y L Chung,W K Mo,3,CP/XB,4-1/4L,6>5>7,1.11.45,71.45,,Not quickened when hard ridden at 200m.
+2025-04-10,ST,batch 2,SHA TIN ALL WEATHER TRACK,1200,GOOD,WITHOUT DELAY,K262,B Avdulla,D Eustace,6,SR,7L,4>3>8,1.11.87,71.87,,Weakened halfway; gave ground in the Straight.
+2025-04-10,ST,batch 3,SHA TIN ALL WEATHER TRACK,1200,GOOD,ROBOT KNIGHT,H464,K Teetan,P C Ng,7,,,2>2>1,1.10.46,70.46,,Raced under his own steam in the Straight; kept on to score.
+2025-04-10,ST,batch 3,SHA TIN ALL WEATHER TRACK,1200,GOOD,HAPPY SHOOTER,J427,H Bentley,C S Shum,1,B,1/2L,4>3>2,1.10.55,70.55,,Caught in traffic in the Straight; hit the line strongly when clear late.
+2025-04-10,ST,batch 3,SHA TIN ALL WEATHER TRACK,1200,GOOD,SPICY KNUCKLES,H463,A Hamelin,W K Mo,3,CP,3/4L,1>1>3,1.10.59,70.59,,Urged to lead along the rail; stayed on for 3rd comfortably.
+2025-04-10,ST,batch 3,SHA TIN ALL WEATHER TRACK,1200,GOOD,ARTHUR'S KINGDOM,E194,Y L Chung,Y S Tsui,8,,1L,5>6>4,1.10.62,70.62,Passed,Racing wide throughout; ran on when asked in the Straight.
+2025-04-10,ST,batch 3,SHA TIN ALL WEATHER TRACK,1200,GOOD,KASA PAPA,G312,A Badel,A S Cruz,2,,1L,6>5>5,1.10.64,70.64,,Made progress in between runners; impressive.
+2025-04-10,ST,batch 3,SHA TIN ALL WEATHER TRACK,1200,GOOD,SUPER EAGLE,G408,K De Melo,W Y So,5,,2L,3>4>6,1.10.80,70.8,,Under a hold in the Straight; failed to respond.
+2025-04-10,ST,batch 3,SHA TIN ALL WEATHER TRACK,1200,GOOD,THE PRIME,J352,L Hewitson,J Richards,6,,3-1/4L,7>8>7,1.10.99,70.99,,Not much progress when ridden along in the Straight.
+2025-04-10,ST,batch 3,SHA TIN ALL WEATHER TRACK,1200,GOOD,LINK,J177,M L Yeung,W Y So,4,E,3-1/2L,8>7>8,1.11.03,71.03,,Over-racing early; not racing properly in the Straight.
+2025-04-10,ST,batch 4,SHA TIN ALL WEATHER TRACK,1050,GOOD,MAJESTIC EXPRESS,J244,B Avdulla,J Size,4,E,,1>1>1,1.01.71,61.71,,Jumped well; drew away to score.
+2025-04-10,ST,batch 4,SHA TIN ALL WEATHER TRACK,1050,GOOD,BUNDLE OF CHARM,G213,A Badel,J Size,3,P,1-1/2L,2>2>2,1.01.93,61.93,,On pace for 2nd; stayed on comfortably.
+2025-04-10,ST,batch 4,SHA TIN ALL WEATHER TRACK,1050,GOOD,MEEPMEEP,H234,J Orman,J Size,1,E/PC,1-3/4L,4>3>3,1.01.99,61.99,,Saved ground for 3rd; stayed on comfortably.
+2025-04-10,ST,batch 4,SHA TIN ALL WEATHER TRACK,1050,GOOD,MUST GO,J133,A Atzeni,J Size,2,E/PC,2-3/4L,3>4>4,1.02.15,62.15,,Responded very well when persuaded late.
+2025-04-08,ST,batch 1,SHA TIN TURF,1000,GOOD,LUCKY SWEYNESSE,G180,M F Poon,K L Man,1,,,5>3>1,0.57.95,57.95,,Under restraint and head turned sideways; ran on to score when let go at 200m.
+2025-04-08,ST,batch 1,SHA TIN TURF,1000,GOOD,WINGS OF WAR,H162,H Bowman,D J Whyte,2,B/XB,1-1/4L,4>4>2,0.58.13,58.13,,Ran on well when persuaded at 200m.
+2025-04-08,ST,batch 1,SHA TIN TURF,1000,GOOD,AEROINVINCIBLE,J180,J Orman,P C Ng,8,,1-1/2L,2>1>3,0.58.18,58.18,,Led along the outer rail; stayed on for 3rd comfortably.
+2025-04-08,ST,batch 1,SHA TIN TURF,1000,GOOD,PAKISTAN LEGACY,J363,Z Purton,W Y So,6,CP,1-3/4L,1>2>4,0.58.21,58.21,,Up with the pace; ran on fairly well.
+2025-04-08,ST,batch 1,SHA TIN TURF,1000,GOOD,NEW FUTURE FOLKS,J418,B Thompson,C W Chang,5,H,3-1/4L,6>6>5,0.58.47,58.47,,Ran on fairly well when asked at 200m.
+2025-04-08,ST,batch 1,SHA TIN TURF,1000,GOOD,COLOURFUL KNIGHT,K366,H Bentley,C S Shum,7,,4-1/2L,3>5>6,0.58.65,58.65,,Not quickened when hard ridden.
+2025-04-08,ST,batch 1,SHA TIN TURF,1000,GOOD,NOBLE PURSUIT,H324,L Ferraris,C Fownes,4,,4-1/2L,7>7>7,0.58.67,58.67,,Ran on ordinary when persuaded at 200m.
+2025-04-08,ST,batch 1,SHA TIN TURF,1000,GOOD,KING OF SELECTION,K397,C L Chau,W K Mo,3,,14-3/4L,8>8>8,1.00.31,60.31,Failed,Slightly slow to begin; found nothing when asked late.
+2025-04-08,ST,batch 10,SHA TIN ALL WEATHER TRACK,1200,GOOD,PRESTIGE HALL,K040,H Bowman,D J Hall,6,,,1>1>1,1.10.29,70.29,,Good early speed; drew away to score.
+2025-04-08,ST,batch 10,SHA TIN ALL WEATHER TRACK,1200,GOOD,GALLANT REX,K243,B Avdulla,D A Hayes,2,,5-3/4L,5>5>2,1.11.21,71.21,,Average to begin; over-racing early; hard ridden for 2nd when clear in the Straight.
+2025-04-08,ST,batch 10,SHA TIN ALL WEATHER TRACK,1200,GOOD,COLOURFUL BARON,G301,J Orman,D J Whyte,5,B,7-3/4L,2>2>3,1.11.53,71.53,Passed,Saved ground for 3rd; ran on fairly well.
+2025-04-08,ST,batch 10,SHA TIN ALL WEATHER TRACK,1200,GOOD,SMART BEAUTY,G477,A Badel,A S Cruz,1,B/H,8-3/4L,4>4>4,1.11.68,71.68,,Came from behind for 4th when shifted out gradually late.
+2025-04-08,ST,batch 10,SHA TIN ALL WEATHER TRACK,1200,GOOD,BULLISH PRIDE,K181,Y L Chung,A S Cruz,3,H,9L,3>3>5,1.11.71,71.71,,Average to begin; limited response when asked at 200m.
+2025-04-08,ST,batch 10,SHA TIN ALL WEATHER TRACK,1200,GOOD,DRALA,J376,A Atzeni,P F Yiu,4,H,11-1/2L,6>6>6,1.12.11,72.11,,Last to begin; never in contention.
+2025-04-08,ST,batch 11,SHA TIN ALL WEATHER TRACK,1050,GOOD,WARRIORS DREAM,K255,K Teetan,D Eustace,2,H/P/XB,,2>1>1,1.01.59,61.59,,Urged to lead along the rail; kept on to score.
+2025-04-08,ST,batch 11,SHA TIN ALL WEATHER TRACK,1050,GOOD,SZERYNG,K317,B Avdulla,J Size,1,,2-1/4L,4>3>2,1.01.94,61.94,Passed,Raced keenly at turn; made progress saving ground.
+2025-04-08,ST,batch 11,SHA TIN ALL WEATHER TRACK,1050,GOOD,BEAUTY FORMULA,K066,Y L Chung,A S Cruz,4,CP,6L,1>2>3,1.02.53,62.53,Passed,Shared lead early; struggled for 3rd.
+2025-04-08,ST,batch 11,SHA TIN ALL WEATHER TRACK,1050,GOOD,GASTRONOMIQUE,K388,H Bowman,J Size,3,,10L,3>4>4,1.03.18,63.18,Passed,Ran on ordinary when shifted out at turn.
+2025-04-08,ST,batch 2,SHA TIN TURF,1000,GOOD,TOP DRAGON,J481,M L Yeung,W Y So,5,,,9>7>1,0.57.98,57.98,Passed,Made progress in between runners when let go at 200m.
+2025-04-08,ST,batch 2,SHA TIN TURF,1000,GOOD,SKY HEART,J092,H Bowman,C Fownes,2,V,3/4L,5>5>2,0.58.13,58.13,Passed,Under a hold for 2nd; stayed on well.
+2025-04-08,ST,batch 2,SHA TIN TURF,1000,GOOD,PERFECTDAY,K238,K De Melo,W Y So,9,,1-3/4L,2>8>3,0.58.28,58.28,,Ridden conservatively early; came from behind for 3rd when hard ridden at 200m.
+2025-04-08,ST,batch 2,SHA TIN TURF,1000,GOOD,HANDSOME BLOND,K241,K Teetan,C H Yip,1,SR,2-1/2L,7>6>4,0.58.40,58.4,Passed,Average to begin; responded fairly well when persuaded at 200m.
+2025-04-08,ST,batch 2,SHA TIN TURF,1000,GOOD,BROWNNEEDSFURTHER,K325,B Avdulla,D J Hall,10,,3L,1>3>5,0.58.45,58.45,,Under a hold along the outer rail; stayed on comfortably.
+2025-04-08,ST,batch 2,SHA TIN TURF,1000,GOOD,DRAGON HALL,K345,J Orman,D J Hall,7,,3L,3>1>6,0.58.46,58.46,,Hit the front momentarily; under a hold late.
+2025-04-08,ST,batch 2,SHA TIN TURF,1000,GOOD,CALL ME TOPSEED,K357,M F Poon,K L Man,3,B,3-1/4L,4>4>7,0.58.50,58.5,Passed,Up with the pace; limited response late.
+2025-04-08,ST,batch 2,SHA TIN TURF,1000,GOOD,SUPREME MASTERMIND,K387,Z Purton,D A Hayes,4,,3-1/2L,10>9>8,0.58.55,58.55,Passed,Last to begin; gradually shifted out behind runners.
+2025-04-08,ST,batch 2,SHA TIN TURF,1000,GOOD,STRAIGHT TO GLORY,K340,K C Leung,T P Yung,8,,3-1/2L,6>2>9,0.58.56,58.56,,Crowded on jumping; failed to respond when under whip late.
+2025-04-08,ST,batch 2,SHA TIN TURF,1000,GOOD,RADIANT SWIFT,J425,C L Chau,T P Yung,6,B,6-1/2L,8>10>10,0.59.01,59.01,Passed,Brushed on jumping; weakened and gave ground when under whip at 300m.
+2025-04-08,ST,batch 3,SHA TIN TURF,1000,GOOD,AUTUMN DELIGHT,J090,L Ferraris,C Fownes,10,,,2>1>1,0.58.22,58.22,,Always in touch; ran on nicely.
+2025-04-08,ST,batch 3,SHA TIN TURF,1000,GOOD,NEW ASIA GREAT,J412,K H Tsang,D A Hayes,8,,3/4L,9>6>2,0.58.33,58.33,,Last to begin; made progress along the outer rail when under whip at 200m.
+2025-04-08,ST,batch 3,SHA TIN TURF,1000,GOOD,COPARTNER FLEET,K342,Z Purton,K W Lui,4,,1-1/2L,5>5>3,0.58.46,58.46,,Looking for cover early; hit the line strongly when clear at 200m.
+2025-04-08,ST,batch 3,SHA TIN TURF,1000,GOOD,IRON LEGION,J459,Y L Chung,A S Cruz,9,B,2-1/2L,1>2>4,0.58.63,58.63,,Led early; kept on for 4th; ran on evenly.
+2025-04-08,ST,batch 3,SHA TIN TURF,1000,GOOD,TOP TO SKY,K339,K Teetan,C H Yip,6,,3L,6>7>5,0.58.68,58.68,,Responded fairly well when asked at 200m.
+2025-04-08,ST,batch 3,SHA TIN TURF,1000,GOOD,ANODE,K367,H Bowman,C S Shum,1,,3-1/4L,10>9>6,0.58.74,58.74,,Shifted to the centre track behind runners at 600m.
+2025-04-08,ST,batch 3,SHA TIN TURF,1000,GOOD,JUSTIFY YOURSELF,J386,K C Leung,W K Mo,2,CP,7-3/4L,8>10>7,0.59.47,59.47,Passed,Ridden along early; unimpressive.
+2025-04-08,ST,batch 3,SHA TIN TURF,1000,GOOD,JUST FOLLOW ME,K332,C L Chau,T P Yung,7,B,8-1/4L,7>8>8,0.59.53,59.53,Passed,Slightly slow to begin; shifted to the inside at 300m; made minor progress thereafter.
+2025-04-08,ST,batch 3,SHA TIN TURF,1000,GOOD,DIVINE LUNA,J473,L Hewitson,C Fownes,3,P,10-1/2L,4>4>9,0.59.90,59.9,Failed,Weakened halfway; gave ground thereafter.
+2025-04-08,ST,batch 3,SHA TIN TURF,1000,GOOD,BULLION BLITZ,K304,J Orman,D J Whyte,5,B/XB,16-1/2L,3>3>10,1.00.85,60.85,Passed,Weakened and gave ground abruptly at 400m.
+2025-04-08,ST,batch 4,SHA TIN TURF,1000,GOOD,HAKKA RADIANCE,J105,Y T Leung,C S Shum,10,B,,2>1>1,0.58.27,58.27,,Hit the front at 600m; stayed on well to score.
+2025-04-08,ST,batch 4,SHA TIN TURF,1000,GOOD,TAIHANG SCENERY,J314,H Bentley,C S Shum,6,,1-3/4L,6>4>2,0.58.54,58.54,,Made progress steadily; hard ridden for 2nd.
+2025-04-08,ST,batch 4,SHA TIN TURF,1000,GOOD,DIRIYA,K282,Z Purton,C H Yip,4,,1-3/4L,5>5>3,0.58.56,58.56,,Persuaded for 3rd; improving.
+2025-04-08,ST,batch 4,SHA TIN TURF,1000,GOOD,BRILLIANT FIRE,J441,K Teetan,D J Whyte,9,H/CP/XB,1-3/4L,3>3>4,0.58.57,58.57,,Not much progress when ridden along.
+2025-04-08,ST,batch 4,SHA TIN TURF,1000,GOOD,NUCLEOZOR,K285,H Bowman,C S Shum,1,,2-3/4L,7>8>5,0.58.70,58.7,,Under a hold throughout; stayed on strongly.
+2025-04-08,ST,batch 4,SHA TIN TURF,1000,GOOD,HERO SPARK,K221,M F Poon,K L Man,3,,3L,9>9>6,0.58.76,58.76,,Shifted out at 300m; made progress under whip.
+2025-04-08,ST,batch 4,SHA TIN TURF,1000,GOOD,DOUBLE SHOW,G250,Q Y Ng,D J Whyte,7,B,3L,4>6>7,0.58.77,58.77,,Not much progress when asked at 200m.
+2025-04-08,ST,batch 4,SHA TIN TURF,1000,GOOD,DRAGON STAR,H128,Y L Chung,Y S Tsui,5,B/XB,4L,8>7>8,0.58.92,58.92,,Under restraint throughout; not tested.
+2025-04-08,ST,batch 4,SHA TIN TURF,1000,GOOD,RACINGRACE,J102,J Orman,D J Hall,8,XB,5L,1>2>9,0.59.09,59.09,,Led early; limited response late.
+2025-04-08,ST,batch 4,SHA TIN TURF,1000,GOOD,ZHOU GONGJIN,K337,C L Chau,T P Yung,2,,11-3/4L,10>10>10,1.00.15,60.15,Failed,Not willing to stretch when hard ridden.
+2025-04-08,ST,batch 5,SHA TIN TURF,800,GOOD,FLOWING RICHES,K293,M L Yeung,K H Ting,5,,,4>2>1,0.46.04,46.04,Passed,Slightly slow to begin; ran on comfortably to score when shifted out at 300m.
+2025-04-08,ST,batch 5,SHA TIN TURF,800,GOOD,METRO POWER,K408,L Hewitson,D A Hayes,3,,1/2L,1>3>2,0.46.15,46.15,Passed,Under a hold for 2nd; ran on nicely.
+2025-04-08,ST,batch 5,SHA TIN TURF,800,GOOD,CELESTIAL HERO,K363,J Orman,D J Whyte,1,,1-1/2L,5>5>3,0.46.27,46.27,Passed,Stretching out strongly when persuaded at 200m.
+2025-04-08,ST,batch 5,SHA TIN TURF,800,GOOD,WINNING CIGAR,K422,Z Purton,D A Hayes,6,,2L,3>1>4,0.46.35,46.35,Passed,Slightly slow to begin; led thereafter; under a hold late.
+2025-04-08,ST,batch 5,SHA TIN TURF,800,GOOD,WINNING DATA,H230,M F Poon,P F Yiu,4,,3L,2>4>5,0.46.53,46.53,,Ran on ordinary; unimpressive.
+2025-04-08,ST,batch 5,SHA TIN TURF,800,GOOD,ACE CHAMPION,K379,K C Leung,P C Ng,2,,5L,6>6>6,0.46.84,46.84,Passed,Average to begin; shifted out gradually at 400m; unimpressive.
+2025-04-08,ST,batch 6,SHA TIN TURF,800,GOOD,JUICY DRAGON,K405,M F Poon,K L Man,2,,,3>2>1,0.46.47,46.47,Passed,Made progress steadily to score.
+2025-04-08,ST,batch 6,SHA TIN TURF,800,GOOD,WOOD ON FIRE,C460,M L Yeung,C W Chang,6,H,SH,1>3>2,0.46.49,46.49,,Came from behind for 2nd; veteran in good condition.
+2025-04-08,ST,batch 6,SHA TIN TURF,800,GOOD,LA MOMENTO,J476,Y L Chung,A S Cruz,5,H,1L,2>1>3,0.46.62,46.62,,Hard ridden for 3rd; ran on fairly.
+2025-04-08,ST,batch 6,SHA TIN TURF,800,GOOD,CONCORDE STAR,J344,K Teetan,Y S Tsui,4,,2-3/4L,5>5>4,0.46.92,46.92,Passed,Under restraint at 200m; impressive.
+2025-04-08,ST,batch 6,SHA TIN TURF,800,GOOD,REFUSETOBEENGLISH,K362,J Orman,P C Ng,1,,3-1/2L,6>6>5,0.47.01,47.01,Passed,Under restraint and stayed on comfortably.
+2025-04-08,ST,batch 6,SHA TIN TURF,800,GOOD,SMILING ONE,K336,H Bentley,K H Ting,3,,6-3/4L,4>4>6,0.47.54,47.54,Passed,Found nothing when asked at 200m.
+2025-04-08,ST,batch 7,SHA TIN TURF,1600,GOOD,VOYAGE BUBBLE,E436,M F Poon,P F Yiu,7,,,2>2>2>1,1.36.68,96.68,,Ran on well at 200m to score; in good condition.
+2025-04-08,ST,batch 7,SHA TIN TURF,1600,GOOD,AWESOME FLUKE,J050,A Atzeni,P F Yiu,6,P,1-1/4L,1>1>1>2,1.36.89,96.89,,Led early; stayed on comfortably.
+2025-04-08,ST,batch 7,SHA TIN TURF,1600,GOOD,POPE CODY,K313,J Orman,Y S Tsui,4,,3-3/4L,4>3>3>3,1.37.30,97.3,,On pace in 3rd position; stayed on when asked at 200m.
+2025-04-08,ST,batch 7,SHA TIN TURF,1600,GOOD,CALIFORNIATOTALITY,H418,A Badel,A S Cruz,5,B,4L,3>4>4>4,1.37.31,97.31,,Under a hold in the Straight; stayed on comfortably.
+2025-04-08,ST,batch 7,SHA TIN TURF,1600,GOOD,PRESTIGE RICKY,K009,A Hamelin,P F Yiu,1,,4L,5>5>6>5,1.37.34,97.34,,Over-racing at 1000m; held ground when hard ridden at 200m.
+2025-04-08,ST,batch 7,SHA TIN TURF,1600,GOOD,NAVAL FORCE,K158,Z Purton,P C Ng,2,PC,4-3/4L,7>7>7>6,1.37.45,97.45,,Ran on ordinary; unimpressive.
+2025-04-08,ST,batch 7,SHA TIN TURF,1600,GOOD,FIVE G PATCH,G286,B Avdulla,A S Cruz,3,,5-3/4L,6>6>5>7,1.37.60,97.6,,Not back in condition when hard ridden.
+2025-04-08,ST,batch 8,SHA TIN TURF,1600,GOOD,SILVER UP,J078,M Chadwick,C W Chang,3,B,,4>4>4>1,1.37.41,97.41,,Four wide at turn; ran on to score when hard ridden at 200m.
+2025-04-08,ST,batch 8,SHA TIN TURF,1600,GOOD,BRAVEHEARTS,H389,M F Poon,M Newnham,9,,SH,10>9>8>2,1.37.43,97.43,,Taken back early; made progress under a hold when clear at 200m.
+2025-04-08,ST,batch 8,SHA TIN TURF,1600,GOOD,MIDORI GIANT,K095,H Bowman,M Newnham,6,B,1-1/4L,8>7>7>3,1.37.62,97.62,,Dashed on under his own steam when shifted racing ground at 200m.
+2025-04-08,ST,batch 8,SHA TIN TURF,1600,GOOD,SMART TRIO,J538,M L Yeung,C W Chang,7,B,1-1/2L,2>1>1>4,1.37.67,97.67,,Led from middle gate; kept on evenly when asked at 200m.
+2025-04-08,ST,batch 8,SHA TIN TURF,1600,GOOD,BUCEPHALAS,K096,C L Chau,W K Mo,10,,2L,1>2>2>5,1.37.72,97.72,,On pace without cover; ran on when asked late.
+2025-04-08,ST,batch 8,SHA TIN TURF,1600,GOOD,BLUE BARON,J448,K C Leung,W K Mo,5,XB,3-1/2L,6>5>5>6,1.37.97,97.97,,Shifted out at turn; limited response when under whip at 300m.
+2025-04-08,ST,batch 8,SHA TIN TURF,1600,GOOD,BEAUTY LIVE,G057,Y L Chung,F C Lor,4,,3-1/2L,5>6>6>7,1.37.97,97.97,,Caught in traffic at 200m; not fully tested.
+2025-04-08,ST,batch 8,SHA TIN TURF,1600,GOOD,GO GO GO,H196,J Orman,W Y So,1,PC,4-1/4L,3>3>3>8,1.38.11,98.11,,Up with the pace; weakened in the Straight.
+2025-04-08,ST,batch 8,SHA TIN TURF,1600,GOOD,ROMANTIC FANTASY,H168,A Badel,J Richards,8,B,4-1/2L,9>10>10>9,1.38.13,98.13,Passed,Made minor inroads late; ran on fairly.
+2025-04-08,ST,batch 8,SHA TIN TURF,1600,GOOD,IRON FIGHTER,J497,A Hamelin,K H Ting,2,,7L,7>8>9>10,1.38.54,98.54,,Average to begin; failed to respond when asked at turn.
+2025-04-08,ST,batch 9,SHA TIN ALL WEATHER TRACK,1200,GOOD,JOLLY COMPANION,H454,M F Poon,K L Man,4,CP,,1>1>1,1.09.77,69.77,,Led early; kept on strongly to score.
+2025-04-08,ST,batch 9,SHA TIN ALL WEATHER TRACK,1200,GOOD,SHINYU KOKOROE,K263,B Thompson,D A Hayes,6,P,1/2L,2>2>2,1.09.86,69.86,Passed,On pace and one-off; always in touch.
+2025-04-08,ST,batch 9,SHA TIN ALL WEATHER TRACK,1200,GOOD,SUPER EXPRESS,K245,B Avdulla,J Size,5,,1L,3>3>3,1.09.92,69.92,,Racing wide throughout; ran on for 3rd comfortably.
+2025-04-08,ST,batch 9,SHA TIN ALL WEATHER TRACK,1200,GOOD,CALIFORNIA STAR,J123,Y L Chung,A S Cruz,1,B,1-1/2L,6>6>4,1.10.00,70.0,,At rear early; quickened when asked at 200m.
+2025-04-08,ST,batch 9,SHA TIN ALL WEATHER TRACK,1200,GOOD,DREAMING WINNER,K046,A Atzeni,F C Lor,2,H,1-3/4L,4>4>5,1.10.04,70.04,,Responded fairly well when hard ridden at 200m.
+2025-04-08,ST,batch 9,SHA TIN ALL WEATHER TRACK,1200,GOOD,WUKONG JEWELLERY,K314,H Bowman,J Size,3,,12L,5>5>6,1.11.70,71.7,,Not willing to stretch when asked in the Straight.
+2025-04-07,CH,batch 1,CONGHUA TURF,1000,GOOD,INVINCIBLE SAGE,H301,P N Wong,D J Hall,6,,,3>1>1,0.58.15,58.15,,Hit the front halfway; stayed on well.
+2025-04-07,CH,batch 1,CONGHUA TURF,1000,GOOD,YOUNG SUPERSTAR,J400,C L Chau,A S Cruz,3,,Neck,1>4>2,0.58.21,58.21,,Led early; always in touch.
+2025-04-07,CH,batch 1,CONGHUA TURF,1000,GOOD,CELESTIAL COLOURS,H362,K De Melo,J Richards,4,,1/2L,2>2>3,0.58.24,58.24,,Jumped awkwardly; on pace without cover thereafter; kept on to the line.
+2025-04-07,CH,batch 1,CONGHUA TURF,1000,GOOD,YOUNG CHAMPION,J195,Y Salim,J Size,5,B/E,1L,6>3>4,0.58.33,58.33,,Slightly slow to begin; stayed on comfortably.
+2025-04-07,CH,batch 1,CONGHUA TURF,1000,GOOD,SYMBOL OF STRENGTH,K352,Z Zuriman,F C Lor,2,,4-1/4L,4>5>5,0.58.85,58.85,,Slightly slow to begin; ran on fairly when persuaded.
+2025-04-07,CH,batch 1,CONGHUA TURF,1000,GOOD,KA YING GENERATION,J075,M L Yeung,P C Ng,7,P,5L,7>6>6,0.58.95,58.95,Failed,Average to begin; raced under his own steam.
+2025-04-07,CH,batch 1,CONGHUA TURF,1000,GOOD,SUPREME AGILITY,J267,M F Poon,P C Ng,1,,5-1/4L,5>7>7,0.58.99,58.99,,No early speed; made minor inroads near the line.
+2025-04-07,CH,batch 2,CONGHUA TURF,1000,GOOD,MR ENERGIA,J239,P N Wong,D J Hall,6,B,,4>3>1,0.58.27,58.27,Passed,Made progress steadily; responded well.
+2025-04-07,CH,batch 2,CONGHUA TURF,1000,GOOD,VICTORY MOMENTS,H142,M L Yeung,F C Lor,1,,1/2L,2>1>2,0.58.35,58.35,,Settled along the rail; always in touch.
+2025-04-07,CH,batch 2,CONGHUA TURF,1000,GOOD,GREAT LEGACY,K187,M F Poon,D J Hall,2,XB,4-1/4L,1>2>3,0.58.97,58.97,,Led from middle gate; weakened late.
+2025-04-07,CH,batch 2,CONGHUA TURF,1000,GOOD,GENTLEMEN LEGACY,K385,C L Chau,A S Cruz,4,,4-3/4L,5>7>4,0.59.03,59.03,,At rear early; ran on fairly well when ridden along.
+2025-04-07,CH,batch 2,CONGHUA TURF,1000,GOOD,MASTEROFMYUNIVERSE,J325,C M Thabana,J Size,3,,4-3/4L,6>5>5,0.59.04,59.04,,Stretching out nicely; stayed on well.
+2025-04-07,CH,batch 2,CONGHUA TURF,1000,GOOD,ENDEARED,H161,R Thomas,J Size,5,XB,5L,7>6>6,0.59.07,59.07,,Taken back early; not tested.
+2025-04-07,CH,batch 2,CONGHUA TURF,1000,GOOD,SIR CHARGE,K361,S Mutaza,D Eustace,7,H/XB,6-1/4L,3>4>7,0.59.29,59.29,Passed,Jumped badly; difficult to settled; unimpressive.
+2025-04-07,CH,batch 3,CONGHUA TURF,1000,GOOD,CALIFORNIA BAY,K364,K De Melo,A S Cruz,5,,,5>2>1,0.57.74,57.74,,Hit the front halfway; stayed on well.
+2025-04-07,CH,batch 3,CONGHUA TURF,1000,GOOD,FORTUNE WHISKEY,J153,M F Poon,D Eustace,1,,2L,2>3>2,0.58.05,58.05,,In 2nd/3rd position; ran on fairly well.
+2025-04-07,CH,batch 3,CONGHUA TURF,1000,GOOD,GOLDENTRONICMIGHTY,K002,M L Yeung,J Richards,3,,2-1/2L,3>4>3,0.58.15,58.15,,Ran on one-pace; kept on evenly.
+2025-04-07,CH,batch 3,CONGHUA TURF,1000,GOOD,SPIRIT OF PEACE,K007,R Thomas,J Size,6,,5-3/4L,6>5>4,0.58.65,58.65,Failed,Tardy start; raced under his own steam when recovered.
+2025-04-07,CH,batch 3,CONGHUA TURF,1000,GOOD,BRIGHT MORTAR,K333,C L Chau,P C Ng,4,,6-1/4L,4>6>5,0.58.73,58.73,Passed,Raced worse than midfield; just to stretch out.
+2025-04-07,CH,batch 3,CONGHUA TURF,1000,GOOD,MIRACLE FIGHTER,K182,C M Thabana,P F Yiu,2,B,6-1/4L,1>1>6,0.58.76,58.76,,Led early; weakened late.
+2025-04-07,CH,batch 4,CONGHUA TURF,1000,GOOD,ICONICAL,J504,Z Zuriman,J Richards,3,,,1>1>1,0.58.03,58.03,,Stretching out nicely; led all the way to score.
+2025-04-07,CH,batch 4,CONGHUA TURF,1000,GOOD,RIDING HIGH,J403,Y Salim,A S Cruz,6,B,3/4L,2>3>2,0.58.15,58.15,Passed,Average to begin; kept on when given reminders.
+2025-04-07,CH,batch 4,CONGHUA TURF,1000,GOOD,MEDIC ELITE,G129,M L Yeung,P C Ng,2,PC,1-3/4L,6>5>3,0.58.32,58.32,,Made steady progress when hard ridden.
+2025-04-07,CH,batch 4,CONGHUA TURF,1000,GOOD,TOURBILLON GOLFER,K320,M F Poon,P F Yiu,5,,2L,3>4>4,0.58.35,58.35,,Ran on fairly when ridden along passing halfway.
+2025-04-07,CH,batch 4,CONGHUA TURF,1000,GOOD,CONRAD THE GREAT,K217,K De Melo,D J Whyte,1,P/H,2-1/2L,5>2>5,0.58.44,58.44,,Slightly slow to begin; ran on fairly when persuaded.
+2025-04-07,CH,batch 4,CONGHUA TURF,1000,GOOD,LIGHTNING ARROW,K360,C L Chau,P C Ng,4,,9-1/4L,4>6>6,0.59.52,59.52,Passed,Being detached at 300m; ran on ordinary.
+2025-04-07,CH,batch 5,CONGHUA TURF,800,GOOD,WUNDERBAR,H411,Z Zuriman,J Size,2,,,2>3>1,0.46.70,46.7,,Bounded on jumping; ran on to score cozily when recovered.
+2025-04-07,CH,batch 5,CONGHUA TURF,800,GOOD,KA YING CHEER,H369,M L Yeung,P C Ng,3,,1/2L,3>2>2,0.46.77,46.77,,Ran on fairly well after a spell.
+2025-04-07,CH,batch 5,CONGHUA TURF,800,GOOD,TELL ME MORE,K019,M F Poon,P C Ng,4,,1-1/2L,4>4>3,0.46.93,46.93,Passed,Ran on fairly in his first trial after bleeding.
+2025-04-07,CH,batch 5,CONGHUA TURF,800,GOOD,BITS SUPERSTAR,J362,C L Chau,P C Ng,1,,1-3/4L,1>1>4,0.46.98,46.98,,First to begin; under a hold thereafter.
+2025-04-07,CH,batch 6,CONGHUA TURF,800,GOOD,QUICK MONEY,K377,C L Chau,C H Yip,2,,,4>3>1,0.46.54,46.54,Passed,Responded fairly well when ridden along halfway.
+2025-04-07,CH,batch 6,CONGHUA TURF,800,GOOD,ABSOLUTE AWAKENED,K039,M F Poon,F C Lor,4,,SH,1>1>2,0.46.54,46.54,Passed,Good early speed; stayed on fairly well.
+2025-04-07,CH,batch 6,CONGHUA TURF,800,GOOD,GO GENERAL,H330,C M Thabana,C H Yip,5,CP,1-3/4L,2>2>3,0.46.81,46.81,Failed,Bounded in the stall; moved better than before when ridden along.
+2025-04-07,CH,batch 6,CONGHUA TURF,800,GOOD,SHINING POWER,K185,Z Zuriman,J Size,1,,4L,5>4>4,0.47.19,47.19,,Difficult to load; ran on fairly well.
+2025-04-07,CH,batch 6,CONGHUA TURF,800,GOOD,ROMANTIC PARTY,K372,M Kellady,P F Yiu,3,,8L,3>5>5,0.47.80,47.8,Passed,Being detached at 300m; ran on ordinary.
+2025-04-03,ST,batch 1,CONGHUA ALL WEATHER TRACK,1200,GOOD,MUGEN,H338,E C W Wong,P C Ng,5,,,5>5>1,1.10.24,70.24,,Taken back early; came from behind to score impressively.
+2025-04-03,ST,batch 1,CONGHUA ALL WEATHER TRACK,1200,GOOD,LUCKY COMBINATION,J512,Z Zuriman,F C Lor,2,V/XB,Neck,1>1>2,1.10.29,70.29,,Led early; stayed on well when given reminders.
+2025-04-03,ST,batch 1,CONGHUA ALL WEATHER TRACK,1200,GOOD,POSITIVE SMILE,J467,M Kellady,D A Hayes,3,CP,4-1/2L,2>2>3,1.10.95,70.95,,Ran on fairly when hard ridden.
+2025-04-03,ST,batch 1,CONGHUA ALL WEATHER TRACK,1200,GOOD,DREAM WINNER,H308,R Thomas,F C Lor,4,CP,6-3/4L,4>4>4,1.11.32,71.32,,Limited response when persuaded.
+2025-04-03,ST,batch 1,SHA TIN ALL WEATHER TRACK,1200,GOOD,TAJ DRAGON,H164,Z Purton,P C Ng,6,,,2>3>1,1.11.67,71.67,,Ran on to score when let go at 200m.
+2025-04-03,ST,batch 1,SHA TIN ALL WEATHER TRACK,1200,GOOD,BEAUTY WAVES,H294,A Badel,P C Ng,4,E/P,1/2L,3>1>2,1.11.75,71.75,,Hit the front at 800m; raced under his own steam in the Straight.
+2025-04-03,ST,batch 1,SHA TIN ALL WEATHER TRACK,1200,GOOD,HONG LOK GOLF,J517,H Bentley,W Y So,5,,1-3/4L,1>2>3,1.11.94,71.94,,Saved ground and under a hold throughout.
+2025-04-03,ST,batch 1,SHA TIN ALL WEATHER TRACK,1200,GOOD,ALL ROUND WINNER,K382,K Teetan,D A Hayes,2,,2L,5>6>4,1.11.99,71.99,,Over-racing at 1000m; ran on evenly when persuaded at 200m.
+2025-04-03,ST,batch 1,SHA TIN ALL WEATHER TRACK,1200,GOOD,EMBRACES,J276,M F Poon,W K Mo,3,,2-1/4L,6>5>5,1.12.03,72.03,,Under restraint early; shifted out at turn; under a hold thereafter.
+2025-04-03,ST,batch 1,SHA TIN ALL WEATHER TRACK,1200,GOOD,MAJESTIC DELIGHT,K189,L Ferraris,D Eustace,1,H,4-3/4L,4>4>6,1.12.45,72.45,,Over-racing early; limited response in the Straight.
+2025-04-03,ST,batch 1,CONGHUA ALL WEATHER TRACK,1200,GOOD,NOBLE DELUXE,K052,C M Thabana,J Size,1,,19-1/4L,3>3>5,1.13.33,73.33,,Gave ground abruptly at 200m; ran on ordinary.
+2025-04-03,ST,batch 2,CONGHUA ALL WEATHER TRACK,1200,GOOD,NIGHT PUROSANGUE,J510,R Thomas,D A Hayes,4,CP,,4>4>1,1.10.90,70.9,,Made progress when clear early Straight; in good condition.
+2025-04-03,ST,batch 2,CONGHUA ALL WEATHER TRACK,1200,GOOD,ALWAYS FLUKE,H252,C M Thabana,W Y So,3,,1-3/4L,2>2>2,1.11.16,71.16,,Tardy start; on pace thereafter; ran on fairly well.
+2025-04-03,ST,batch 2,CONGHUA ALL WEATHER TRACK,1200,GOOD,ACE TALENT,H046,S H Wang,C Fownes,1,,1-3/4L,1>1>3,1.11.17,71.17,,Led early; hung out at turn; kept on evenly thereafter.
+2025-04-03,ST,batch 2,CONGHUA ALL WEATHER TRACK,1200,GOOD,MUSANG KING,K068,Z Zuriman,F C Lor,2,B,1-3/4L,3>3>4,1.11.17,71.17,,Ran on along the rail; not beaten far.
+2025-04-03,ST,batch 2,CONGHUA ALL WEATHER TRACK,1200,GOOD,MR ALADDIN,H386,E C W Wong,P C Ng,5,PC/H,5-3/4L,5>5>5,1.11.82,71.82,Passed,Not much progress when ridden along.
+2025-04-03,ST,batch 2,SHA TIN ALL WEATHER TRACK,1200,GOOD,ENTHRALLED,K252,B Avdulla,J Size,6,,,4>3>1,1.12.11,72.11,,Hit the front at 200m; won with plenty in hand.
+2025-04-03,ST,batch 2,SHA TIN ALL WEATHER TRACK,1200,GOOD,GOLDEN FRIENDSHIP,K106,L Ferraris,K H Ting,4,CP,SH,6>7>2,1.12.14,72.14,,Ran on well for 2nd when clear at 300m.
+2025-04-03,ST,batch 2,SHA TIN ALL WEATHER TRACK,1200,GOOD,PACKING TURBINE,J470,Z Purton,P C Ng,5,,3/4L,1>1>3,1.12.22,72.22,,Led from middle gate; ran on comfortably for 3rd.
+2025-04-03,ST,batch 2,SHA TIN ALL WEATHER TRACK,1200,GOOD,TIME TO FIRE,K117,H Bowman,D J Hall,7,,2L,7>6>4,1.12.45,72.45,Passed,Ran on well when hard ridden at 200m.
+2025-04-03,ST,batch 2,SHA TIN ALL WEATHER TRACK,1200,GOOD,KNOW AT HEART,K108,K Teetan,W Y So,3,,3L,3>4>5,1.12.61,72.61,,Over-racing at 800m; ridden conservatively in the Straight.
+2025-04-03,ST,batch 2,SHA TIN ALL WEATHER TRACK,1200,GOOD,GANGNAM STAR,H326,A Atzeni,P C Ng,1,,5-1/2L,5>5>6,1.13.00,73.0,,Not much progress when hard ridden.
+2025-04-03,ST,batch 2,SHA TIN ALL WEATHER TRACK,1200,GOOD,GALLANT GOODY,H434,M F Poon,D J Hall,8,,6L,8>8>7,1.13.07,73.07,,Made minor inroads when persuaded at 200m.
+2025-04-03,ST,batch 2,SHA TIN ALL WEATHER TRACK,1200,GOOD,KING ALLOY,K099,H Bentley,K H Ting,2,,8L,2>2>8,1.13.37,73.37,,Led early; weakened badly in the Straight.
+2025-04-03,ST,batch 3,SHA TIN ALL WEATHER TRACK,1050,GOOD,PARENTS' LOVE,H405,Y L Chung,A S Cruz,2,H,,1>1>1,1.00.97,60.97,,Drew away to score; in good condition.
+2025-04-03,ST,batch 3,SHA TIN ALL WEATHER TRACK,1050,GOOD,SPARKLING FELLOW,K175,B Avdulla,D J Hall,1,B,2L,2>2>2,1.01.31,61.31,Passed,Under a hold for 2nd; ran on nicely.
+2025-04-03,ST,batch 3,SHA TIN ALL WEATHER TRACK,1050,GOOD,VICTOR THE WINNER,G404,A Atzeni,D Eustace,4,V,2-1/2L,3>3>3,1.01.38,61.38,,Hard ridden for 3rd; not as good as before.
+2025-04-03,ST,batch 3,SHA TIN ALL WEATHER TRACK,1050,GOOD,KIAMA,K359,B Thompson,J Size,3,,10L,4>4>4,1.02.56,62.56,Passed,Under a hold in the Straight; needs time.
+2025-04-03,ST,batch 3,SHA TIN ALL WEATHER TRACK,1050,GOOD,WIN BEAUTY VIVA,K368,K Teetan,J Size,5,,14L,5>5>5,1.03.22,63.22,Failed,Tailed off; failed to respond.
+2025-04-01,ST,batch 1,SHA TIN ALL WEATHER TRACK,1200,GOOD,GUSTOSISIMO,J303,B Avdulla,A S Cruz,3,,,1>1>1,1.11.58,71.58,,Urged to lead along the rail; kept on to score.
+2025-04-01,ST,batch 1,SHA TIN ALL WEATHER TRACK,1200,GOOD,PATCH OF THETA,H485,H Bowman,K W Lui,6,XB,3/4L,7>7>2,1.11.71,71.71,,Under restraint early; raced under his own steam in the Straight.
+2025-04-01,ST,batch 1,SHA TIN ALL WEATHER TRACK,1200,GOOD,ACE,K307,J Orman,J Richards,2,,2L,4>3>3,1.11.89,71.89,,Ran on nicely; stayed on for 3rd.
+2025-04-01,ST,batch 1,SHA TIN ALL WEATHER TRACK,1200,GOOD,ARIEL,G223,P N Wong,D A Hayes,10,B,2-1/2L,10>10>4,1.11.99,71.99,Passed,Racing wide throughout; ran on well when asked at 200m.
+2025-04-01,ST,batch 1,SHA TIN ALL WEATHER TRACK,1200,GOOD,VOYAGE BOSS,K321,K C Leung,F C Lor,1,,4-3/4L,6>5>5,1.12.34,72.34,,Average to begin; hard ridden to make progress when shifted racing ground at 200m.
+2025-04-01,ST,batch 1,SHA TIN ALL WEATHER TRACK,1200,GOOD,POWER KOEPP,E301,A Badel,M Newnham,7,,5-1/2L,5>6>6,1.12.46,72.46,,Under a hold and 5th/6th wide throughout.
+2025-04-01,ST,batch 1,SHA TIN ALL WEATHER TRACK,1200,GOOD,KA YING ATTACK,J391,M F Poon,D J Hall,5,,6-1/4L,2>4>7,1.12.60,72.6,,Up with the pace; not fully tested in the Straight.
+2025-04-01,ST,batch 1,SHA TIN ALL WEATHER TRACK,1200,GOOD,PRESTIGE ALWAYS,J300,A Atzeni,P C Ng,9,V,6-1/2L,8>8>8,1.12.61,72.61,,Held ground when hard ridden.
+2025-04-01,ST,batch 1,SHA TIN ALL WEATHER TRACK,1200,GOOD,CASA RUBICK,K299,L Hewitson,J Richards,4,CP,7-1/2L,3>2>9,1.12.77,72.77,,Led early; weakened in the Straight.
+2025-04-01,ST,batch 1,SHA TIN ALL WEATHER TRACK,1200,GOOD,TIN FOOK,K167,K Teetan,D J Hall,8,,7-3/4L,9>9>10,1.12.83,72.83,,Ridden along at turn; unimpressive.
+2025-04-01,ST,batch 2,SHA TIN ALL WEATHER TRACK,1200,GOOD,NORTHERN BEAST,H233,P N Wong,D J Hall,8,V,,1>2>1,1.12.10,72.1,,Led early; always in touch.
+2025-04-01,ST,batch 2,SHA TIN ALL WEATHER TRACK,1200,GOOD,BRAVE WITNESS,H425,K Teetan,D Eustace,5,XB,1L,2>1>2,1.12.26,72.26,,Urged to lead along the rail; always in touch.
+2025-04-01,ST,batch 2,SHA TIN ALL WEATHER TRACK,1200,GOOD,DOUBLE BINGO,J309,M L Yeung,Y S Tsui,2,,4-1/2L,5>4>3,1.12.81,72.81,,Slightly slow to begin; ridden conservatively in the Straight; ran on for 3rd comfortably.
+2025-04-01,ST,batch 2,SHA TIN ALL WEATHER TRACK,1200,GOOD,ARTHUR'S KINGDOM,E194,Y L Chung,Y S Tsui,9,,4-3/4L,4>5>4,1.12.86,72.86,,Racing wide throughout; stayed on fairly well.
+2025-04-01,ST,batch 2,SHA TIN ALL WEATHER TRACK,1200,GOOD,INVINCIBLE LUCKY,J119,L Ferraris,M Newnham,7,,5L,7>7>5,1.12.89,72.89,Failed,Bounded on jumping; hard ridden to make progress when shifted out at turn.
+2025-04-01,ST,batch 2,SHA TIN ALL WEATHER TRACK,1200,GOOD,LINK,J177,H Bentley,W Y So,1,,5L,8>8>6,1.12.90,72.9,,Average to begin; caught in traffic at 300m; ran on fairly well late.
+2025-04-01,ST,batch 2,SHA TIN ALL WEATHER TRACK,1200,GOOD,QUICK QUICK WIN,K102,J Orman,P C Ng,6,,5-1/2L,3>3>7,1.12.96,72.96,,Limited response when under whip at 200m.
+2025-04-01,ST,batch 2,SHA TIN ALL WEATHER TRACK,1200,GOOD,CIRCUIT DUFFY,J501,M F Poon,F C Lor,3,,7-1/4L,6>6>8,1.13.25,73.25,,Not fully tested in the Straight.
+2025-04-01,ST,batch 2,SHA TIN ALL WEATHER TRACK,1200,GOOD,STRONGEST BOY,H027,K C Leung,D A Hayes,4,,9-1/4L,9>9>9,1.13.58,73.58,,Limited response when shifted out gradually at 300m.
+2025-04-01,ST,batch 3,SHA TIN ALL WEATHER TRACK,1050,GOOD,WATCH THIS ONE,K268,K Teetan,P C Ng,2,CP,,1>1>1,1.02.89,62.89,,Led all the way to score; moved better than before.
+2025-04-01,ST,batch 3,SHA TIN ALL WEATHER TRACK,1050,GOOD,TATTENHAM,H121,C L Chau,T P Yung,3,,3-1/4L,2>2>2,1.03.42,63.42,Passed,Responded fairly when persuaded at 200m.
+2025-04-01,ST,batch 3,SHA TIN ALL WEATHER TRACK,1050,GOOD,WE ARE HERO,G207,H Bowman,K L Man,4,V,4L,4>4>3,1.03.53,63.53,,Taken back early; under a hold when clear in the Straight.
+2025-04-01,ST,batch 3,SHA TIN ALL WEATHER TRACK,1050,GOOD,MULTISUPER,G416,J Orman,T P Yung,1,B,5L,3>3>4,1.03.69,63.69,Failed,Last to jump; raced awkwardly at turn; unimpressive.
+2025-03-28,CH,batch 1,CONGHUA TURF,1000,GOOD,YOUNG SUPERSTAR,J400,Y L Chung,A S Cruz,4,,,1>2>1,0.58.39,58.39,,Jumped well; always in touch; fought on to the line.
+2025-03-28,CH,batch 1,CONGHUA TURF,1000,GOOD,LOOKING BRIGHT,K315,M F Poon,F C Lor,5,,Nose,3>1>2,0.58.39,58.39,Passed,On pace without cover; stayed on comfortably.
+2025-03-28,CH,batch 1,CONGHUA TURF,1000,GOOD,SEASONS WIT,H223,H Bentley,J Richards,3,,3-1/4L,5>4>3,0.58.91,58.91,,Settled midfield; kept on evenly.
+2025-03-28,CH,batch 1,CONGHUA TURF,1000,GOOD,NEBRASKAN,J304,B Thompson,J Size,1,B,5-1/2L,2>3>4,0.59.25,59.25,,First to jump; under a hold thereafter.
+2025-03-28,CH,batch 1,CONGHUA TURF,1000,GOOD,SEA CHARIOT,K358,A Hamelin,W K Mo,6,H,6L,4>5>5,0.59.34,59.34,Passed,Ran on fairly when given reminders.
+2025-03-28,CH,batch 1,CONGHUA TURF,1000,GOOD,GOLDEN EMPIRE,E490,Q Y Ng,K W Lui,2,B,7L,6>6>6,0.59.49,59.49,,Raced at rear; not a threat.
+2025-03-28,CH,batch 10,CONGHUA TURF,1200,GOOD,LUCKY MCQUEEN,K064,M F Poon,W K Mo,1,H,,5>5>1,1.12.10,72.1,,Slightly slow to begin; hit the line strongly when clear late.
+2025-03-28,CH,batch 10,CONGHUA TURF,1200,GOOD,CAMP FIRE,J259,K De Melo,D J Whyte,4,SR,1-1/2L,2>3>2,1.12.35,72.35,,On pace without cover; ran on more smoothly than before.
+2025-03-28,CH,batch 10,CONGHUA TURF,1200,GOOD,CIRCUIT VICTORY,H487,K C Leung,K L Man,5,,3-1/4L,6>6>3,1.12.64,72.64,,Made minor inroads when hard ridden in the Straight.
+2025-03-28,CH,batch 10,CONGHUA TURF,1200,GOOD,CIRCUIT TEN,G429,R Thomas,W Y So,6,,4-1/2L,10>9>4,1.12.82,72.82,,Taken back early; made progress along the rail; ran on fairly well.
+2025-03-28,CH,batch 10,CONGHUA TURF,1200,GOOD,WISDOM STAR,J351,C M Thabana,J Richards,8,,4-1/2L,3>4>5,1.12.84,72.84,,Struggled for 5th when asked and under whip.
+2025-03-28,CH,batch 10,CONGHUA TURF,1200,GOOD,GUSTY FIGHTER,J029,B Thompson,D J Whyte,2,,4-1/2L,1>1>6,1.12.84,72.84,,Raced keenly and led; weakened over the concluding stages.
+2025-03-28,CH,batch 10,CONGHUA TURF,1200,GOOD,LUCKY STATEMENT,J521,Z Zuriman,K L Man,9,B,4-3/4L,7>8>7,1.12.85,72.85,,Not beaten far when under whip late.
+2025-03-28,CH,batch 10,CONGHUA TURF,1200,GOOD,MEDIC ELITE,G129,M L Yeung,P C Ng,10,PC,4-3/4L,4>2>8,1.12.87,72.87,Passed,Just to stretch out after a break.
+2025-03-28,CH,batch 10,CONGHUA TURF,1200,GOOD,ATOMIC BEAUTY,H066,Y L Chung,A S Cruz,3,V,5L,8>7>9,1.12.91,72.91,,Made minor inroads when asked; ran on fairly.
+2025-03-28,CH,batch 10,CONGHUA TURF,1200,GOOD,JOYFUL FRIENDSHIP,H295,C L Chau,P F Yiu,7,B,17L,9>10>10,1.14.81,74.81,,Steadied and checking feet passing the post; needs time.
+2025-03-28,CH,batch 2,CONGHUA TURF,1000,GOOD,WINNING DIAMOND,K216,B Thompson,C H Yip,6,,,4>5>1,0.58.67,58.67,,Made progress under his own steam; impressive.
+2025-03-28,CH,batch 2,CONGHUA TURF,1000,GOOD,THOUSAND CUPS,J482,Y L Chung,A S Cruz,7,,3/4L,1>1>2,0.58.79,58.79,,Led early; stayed on well.
+2025-03-28,CH,batch 2,CONGHUA TURF,1000,GOOD,AFFIRM,H306,C L Chau,P F Yiu,9,V,1-3/4L,3>6>3,0.58.96,58.96,Passed,Ran on OK after a break.
+2025-03-28,CH,batch 2,CONGHUA TURF,1000,GOOD,GOR GOR,K104,C M Thabana,J Richards,8,,2-1/4L,9>7>4,0.59.04,59.04,,Tardy start; made progress when hard ridden.
+2025-03-28,CH,batch 2,CONGHUA TURF,1000,GOOD,KING OBERON,H407,M L Yeung,D J Whyte,1,B,2-1/2L,5>4>5,0.59.05,59.05,,Ridden conservatively; ran on smoothly.
+2025-03-28,CH,batch 2,CONGHUA TURF,1000,GOOD,MOTOR,K165,K C Leung,W K Mo,2,,2-1/2L,6>3>6,0.59.07,59.07,,Moved better than before when persuaded.
+2025-03-28,CH,batch 2,CONGHUA TURF,1000,GOOD,APPEALING CITY,J491,K De Melo,D J Whyte,3,,3L,2>2>7,0.59.13,59.13,,Ran on fairly well early; weakened over the concluding stages.
+2025-03-28,CH,batch 2,CONGHUA TURF,1000,GOOD,WORLDWIDE,K233,M F Poon,P F Yiu,5,,6-3/4L,7>8>8,0.59.76,59.76,,Settled at rear; ran on ordinary.
+2025-03-28,CH,batch 2,CONGHUA TURF,1000,GOOD,LIGHT YEARS GLORY,K204,A Hamelin,W K Mo,4,H,12-3/4L,8>9>9,1.00.72,60.72,,Slightly slow to begin; ran on ordinary.
+2025-03-28,CH,batch 3,CONGHUA TURF,800,GOOD,SUPERB GUY,K323,K De Melo,K W Lui,6,,,4>4>1,0.46.94,46.94,Passed,Quickened passing halfway; came well from behind.
+2025-03-28,CH,batch 3,CONGHUA TURF,800,GOOD,BLAZING WUKONG,K335,R Thomas,P F Yiu,4,,SH,6>5>2,0.46.97,46.97,,Settled along the rail; made progress under his own steam.
+2025-03-28,CH,batch 3,CONGHUA TURF,800,GOOD,LUCKY FIELD,K292,M F Poon,K L Man,2,,3/4L,2>1>3,0.47.08,47.08,,Up with the pace; kept on evenly when asked.
+2025-03-28,CH,batch 3,CONGHUA TURF,800,GOOD,HAPPY ACTION,K399,B Thompson,D A Hayes,3,,1-3/4L,1>3>4,0.47.22,47.22,Passed,Led from middle gate; under a hold thereafter.
+2025-03-28,CH,batch 3,CONGHUA TURF,800,GOOD,THE GOLDEN KNIGHT,K341,C M Thabana,K W Lui,1,,2-1/2L,3>2>5,0.47.33,47.33,Passed,Settled along the rail; ran on OK.
+2025-03-28,CH,batch 3,CONGHUA TURF,800,GOOD,SUPER PACE,K349,M L Yeung,C Fownes,7,,2-1/2L,5>6>6,0.47.36,47.36,Passed,Ran on one-paced and stretching out evenly.
+2025-03-28,CH,batch 3,CONGHUA TURF,800,GOOD,LIGHTNING ARROW,K360,C L Chau,P C Ng,8,,3-3/4L,7>7>7,0.47.53,47.53,Passed,Raced under his own steam; not tested.
+2025-03-28,CH,batch 3,CONGHUA TURF,800,GOOD,HAPPY BUDDIES,K344,K C Leung,W K Mo,5,H,4-1/4L,8>8>8,0.47.63,47.63,Passed,Limited response when persuaded.
+2025-03-28,CH,batch 4,CONGHUA TURF,800,GOOD,RUBY SAILING,H347,P N Wong,K L Man,1,B,,1>1>1,0.46.34,46.34,,Drew all the way to score after surgery.
+2025-03-28,CH,batch 4,CONGHUA TURF,800,GOOD,INVICTUS DRAGON,K318,K C Leung,K W Lui,4,,3-1/2L,6>6>2,0.46.91,46.91,Passed,Tardy start; made progress along the rail; ran on fairly well.
+2025-03-28,CH,batch 4,CONGHUA TURF,800,GOOD,CHINA WIN,K395,M F Poon,D A Hayes,2,,4-3/4L,3>2>3,0.47.12,47.12,Passed,On pace without cover; ran on smoothly.
+2025-03-28,CH,batch 4,CONGHUA TURF,800,GOOD,ARGENTO OCEAN,K322,K De Melo,D J Whyte,6,,5-1/4L,4>4>4,0.47.17,47.17,Passed,In 4th position throughout.
+2025-03-28,CH,batch 4,CONGHUA TURF,800,GOOD,GOLDEN FAIRY,E448,M L Yeung,W Y So,7,,5-1/2L,7>7>5,0.47.22,47.22,Passed,Ran on OK having a quick backed up.
+2025-03-28,CH,batch 4,CONGHUA TURF,800,GOOD,KING DANCE,K157,C M Thabana,K W Lui,8,XB,6-1/2L,8>8>6,0.47.39,47.39,Passed,Slow to begin; made minor inroads near the line.
+2025-03-28,CH,batch 4,CONGHUA TURF,800,GOOD,BRIGHT MORTAR,K333,C L Chau,P C Ng,5,,6-1/2L,5>5>7,0.47.39,47.39,Passed,Slightly slow to begin; raced at rear.
+2025-03-28,CH,batch 4,CONGHUA TURF,800,GOOD,TOURBILLON GOLFER,K320,M Kellady,P F Yiu,3,,7L,2>3>8,0.47.46,47.46,,Good early speed but no stamina; weakened and gave ground.
+2025-03-28,CH,batch 5,CONGHUA TURF,1200,GOOD,SUPERB BOY,G335,C M Thabana,K W Lui,7,,,1>1>1,1.11.83,71.83,,Led early; stayed on well.
+2025-03-28,CH,batch 5,CONGHUA TURF,1200,GOOD,WINNING OVATION,K350,Y L Chung,A S Cruz,2,,3/4L,5>5>2,1.11.96,71.96,,Slightly slow to begin; made steady progress when hard ridden.
+2025-03-28,CH,batch 5,CONGHUA TURF,1200,GOOD,SUPER UNICORN,H481,M L Yeung,F C Lor,1,,3L,3>3>3,1.12.31,72.31,,Raced under his own steam; stayed on comfortably.
+2025-03-28,CH,batch 5,CONGHUA TURF,1200,GOOD,KING OF DUBAI,J433,H Bentley,M Newnham,5,,3-1/2L,2>2>4,1.12.39,72.39,,On pace in 2nd position early; not fully tested.
+2025-03-28,CH,batch 5,CONGHUA TURF,1200,GOOD,CHARMING BABE,J513,C L Chau,P F Yiu,4,,4-1/2L,4>4>5,1.12.56,72.56,,Settled midfield with plenty in hand.
+2025-03-28,CH,batch 5,CONGHUA TURF,1200,GOOD,BRILLIANT EXPRESS,J321,B Thompson,J Size,8,,7-3/4L,7>8>6,1.13.06,73.06,,Ridden wide purposely; not tested.
+2025-03-28,CH,batch 5,CONGHUA TURF,1200,GOOD,CIRCUIT GRAND SLAM,K201,K C Leung,K L Man,6,,8L,8>7>7,1.13.09,73.09,,Not much progress when under whip in the Straight.
+2025-03-28,CH,batch 5,CONGHUA TURF,1200,GOOD,CAPITAL DELIGHT,H262,R Thomas,C Fownes,9,B,8L,10>9>8,1.13.11,73.11,,Under a hold and raced at rear.
+2025-03-28,CH,batch 5,CONGHUA TURF,1200,GOOD,SAVVY WARRIOR,K257,K L Chui,D Eustace,3,XB,8-1/2L,6>6>9,1.13.20,73.2,,Blocked at turn; limited response when recovered.
+2025-03-28,CH,batch 5,CONGHUA TURF,1200,GOOD,AGENDA,K160,M F Poon,D J Hall,10,B,10-3/4L,9>10>10,1.13.55,73.55,Passed,No early speed; made progress after the post.
+2025-03-28,CH,batch 6,CONGHUA TURF,1200,GOOD,GLACIATED,K272,C L Chau,P C Ng,2,,,4>3>1,1.11.32,71.32,,Came from behind to score under whip.
+2025-03-28,CH,batch 6,CONGHUA TURF,1200,GOOD,THE RED HARE,K312,K C Leung,F C Lor,1,,1/2L,6>5>2,1.11.42,71.42,,Tardy start; made progress when recovered.
+2025-03-28,CH,batch 6,CONGHUA TURF,1200,GOOD,MAGIC HALLOW,J329,P N Wong,K L Man,5,XB,1-1/4L,1>1>3,1.11.53,71.53,,Led early; weakened at 200m.
+2025-03-28,CH,batch 6,CONGHUA TURF,1200,GOOD,SKY JEWELLERY,K032,B Thompson,J Size,4,,2L,5>6>4,1.11.65,71.65,,Not fully tested; stayed on well.
+2025-03-28,CH,batch 6,CONGHUA TURF,1200,GOOD,LIGHT YEARS CHARM,K130,M F Poon,D Eustace,6,XB,2-1/2L,8>7>5,1.11.70,71.7,,Made progress in between runners; in good condition.
+2025-03-28,CH,batch 6,CONGHUA TURF,1200,GOOD,UP WITH CHARM,K139,M L Yeung,D J Whyte,3,B,3-1/4L,2>2>6,1.11.82,71.82,,Limited response when under whip in the Straight.
+2025-03-28,CH,batch 6,CONGHUA TURF,1200,GOOD,UNIVERSAL HORIZON,G360,Q Y Ng,K W Lui,7,B,6L,3>4>7,1.12.29,72.29,,Just to stretch out after a break.
+2025-03-28,CH,batch 6,CONGHUA TURF,1200,GOOD,OSI HONOUR,K232,K L Chui,D Eustace,8,,13-1/2L,7>8>8,1.13.46,73.46,Failed,Weakened and gave ground; never in contention.
+2025-03-28,CH,batch 7,CONGHUA TURF,1200,GOOD,AKASHVANI,K234,P N Wong,D A Hayes,7,,,2>2>1,1.11.17,71.17,,On pace early; won cozily.
+2025-03-28,CH,batch 7,CONGHUA TURF,1200,GOOD,THE LION KING,K265,M F Poon,F C Lor,2,,1L,5>3>2,1.11.35,71.35,,Made progress when shifted racing ground in the Straight; ran on OK.
+2025-03-28,CH,batch 7,CONGHUA TURF,1200,GOOD,COURIER ALADDIN,J387,C M Thabana,K L Man,6,CP,1-3/4L,4>4>3,1.11.45,71.45,,Racing wide throughout; ran on after a breather in the Straight.
+2025-03-28,CH,batch 7,CONGHUA TURF,1200,GOOD,BIG STRIDE,K194,H Bentley,M Newnham,5,,4-1/2L,6>8>4,1.11.88,71.88,,Kept on evenly when hard ridden late.
+2025-03-28,CH,batch 7,CONGHUA TURF,1200,GOOD,DILBAGH,K055,M L Yeung,D J Whyte,3,B,5L,8>6>5,1.11.97,71.97,Passed,Raced under his own steam; just to stretch out.
+2025-03-28,CH,batch 7,CONGHUA TURF,1200,GOOD,EXTREME BOMB,K224,C L Chau,W Y So,4,,5-3/4L,3>5>6,1.12.09,72.09,,Limited response when asked.
+2025-03-28,CH,batch 7,CONGHUA TURF,1200,GOOD,LEGENDARY YEARS,K286,K C Leung,K L Man,8,B,5-3/4L,9>9>7,1.12.09,72.09,Passed,Limited response under whip and asked.
+2025-03-28,CH,batch 7,CONGHUA TURF,1200,GOOD,KOLACHI,J395,M Ntuli,D J Whyte,9,,6-1/2L,7>7>8,1.12.23,72.23,Passed,Not beaten far when hard ridden.
+2025-03-28,CH,batch 7,CONGHUA TURF,1200,GOOD,MASTER OF HUMOR,K281,Y L Chung,A S Cruz,1,,12L,1>1>9,1.13.09,73.09,,Led early; weakened late.
+2025-03-28,CH,batch 8,CONGHUA TURF,1200,GOOD,CELESTIAL HARMONY,K059,P N Wong,D A Hayes,2,B,,3>3>1,1.11.77,71.77,Passed,In box seat position; responded well when asked.
+2025-03-28,CH,batch 8,CONGHUA TURF,1200,GOOD,MEOWTH,J487,M F Poon,W K Mo,9,CP,1-1/2L,2>2>2,1.12.01,72.01,Passed,In handy position; stayed on comfortably.
+2025-03-28,CH,batch 8,CONGHUA TURF,1200,GOOD,HONEST WITNESS,K283,M L Yeung,D A Hayes,4,,1-1/2L,1>1>3,1.12.01,72.01,,Led under a hold; raced under his own steam.
+2025-03-28,CH,batch 8,CONGHUA TURF,1200,GOOD,DASHING DRAGON,J464,B Thompson,D A Hayes,7,CP,2L,5>5>4,1.12.10,72.1,,Made steady progress when clear in the Straight.
+2025-03-28,CH,batch 8,CONGHUA TURF,1200,GOOD,SMART FAT CAT,K280,A Hamelin,W K Mo,6,H,7L,4>4>5,1.12.89,72.89,,Slightly slow to begin; over-racing thereafter; needs time.
+2025-03-28,CH,batch 8,CONGHUA TURF,1200,GOOD,PERPETUAL POWER,J326,C L Chau,T P Yung,8,,11-1/2L,8>8>6,1.13.61,73.61,Passed,Found nothing when asked.
+2025-03-28,CH,batch 8,CONGHUA TURF,1200,GOOD,D STAR,G374,Y L Chung,A S Cruz,1,B,12-1/2L,7>7>7,1.13.78,73.78,,Very laid back type; not willing to stretch.
+2025-03-28,CH,batch 8,CONGHUA TURF,1200,GOOD,INNO SUPER,K319,K L Chui,D Eustace,5,,13-3/4L,6>6>8,1.13.95,73.95,Failed,Limited response under whip.
+2025-03-28,CH,batch 9,CONGHUA TURF,1200,GOOD,CIRCUIT FIERY,H475,K De Melo,W Y So,2,PC,,6>5>1,1.11.47,71.47,,Average to begin; responded well when clear halfway in the Straight.
+2025-03-28,CH,batch 9,CONGHUA TURF,1200,GOOD,TOP THRONE,K116,K C Leung,D A Hayes,1,,1/2L,4>3>2,1.11.55,71.55,,Tardy start; made progress along the rail; moved better than before.
+2025-03-28,CH,batch 9,CONGHUA TURF,1200,GOOD,KA YING RADIANCE,K134,M F Poon,D A Hayes,8,,2-1/4L,8>6>3,1.11.82,71.82,,Missed start; stormed home in the Straight.
+2025-03-28,CH,batch 9,CONGHUA TURF,1200,GOOD,ORIENTAL SURPRISE,K028,P N Wong,D A Hayes,5,B,4-1/4L,1>1>4,1.12.14,72.14,Passed,Raced keenly and led; weakened near the line.
+2025-03-28,CH,batch 9,CONGHUA TURF,1200,GOOD,REGENCY HAPPY STAR,H248,K L Chui,D Eustace,3,XB,4-1/4L,3>4>5,1.12.17,72.17,,Settled midfield under a hold; not tested.
+2025-03-28,CH,batch 9,CONGHUA TURF,1200,GOOD,SMASHING EXPRESS,J252,B Thompson,J Size,4,,4-1/2L,9>9>6,1.12.20,72.2,,Taken back early; not tested.
+2025-03-28,CH,batch 9,CONGHUA TURF,1200,GOOD,GLORY CLOUD,H320,H Bentley,C Fownes,6,,6-3/4L,7>8>7,1.12.54,72.54,,Racing very wide; not tested.
+2025-03-28,CH,batch 9,CONGHUA TURF,1200,GOOD,DIVINE MOONLIGHT,K119,A Hamelin,P C Ng,7,P,6-3/4L,2>2>8,1.12.55,72.55,,Failed to respond when persuaded.
+2025-03-28,CH,batch 9,CONGHUA TURF,1200,GOOD,GO GENERAL,H330,Y L Chung,C H Yip,10,CP,11-3/4L,5>7>9,1.13.34,73.34,Failed,Ran on ordinary; needs time.
+2025-03-28,CH,batch 9,CONGHUA TURF,1200,GOOD,JUBILATION,G029,M L Yeung,W Y So,9,V,13L,10>10>10,1.13.55,73.55,Passed,No early speed; finished last.
+2025-03-27,ST,batch 1,SHA TIN ALL WEATHER TRACK,1200,GOOD,GRACIOUS EXPRESS,J188,J Orman,P F Yiu,3,CP,,2>2>1,1.10.71,70.71,,On pace and one off; won cozily when let go at 200m.
+2025-03-27,ST,batch 1,SHA TIN ALL WEATHER TRACK,1200,GOOD,TURIN STARSPANGLED,J209,K C Leung,P C Ng,6,,Head,6>5>2,1.10.74,70.74,,Quickened at turn; made progress along the outside.
+2025-03-27,ST,batch 1,SHA TIN ALL WEATHER TRACK,1200,GOOD,NO OTHER CHOICE,K049,H Bowman,C Fownes,1,,1/2L,1>1>3,1.10.79,70.79,,Led early; stayed on for 3rd.
+2025-03-27,ST,batch 1,SHA TIN ALL WEATHER TRACK,1200,GOOD,STAR CONTACT,E472,K H Tsang,D A Hayes,7,,2-1/4L,7>6>4,1.11.05,71.05,,Taken back early; made progress in between runners when persuaded at 200m.
+2025-03-27,ST,batch 1,SHA TIN ALL WEATHER TRACK,1200,GOOD,GROOVY FEELING,J515,B Thompson,J Richards,4,B,3L,3>4>5,1.11.19,71.19,Passed,Three wide at turn; ridden conservatively.
+2025-03-27,ST,batch 1,SHA TIN ALL WEATHER TRACK,1200,GOOD,CAN'T GO WONG,H087,M F Poon,F C Lor,2,B,3-3/4L,4>3>6,1.11.32,71.32,,Settled along the rail; ran on evenly.
+2025-03-27,ST,batch 1,SHA TIN ALL WEATHER TRACK,1200,GOOD,PRESTIGE RICKY,K009,A Atzeni,P F Yiu,5,H,5-1/4L,5>7>7,1.11.57,71.57,,Raced at rear; just to stretch out.
+2025-03-27,ST,batch 2,SHA TIN ALL WEATHER TRACK,1200,GOOD,INCREDIBLE MOMENT,K275,L Ferraris,M Newnham,6,,,5>5>1,1.10.00,70.0,,Four wide at turn; ran on to score when persuaded at 200m.
+2025-03-27,ST,batch 2,SHA TIN ALL WEATHER TRACK,1200,GOOD,LUCKY MY WAY,K146,M F Poon,K L Man,5,B,SH,3>2>2,1.10.01,70.01,,Over-racing early; hard ridden for 2nd when became balance in the Straight.
+2025-03-27,ST,batch 2,SHA TIN ALL WEATHER TRACK,1200,GOOD,BEAUTIFUL WIN,J250,M L Yeung,W Y So,2,CP,3/4L,1>1>3,1.10.15,70.15,,Led early; kept on when asked in the Straight.
+2025-03-27,ST,batch 2,SHA TIN ALL WEATHER TRACK,1200,GOOD,MORGAN SUCCESS,K203,J Orman,D J Whyte,3,XB,1-1/2L,4>4>4,1.10.22,70.22,Passed,Three wide at turn; responded fairly well when asked at 200m.
+2025-03-27,ST,batch 2,SHA TIN ALL WEATHER TRACK,1200,GOOD,CARRYON SMILING,J392,K De Melo,W Y So,4,CP,3-1/4L,6>6>5,1.10.52,70.52,,Eased back early; stretching out strongly when shifted racing ground at 200m.
+2025-03-27,ST,batch 2,SHA TIN ALL WEATHER TRACK,1200,GOOD,SWEET DIAMOND,G063,B Thompson,P F Yiu,1,,3-1/4L,2>3>6,1.10.53,70.53,,Slightly slow to begin; commenced forward move thereafter; limited response in the Straight.
+2025-03-27,ST,batch 2,SHA TIN ALL WEATHER TRACK,1200,GOOD,GLORIOUS RYDER,K290,A Atzeni,D Eustace,7,XB,6-1/4L,7>7>7,1.11.01,71.01,,Raced awkwardly when ridden along at turn.
+2025-03-27,ST,batch 2,SHA TIN ALL WEATHER TRACK,1200,GOOD,GENIUS BABY,K132,K C Leung,D A Hayes,8,,6-3/4L,8>8>8,1.11.07,71.07,,Taken back early; swung wide at turn; limited response when asked in the Straight.
+2025-03-27,ST,batch 3,SHA TIN ALL WEATHER TRACK,1200,GOOD,DAZZLING FIT,K298,L Ferraris,D Eustace,6,XB,,4>5>1,1.11.64,71.64,,Made steady progress when clear at 300m.
+2025-03-27,ST,batch 3,SHA TIN ALL WEATHER TRACK,1200,GOOD,CERVIN,H253,K De Melo,W Y So,4,,SH,2>2>2,1.11.66,71.66,,Under restraint along the rail; kept on well when let go late.
+2025-03-27,ST,batch 3,SHA TIN ALL WEATHER TRACK,1200,GOOD,RAGING RAPIDS,J228,H Bowman,J Size,7,,3/4L,3>3>3,1.11.77,71.77,,Racing wide throughout; stayed on well when asked late.
+2025-03-27,ST,batch 3,SHA TIN ALL WEATHER TRACK,1200,GOOD,COMMANDING MISSILE,G210,C L Chau,C W Chang,5,,1L,1>1>4,1.11.79,71.79,,Led early; ran on fairly well when under whip late.
+2025-03-27,ST,batch 3,SHA TIN ALL WEATHER TRACK,1200,GOOD,PERFECT PEACH,E488,L Hewitson,C W Chang,2,P,2-1/4L,8>7>5,1.12.00,72.0,,Ran on well when shifted out at 200m.
+2025-03-27,ST,batch 3,SHA TIN ALL WEATHER TRACK,1200,GOOD,WINNING SEVEN,J005,M L Yeung,D J Whyte,1,B,3L,5>6>6,1.12.10,72.1,,Over-racing early; held ground when hard ridden at 200m.
+2025-03-27,ST,batch 3,SHA TIN ALL WEATHER TRACK,1200,GOOD,IVICTORIAM,J226,B Thompson,J Richards,3,,3L,6>4>7,1.12.13,72.13,,Raced under his own steam and under a hold in the Straight.
+2025-03-27,ST,batch 3,SHA TIN ALL WEATHER TRACK,1200,GOOD,COMET PATCH,K225,A Atzeni,D Eustace,8,XB,15L,7>8>8,1.14.05,74.05,Failed,Average to begin; head in the air at 300m; tailed off and finished last.
+2025-03-27,ST,batch 4,SHA TIN ALL WEATHER TRACK,1050,GOOD,LUCKY SWEYNESSE,G180,M F Poon,K L Man,5,,,2>2>1,1.02.01,62.01,Passed,Hit the front in the Straight but laying-in slightly.
+2025-03-27,ST,batch 4,SHA TIN ALL WEATHER TRACK,1050,GOOD,BOOMBAYAH,H307,Y L Chung,A S Cruz,1,,3/4L,3>3>2,1.02.13,62.13,,Raced awkwardly at turn; hard ridden along the rail for 2nd when recovered.
+2025-03-27,ST,batch 4,SHA TIN ALL WEATHER TRACK,1050,GOOD,LIFELINE EXPRESS,H439,A Atzeni,J Size,4,E,1-1/4L,4>4>3,1.02.22,62.22,,Ridden conservatively early; raced under his own steam in the Straight.
+2025-03-27,ST,batch 4,SHA TIN ALL WEATHER TRACK,1050,GOOD,CLUB ACE,J523,H Bowman,J Size,2,,1-1/2L,5>5>4,1.02.26,62.26,,Taken back after start; made progress when clear in the Straight.
+2025-03-27,ST,batch 4,SHA TIN ALL WEATHER TRACK,1050,GOOD,LA MOMENTO,J476,M Chadwick,A S Cruz,3,H,2-1/4L,1>1>5,1.02.37,62.37,,Led from middle gate; weakened late.
+2025-03-25,ST,batch 1,SHA TIN TURF,1000,GOOD,CASA OF HONOR,K310,M F Poon,C W Chang,4,XB,,2>1>1,0.58.16,58.16,,Always in touch; led all the way to score.
+2025-03-25,ST,batch 1,SHA TIN TURF,1000,GOOD,ETERNAL FORTUNE,K010,H T Mo,C S Shum,3,,1/2L,3>2>2,0.58.23,58.23,,Shared lead with another runner; stayed on comfortably.
+2025-03-25,ST,batch 1,SHA TIN TURF,1000,GOOD,ALL ROUND WINNER,K382,K Teetan,D A Hayes,5,,1L,5>4>3,0.58.31,58.31,,Ran on for 3rd when hard ridden at 200m.
+2025-03-25,ST,batch 1,SHA TIN TURF,1000,GOOD,ANODE,K367,H Bowman,C S Shum,1,,2-1/2L,7>6>4,0.58.54,58.54,Passed,Taken back early; ran on fairly well when asked at 300m.
+2025-03-25,ST,batch 1,SHA TIN TURF,1000,GOOD,SAVVY BRILLIANT,J437,L Ferraris,F C Lor,6,E/P/XB,2-3/4L,6>5>5,0.58.59,58.59,,Average to begin; responded fairly well when hard ridden at 200m.
+2025-03-25,ST,batch 1,SHA TIN TURF,1000,GOOD,VIEW OF THE WORLD,J348,Z Purton,C H Yip,2,,3-1/2L,8>7>6,0.58.72,58.72,,Under a hold; just to stretch out.
+2025-03-25,ST,batch 1,SHA TIN TURF,1000,GOOD,GAZELEY,K253,L Hewitson,K W Lui,7,,4-1/2L,1>3>7,0.58.87,58.87,,Good early speed but no stamina; failed to respond.
+2025-03-25,ST,batch 10,SHA TIN ALL WEATHER TRACK,1200,GOOD,STAR FIGURE,K215,K Teetan,J Richards,3,,,2>2>1,1.10.82,70.82,,Ran on to score when balanced at 200m.
+2025-03-25,ST,batch 10,SHA TIN ALL WEATHER TRACK,1200,GOOD,PRESTIGE GOOD,K131,R Kingscote,P F Yiu,6,V,Neck,5>5>2,1.10.86,70.86,,Fought on for 2nd when clear in the Straight.
+2025-03-25,ST,batch 10,SHA TIN ALL WEATHER TRACK,1200,GOOD,AUTUMN VIBES,K150,Z Purton,J Richards,5,SB,1/2L,3>3>3,1.10.89,70.89,,Under a hold for 3rd; stayed on well.
+2025-03-25,ST,batch 10,SHA TIN ALL WEATHER TRACK,1200,GOOD,LUCKY MAN,J315,B Avdulla,D A Hayes,2,BO/H,1-1/2L,4>4>4,1.11.07,71.07,,Under a hold in the Straight; not fully tested.
+2025-03-25,ST,batch 10,SHA TIN ALL WEATHER TRACK,1200,GOOD,SILVER UP,J078,M Chadwick,C W Chang,4,B,2-1/4L,6>6>5,1.11.17,71.17,,Laying in when under whip in the Straight.
+2025-03-25,ST,batch 10,SHA TIN ALL WEATHER TRACK,1200,GOOD,BEAUTY FORMULA,K066,Y L Chung,A S Cruz,7,,3-1/4L,1>1>6,1.11.33,71.33,Passed,Led early; weakened badly in the Straight.
+2025-03-25,ST,batch 10,SHA TIN ALL WEATHER TRACK,1200,GOOD,FAMILY FORTUNE,H447,L Ferraris,C Fownes,1,,4-1/4L,7>7>7,1.11.50,71.5,,Raced at rear when shifted racing ground at 200m.
+2025-03-25,ST,batch 11,SHA TIN ALL WEATHER TRACK,1050,GOOD,HAPPY UNITED,H208,B Avdulla,J Richards,2,,,2>2>1,1.02.43,62.43,,Jumped well; hit the front in the Straight.
+2025-03-25,ST,batch 11,SHA TIN ALL WEATHER TRACK,1050,GOOD,HANDSOME BLOND,K241,K Teetan,C H Yip,4,H/SR,1-1/2L,4>4>2,1.02.66,62.66,Failed,Bounded in the stall; came from behind for 2nd when asked in the Straight.
+2025-03-25,ST,batch 11,SHA TIN ALL WEATHER TRACK,1050,GOOD,SZERYNG,K317,B Thompson,J Size,1,,3-1/2L,1>1>3,1.03.00,63.0,Passed,Led along the rail; not fully tested.
+2025-03-25,ST,batch 11,SHA TIN ALL WEATHER TRACK,1050,GOOD,GASTRONOMIQUE,K388,H Bowman,J Size,3,,4L,3>3>4,1.03.07,63.07,Passed,Racing 3 wide throughout; under a hold in the Straight.
+2025-03-25,ST,batch 2,SHA TIN TURF,1000,GOOD,THRIVING BROTHERS,J396,Z Purton,C H Yip,6,,,3>2>1,0.57.93,57.93,,Settled in a handy position; hit the front late.
+2025-03-25,ST,batch 2,SHA TIN TURF,1000,GOOD,MOUNT EVEREST,K237,M L Yeung,W Y So,7,,SH,4>3>2,0.57.94,57.94,,Hit the line strongly when under whip late.
+2025-03-25,ST,batch 2,SHA TIN TURF,1000,GOOD,ONE MORE,K261,L Ferraris,M Newnham,2,H,Neck,1>1>3,0.57.99,57.99,,Good early speed; kept on for 3rd.
+2025-03-25,ST,batch 2,SHA TIN TURF,1000,GOOD,STELLAR SWIFT,J139,K H Tsang,D A Hayes,5,,1/2L,6>6>4,0.58.03,58.03,,Responded fairly well when asked late.
+2025-03-25,ST,batch 2,SHA TIN TURF,1000,GOOD,STAR SATYR,K231,B Avdulla,A S Cruz,3,H,3-1/2L,2>4>5,0.58.50,58.5,,Not quickened when hard ridden.
+2025-03-25,ST,batch 2,SHA TIN TURF,1000,GOOD,LUCKY TWIN STARS,K126,K Teetan,K W Lui,4,CP,3-1/2L,5>5>6,0.58.51,58.51,,Failed to respond when hard ridden at 200m.
+2025-03-25,ST,batch 2,SHA TIN TURF,1000,GOOD,PRINCE ALEX,G307,J Orman,D J Whyte,8,CP/XB,5L,8>8>7,0.58.74,58.74,Required to pass barrier trial/OVE,Settled behind runners; not fully tested.
+2025-03-25,ST,batch 2,SHA TIN TURF,1000,GOOD,CALL ME TOPSEED,K357,H Bowman,K L Man,1,B,9-3/4L,7>7>8,0.59.51,59.51,,Limited response when asked at 400m.
+2025-03-25,ST,batch 2,SHA TIN TURF,1000,GOOD,COMET SPLENDIDO,G071,Y T Leung,C S Shum,9,CP,13-3/4L,9>9>9,1.00.11,60.11,,Raced at rear; never in contention.
+2025-03-25,ST,batch 3,SHA TIN TURF,1000,GOOD,BIG RETURN,K192,A Badel,W Y So,3,,,10>9>1,0.58.82,58.82,,Slightly slow to begin; looking for cover early; quickened to score when asked at 300m.
+2025-03-25,ST,batch 3,SHA TIN TURF,1000,GOOD,BULL ATTITUDE,K305,L Hewitson,M Newnham,6,,SH,2>2>2,0.58.83,58.83,,Shared lead early; ran on evenly.
+2025-03-25,ST,batch 3,SHA TIN TURF,1000,GOOD,INVINCIBLE IBIS,K296,L Ferraris,M Newnham,9,,Head,4>3>3,0.58.85,58.85,,Ran on well when persuaded at 200m.
+2025-03-25,ST,batch 3,SHA TIN TURF,1000,GOOD,WUKONG JEWELLERY,K314,H Bowman,J Size,4,,1L,3>5>4,0.58.99,58.99,,Responded fairly well when hard ridden at 200m.
+2025-03-25,ST,batch 3,SHA TIN TURF,1000,GOOD,TURF PHOENIX,J294,M L Yeung,W Y So,5,,1-1/4L,1>1>5,0.59.02,59.02,,Led early; under a hold late.
+2025-03-25,ST,batch 3,SHA TIN TURF,1000,GOOD,LITTLE SQUID,K050,J Orman,P F Yiu,10,E,1-3/4L,6>4>6,0.59.09,59.09,,Settled midfield along the outer rail; ran on evenly.
+2025-03-25,ST,batch 3,SHA TIN TURF,1000,GOOD,BETTER AND BETTER,K277,Z Purton,F C Lor,8,,1-3/4L,8>7>7,0.59.11,59.11,,Ridden conservatively behind runners.
+2025-03-25,ST,batch 3,SHA TIN TURF,1000,GOOD,BROWNNEEDSFURTHER,K325,B Avdulla,D J Hall,1,,2L,9>10>8,0.59.16,59.16,Passed,Under restraint early; shifted out gradually at 400m; in good condition.
+2025-03-25,ST,batch 3,SHA TIN TURF,1000,GOOD,COLOURFUL KNIGHT,K366,H Bentley,C S Shum,2,,2-3/4L,7>8>9,0.59.28,59.28,Passed,Niggled along throughout; failed to respond.
+2025-03-25,ST,batch 3,SHA TIN TURF,1000,GOOD,HERO SPARK,K221,M F Poon,K L Man,7,,3-1/2L,5>6>10,0.59.36,59.36,,Head in the air throughout; raced awkwardly.
+2025-03-25,ST,batch 4,SHA TIN TURF,1000,GOOD,ROBOT MASTER,J107,P N Wong,K L Man,2,CP,,1>1>1,0.57.76,57.76,,Led all the way to score.
+2025-03-25,ST,batch 4,SHA TIN TURF,1000,GOOD,CALIFORNIA SUN,J129,M Chadwick,W K Mo,3,CP/XB,2-1/4L,8>8>2,0.58.11,58.11,,Average to begin; came from behind for 2nd when hard ridden at 200m.
+2025-03-25,ST,batch 4,SHA TIN TURF,1000,GOOD,SKY CAP,K125,B Thompson,C Fownes,1,XB,2-3/4L,6>3>3,0.58.18,58.18,,Under a hold for 3rd; stretching out nicely.
+2025-03-25,ST,batch 4,SHA TIN TURF,1000,GOOD,CIRCUIT CENTURY,K308,K Teetan,D J Whyte,6,B/XB,4-1/4L,5>6>4,0.58.44,58.44,Passed,Laying in when under whip at 300m.
+2025-03-25,ST,batch 4,SHA TIN TURF,1000,GOOD,WISEMAN,K211,H Bentley,C S Shum,7,,4-1/2L,3>4>5,0.58.46,58.46,,Not quickened when hard ridden at 200m.
+2025-03-25,ST,batch 4,SHA TIN TURF,1000,GOOD,DIVINE LUNA,J473,L Hewitson,C Fownes,4,H/P,4-1/2L,7>7>6,0.58.49,58.49,,Brushed on jumping; not stretching out properly when asked at 200m.
+2025-03-25,ST,batch 4,SHA TIN TURF,1000,GOOD,SHOTGUN,K111,M F Poon,D J Hall,5,H,4-3/4L,9>9>7,0.58.51,58.51,,Laying in at 600m; ran on fairly well when under whip at 200m.
+2025-03-25,ST,batch 4,SHA TIN TURF,1000,GOOD,STERLING WONGCHOY,H273,J Orman,D J Whyte,9,B/XB,4-3/4L,2>5>8,0.58.54,58.54,,Racing wide throughout; ran on ordinary.
+2025-03-25,ST,batch 4,SHA TIN TURF,1000,GOOD,GALLANT REX,K243,B Avdulla,D A Hayes,8,,8-3/4L,4>2>9,0.59.14,59.14,,Dashed on momentarily halfway; limited response when asked late.
+2025-03-25,ST,batch 5,SHA TIN TURF,1000,GOOD,THE ALL OUT,K291,Z Purton,J Richards,7,,,1>1>1,0.57.09,57.09,,Urged to lead along the outer rail; kept on to score.
+2025-03-25,ST,batch 5,SHA TIN TURF,1000,GOOD,KA YING RESILIENCE,J439,M F Poon,D A Hayes,8,P,2-3/4L,4>4>2,0.57.52,57.52,,Ran on comfortably when persuaded at 200m.
+2025-03-25,ST,batch 5,SHA TIN TURF,1000,GOOD,LAHORE,K043,B Avdulla,J Richards,5,B,3-1/2L,3>3>3,0.57.66,57.66,,Struggled for 3rd when asked and under whip at 200m.
+2025-03-25,ST,batch 5,SHA TIN TURF,1000,GOOD,PRESTIGE HALL,K040,H Bowman,D J Hall,6,,7-1/4L,2>2>4,0.58.24,58.24,,On pace; unable to threaten when hard ridden at 200m.
+2025-03-25,ST,batch 5,SHA TIN TURF,1000,GOOD,SPEEDY CHARIOT,H193,J Orman,D J Whyte,10,B,7-3/4L,5>5>5,0.58.33,58.33,,Under a hold along the outer rail; stayed on comfortably.
+2025-03-25,ST,batch 5,SHA TIN TURF,1000,GOOD,TEAM TEAM FOLKS,K302,B Thompson,C W Chang,9,SR,8-1/4L,6>6>6,0.58.40,58.4,,Held ground; ran on ordinary.
+2025-03-25,ST,batch 5,SHA TIN TURF,1000,GOOD,KING LOTUS,K186,L Hewitson,M Newnham,4,,9L,8>8>7,0.58.54,58.54,,Not quickened when asked at 400m.
+2025-03-25,ST,batch 5,SHA TIN TURF,1000,GOOD,BULLISH PRIDE,K181,Y L Chung,A S Cruz,1,H,10L,7>7>8,0.58.68,58.68,Passed,Not much progress when hard ridden at 400m.
+2025-03-25,ST,batch 5,SHA TIN TURF,1000,GOOD,RADIANT SWIFT,J425,K H Tsang,T P Yung,3,B,10-1/4L,9>9>9,0.58.73,58.73,Failed,Average to begin; failed to respond.
+2025-03-25,ST,batch 5,SHA TIN TURF,1000,GOOD,JUSTIFY YOURSELF,J386,K C Leung,W K Mo,2,CP,13-3/4L,10>10>10,0.59.27,59.27,Failed,Ridden along early; tailed off and finished last.
+2025-03-25,ST,batch 6,SHA TIN TURF,1000,GOOD,AUTUMN DELIGHT,J090,L Ferraris,C Fownes,6,,,1>1>1,0.58.12,58.12,,Led all the way to score.
+2025-03-25,ST,batch 6,SHA TIN TURF,1000,GOOD,STRAIGHT TO GLORY,K340,K C Leung,T P Yung,4,,1/2L,7>4>2,0.58.20,58.2,Passed,Average to begin; quickened at 200m; stayed on well.
+2025-03-25,ST,batch 6,SHA TIN TURF,1000,GOOD,BABIECA,K326,Z Purton,C W Chang,9,,2-3/4L,6>7>3,0.58.57,58.57,,Stretching out nicely when let go at 200m.
+2025-03-25,ST,batch 6,SHA TIN TURF,1000,GOOD,IRON LEGION,J459,Y L Chung,A S Cruz,1,B,3L,4>3>4,0.58.60,58.6,Passed,Not quickened when asked at 300m.
+2025-03-25,ST,batch 6,SHA TIN TURF,1000,GOOD,SEA SAPPHIRE,H343,Q Y Ng,D Eustace,10,,3-1/4L,8>9>5,0.58.65,58.65,,Jumped awkwardly; made progress when hard ridden at 200m.
+2025-03-25,ST,batch 6,SHA TIN TURF,1000,GOOD,NEW ASIA GREAT,J412,B Thompson,D A Hayes,5,CP,3-3/4L,2>2>6,0.58.72,58.72,,Led early; limited response when asked late.
+2025-03-25,ST,batch 6,SHA TIN TURF,1000,GOOD,SPORTIC WARRIOR,J385,M L Yeung,K L Man,3,,4L,3>5>7,0.58.75,58.75,Passed,Gave ground when under whip at 300m.
+2025-03-25,ST,batch 6,SHA TIN TURF,1000,GOOD,FUNG,J101,L Hewitson,C W Chang,7,B,4L,5>6>8,0.58.77,58.77,,Failed to respond when asked at 200m.
+2025-03-25,ST,batch 6,SHA TIN TURF,1000,GOOD,SPARKLE AND GOLD,K259,M F Poon,C H Yip,8,,4L,10>10>9,0.58.77,58.77,,Last to jump; racing behind runners throughout; not tested.
+2025-03-25,ST,batch 6,SHA TIN TURF,1000,GOOD,JUST FOLLOW ME,K332,J Orman,T P Yung,2,,5-1/2L,9>8>10,0.59.00,59.0,Passed,Slightly slow to begin; ran on unimpressively when under whip at 200m.
+2025-03-25,ST,batch 7,SHA TIN TURF,800,GOOD,COPARTNER FLEET,K342,Z Purton,K W Lui,3,,,1>1>1,0.46.22,46.22,Passed,Jumped well; led all the way to score.
+2025-03-25,ST,batch 7,SHA TIN TURF,800,GOOD,DRAGON HALL,K345,J Orman,D J Hall,7,,1/2L,2>2>2,0.46.29,46.29,Passed,Under restraint; always in touch.
+2025-03-25,ST,batch 7,SHA TIN TURF,800,GOOD,HYANNIS STAR,K331,L Ferraris,D Eustace,1,,1/2L,3>3>3,0.46.32,46.32,Passed,Hard ridden for 3rd; stayed on strongly.
+2025-03-25,ST,batch 7,SHA TIN TURF,800,GOOD,FLOWING RICHES,K293,M L Yeung,K H Ting,8,,1-1/4L,5>4>4,0.46.41,46.41,Passed,Up with the pace; stayed on well.
+2025-03-25,ST,batch 7,SHA TIN TURF,800,GOOD,HAPPY TRIO,G244,Q Y Ng,D J Whyte,10,B,1-1/4L,6>5>5,0.46.42,46.42,,Responded fairly well when asked at 200m.
+2025-03-25,ST,batch 7,SHA TIN TURF,800,GOOD,TORVEIN,K375,L Hewitson,J Richards,5,,5-1/2L,7>6>6,0.47.10,47.1,Passed,Raced greenly when asked late.
+2025-03-25,ST,batch 7,SHA TIN TURF,800,GOOD,GANGNAM STAR,H326,A Atzeni,P C Ng,9,SR,8-1/2L,9>9>7,0.47.57,47.57,,Not much progress when asked at 400m.
+2025-03-25,ST,batch 7,SHA TIN TURF,800,GOOD,ZHOU GONGJIN,K337,C L Chau,T P Yung,2,,10-1/2L,4>7>8,0.47.90,47.9,Failed,Gave ground; needs time.
+2025-03-25,ST,batch 7,SHA TIN TURF,800,GOOD,SMILING ONE,K336,H Bentley,K H Ting,6,,11-1/2L,10>8>9,0.48.05,48.05,Passed,Last to jump; raced greenly.
+2025-03-25,ST,batch 7,SHA TIN TURF,800,GOOD,FLYING KNIGHT,K370,K C Leung,W K Mo,4,H/SR,11-1/2L,8>10>10,0.48.05,48.05,Failed,Not willing to stretch when under whip at 200m.
+2025-03-25,ST,batch 8,SHA TIN TURF,1600,GOOD,TOY SOLTERO,J268,L Hewitson,C W Chang,12,H/XB,,7>8>8>1,1.36.14,96.14,Passed,Ran on to score when clear at 400m.
+2025-03-25,ST,batch 8,SHA TIN TURF,1600,GOOD,CAMBRIDGE,K085,Z Purton,P C Ng,11,,Neck,6>6>4>2,1.36.21,96.21,,Quickened at turn fought on for 2nd.
+2025-03-25,ST,batch 8,SHA TIN TURF,1600,GOOD,JUMBO LEGEND,G266,H Bentley,C Fownes,8,,3-1/2L,11>11>11>3,1.36.69,96.69,,Ridden conservatively early; ran on for 3rd when persuaded at 200m.
+2025-03-25,ST,batch 8,SHA TIN TURF,1600,GOOD,NAVAL FORCE,K158,H Bowman,P C Ng,9,PC,4-1/4L,3>3>3>4,1.36.83,96.83,,Up with the pace; kept on evenly in the Straight.
+2025-03-25,ST,batch 8,SHA TIN TURF,1600,GOOD,HE WAS ME,J535,B Avdulla,A S Cruz,4,V,5L,1>1>1>5,1.36.92,96.92,,Urged to lead; weakened and gave ground when hard ridden at 200m.
+2025-03-25,ST,batch 8,SHA TIN TURF,1600,GOOD,MEGA FORCE,K200,K C Leung,P C Ng,7,,5L,9>10>10>6,1.36.94,96.94,,Shifted out at turn; made progress under whip.
+2025-03-25,ST,batch 8,SHA TIN TURF,1600,GOOD,CHARITY TOGETHER,K254,M F Poon,D Eustace,6,B,5-1/2L,5>5>5>7,1.37.03,97.03,,Not much progress when under whip at 200m.
+2025-03-25,ST,batch 8,SHA TIN TURF,1600,GOOD,PING HAI COMET,H344,B Thompson,J Size,2,H,6L,8>7>7>8,1.37.08,97.08,,Found nothing when asked at turn.
+2025-03-25,ST,batch 8,SHA TIN TURF,1600,GOOD,SUPREME WINNER,J255,A Atzeni,C H Yip,1,CP,7-1/4L,10>9>9>9,1.37.30,97.3,,Ran on ordinary; unimpressive.
+2025-03-25,ST,batch 8,SHA TIN TURF,1600,GOOD,FIGOPUMPKIN,K137,K Teetan,J Size,5,B,7-1/4L,2>2>2>10,1.37.32,97.32,,On pace early; weakened when under whip at 400m.
+2025-03-25,ST,batch 8,SHA TIN TURF,1600,GOOD,SANDMAN,K220,A Badel,D Eustace,3,,9-1/4L,12>12>12>11,1.37.62,97.62,,Raced at rear; never in contention.
+2025-03-25,ST,batch 8,SHA TIN TURF,1600,GOOD,ROMANTIC FANTASY,H168,J Orman,J Richards,10,CP,10L,4>4>6>12,1.37.73,97.73,Passed,Weakened halfway; gave ground abruptly.
+2025-03-25,ST,batch 9,SHA TIN ALL WEATHER TRACK,1200,GOOD,PEJIBAYE,K297,B Avdulla,J Richards,2,,,2>2>1,1.10.73,70.73,,Hit the front at 300m; ran on nicely.
+2025-03-25,ST,batch 9,SHA TIN ALL WEATHER TRACK,1200,GOOD,ABSOLUTE HONOUR,K260,Y L Chung,A S Cruz,3,,1-3/4L,4>3>2,1.11.03,71.03,,Made progress along the rail; good turn of foot.
+2025-03-25,ST,batch 9,SHA TIN ALL WEATHER TRACK,1200,GOOD,ROCKET SPADE,G170,H Bowman,C Fownes,5,H/XB,2-1/2L,6>6>3,1.11.15,71.15,,Hard ridden for 3rd when clear at 300m.
+2025-03-25,ST,batch 9,SHA TIN ALL WEATHER TRACK,1200,GOOD,AESTHETICISM,H289,Z Purton,P C Ng,4,,2-3/4L,5>5>4,1.11.18,71.18,,Under a hold for 4th; stayed on comfortably.
+2025-03-25,ST,batch 9,SHA TIN ALL WEATHER TRACK,1200,GOOD,BEAUTY ETERNAL,H008,A Atzeni,J Size,6,E,3-1/4L,3>4>5,1.11.24,71.24,,Swung wide at turn; under a hold thereafter.
+2025-03-25,ST,batch 9,SHA TIN ALL WEATHER TRACK,1200,GOOD,MULTIDUTCH,K171,M Chadwick,A S Cruz,1,B,7-1/2L,1>1>6,1.11.93,71.93,,Led early; weakened in the Straight.
+2025-03-24,CH,batch 1,CONGHUA TURF,1000,GOOD,ROMANTIC SON,J537,M L Yeung,D A Hayes,3,,,2>1>1,0.59.37,59.37,,Hit the front halfway; won cozily.
+2025-03-24,CH,batch 1,CONGHUA TURF,1000,GOOD,FAST NETWORK,J358,C M Thabana,C H Yip,4,,1-1/2L,4>4>2,0.59.63,59.63,,Just to stretch out.
+2025-03-24,CH,batch 1,CONGHUA TURF,1000,GOOD,FAST SPEED,K351,H T Mo,C S Shum,2,,1-3/4L,3>2>3,0.59.66,59.66,,Settled along the rail; ran on OK.
+2025-03-24,CH,batch 1,CONGHUA TURF,1000,GOOD,MAGNIFICENT NINE,H433,J Orman,J Size,1,B/E,3-3/4L,1>3>4,0.59.98,59.98,,Jumped well and led; under a hold thereafter.
+2025-03-24,CH,batch 2,CONGHUA TURF,1000,GOOD,MAGNIAC,H141,M L Yeung,T P Yung,5,V,,3>1>1,0.58.40,58.4,Passed,Hit the front halfway; kept on to score.
+2025-03-24,CH,batch 2,CONGHUA TURF,1000,GOOD,FATAL BLOW,J484,N S Li,M Newnham,1,,3/4L,1>3>2,0.58.55,58.55,,Jumped well and led; kept on evenly.
+2025-03-24,CH,batch 2,CONGHUA TURF,1000,GOOD,GENTLEMEN LEGACY,K385,J Orman,A S Cruz,4,,2-3/4L,5>5>3,0.58.82,58.82,Passed,Ridden conservatively; stayed on comfortably.
+2025-03-24,CH,batch 2,CONGHUA TURF,1000,GOOD,DENFIELD,G471,H T Mo,C S Shum,2,,3-1/4L,2>2>4,0.58.92,58.92,,Bounded several times in stall; under a hold throughout.
+2025-03-24,CH,batch 2,CONGHUA TURF,1000,GOOD,SYMBOL OF STRENGTH,K352,Z Zuriman,F C Lor,3,,3-1/4L,4>4>5,0.58.93,58.93,Passed,Average to begin; raced under his own steam.
+2025-03-24,CH,batch 3,CONGHUA TURF,1000,GOOD,SWAGGER BRO,K089,M L Yeung,D A Hayes,5,,,6>6>1,0.57.90,57.9,,Hit the line strongly when asked at 300m.
+2025-03-24,CH,batch 3,CONGHUA TURF,1000,GOOD,INNO CENTURY,K113,K De Melo,W Y So,2,,SH,1>1>2,0.57.92,57.92,,Led under a hold; kept on evenly.
+2025-03-24,CH,batch 3,CONGHUA TURF,1000,GOOD,DRACO,J115,M F Poon,P F Yiu,3,CP,Neck,5>4>3,0.57.95,57.95,,Slightly slow to begin; shifted racing ground at 200m; stayed on well.
+2025-03-24,CH,batch 3,CONGHUA TURF,1000,GOOD,CALIFORNIA BAY,K364,J Orman,A S Cruz,7,,1/2L,3>3>4,0.57.98,57.98,Passed,Ridden conservatively; stayed on comfortably.
+2025-03-24,CH,batch 3,CONGHUA TURF,1000,GOOD,WOLF COMING,K353,H T Mo,C S Shum,6,,1-1/4L,4>2>5,0.58.10,58.1,Passed,Slightly slow to begin; on pace without cover thereafter; ran on smoothly.
+2025-03-24,CH,batch 3,CONGHUA TURF,1000,GOOD,RISING PHOENIX,J498,Q Y Ng,D J Hall,4,,3-1/2L,7>7>6,0.58.46,58.46,,Settled at rear; made progress near the line.
+2025-03-24,CH,batch 3,CONGHUA TURF,1000,GOOD,GLORIOUS KINGDOM,K269,C L Chau,P F Yiu,1,,4-1/4L,2>5>7,0.58.58,58.58,,Average to begin; limited response when persuaded.
+2025-03-24,CH,batch 4,CONGHUA TURF,1000,GOOD,BRAVE OF FRIENDS,J382,K De Melo,D J Whyte,1,CP/XB,,3>3>1,0.58.16,58.16,,Responded well when shifted racing ground and asked at 300m.
+2025-03-24,CH,batch 4,CONGHUA TURF,1000,GOOD,PERIDOT,K148,M F Poon,D J Hall,2,,2-1/4L,1>1>2,0.58.52,58.52,,Led early; kept on evenly when given reminders.
+2025-03-24,CH,batch 4,CONGHUA TURF,1000,GOOD,ONE AND ONLY,K273,K C Leung,W K Mo,3,,2-1/2L,4>4>3,0.58.56,58.56,Passed,Slightly slow to begin; kept on evenly when hard ridden in the Straight.
+2025-03-24,CH,batch 4,CONGHUA TURF,1000,GOOD,GREAT LEGACY,K187,J Orman,D J Hall,4,XB,5-1/4L,2>2>4,0.59.00,59.0,Passed,Up with the pace and under a hold.
+2025-03-24,CH,batch 4,CONGHUA TURF,1000,GOOD,THE PERFECT MATCH,J253,H T Mo,C S Shum,5,,9-1/4L,5>5>5,0.59.62,59.62,Failed,Raced at rear; not much of a threat.
+2025-03-24,CH,batch 5,CONGHUA TURF,1000,GOOD,FANTASTIC HONOUR,K100,M L Yeung,D A Hayes,1,,,2>4>1,0.58.32,58.32,,Made progress along the rail to score.
+2025-03-24,CH,batch 5,CONGHUA TURF,1000,GOOD,COSMIC SPURS,J380,Z Zuriman,J Size,2,B,Neck,1>1>2,0.58.36,58.36,,Led from middle gate; kept on strongly when hard ridden.
+2025-03-24,CH,batch 5,CONGHUA TURF,1000,GOOD,HOSS,H055,K De Melo,W Y So,6,B/XB,Neck,6>5>3,0.58.38,58.38,,Ran on fairly well when clear at 300m.
+2025-03-24,CH,batch 5,CONGHUA TURF,1000,GOOD,LUCKY DUO,K210,C M Thabana,K W Lui,4,XB,3/4L,3>2>4,0.58.44,58.44,,Made steady progress when hard ridden.
+2025-03-24,CH,batch 5,CONGHUA TURF,1000,GOOD,CIRRUS SPEED,K279,M F Poon,D J Hall,5,,2L,7>7>5,0.58.62,58.62,,Tardy start; raced under his own steam thereafter.
+2025-03-24,CH,batch 5,CONGHUA TURF,1000,GOOD,RAINBOW WARRIOR,K348,J Orman,D J Whyte,3,,3-1/2L,5>6>6,0.58.87,58.87,,Tardy start; limited response under whip.
+2025-03-24,CH,batch 5,CONGHUA TURF,1000,GOOD,MIRACLE FIGHTER,K182,C L Chau,P F Yiu,7,B,3-1/2L,4>3>7,0.58.88,58.88,Passed,Jumped awkwardly; limited response when asked.
+2025-03-24,CH,batch 6,CONGHUA TURF,1000,GOOD,PERFECTDAY,K238,K De Melo,W Y So,8,,,6>7>1,0.58.25,58.25,,Came from behind to score when ridden along; ran on OK.
+2025-03-24,CH,batch 6,CONGHUA TURF,1000,GOOD,SUPER UNIVERSAL,K303,K C Leung,K W Lui,6,,Head,7>4>2,0.58.28,58.28,,Made steady progress when ridden along.
+2025-03-24,CH,batch 6,CONGHUA TURF,1000,GOOD,EMBLAZON,K122,C L Chau,W K Mo,4,,Neck,3>6>3,0.58.29,58.29,,Made steady progress when hard ridden.
+2025-03-24,CH,batch 6,CONGHUA TURF,1000,GOOD,LEGEND STAR,K271,H T Mo,C S Shum,3,,1-1/2L,1>1>4,0.58.50,58.5,,Fractious behind the stall; led under a hold; weakened over the concluding stages.
+2025-03-24,CH,batch 6,CONGHUA TURF,1000,GOOD,GOLDEN DARCI,H470,J Orman,D J Whyte,7,XB,1-3/4L,8>8>5,0.58.52,58.52,,Slightly slow to begin; not fully tested; ran on well near the line.
+2025-03-24,CH,batch 6,CONGHUA TURF,1000,GOOD,WATCH THE FORT,J522,M F Poon,D J Hall,5,,2L,2>2>6,0.58.57,58.57,,In handy position; weakened when asked.
+2025-03-24,CH,batch 6,CONGHUA TURF,1000,GOOD,GO GO GO,H196,M L Yeung,W Y So,1,PC,2-1/4L,5>3>7,0.58.60,58.6,,Settled along the rail; made progress under a hold.
+2025-03-24,CH,batch 6,CONGHUA TURF,1000,GOOD,POCHETTINO,J149,Z Zuriman,J Size,2,H,3L,4>5>8,0.58.72,58.72,,Raced under his own steam; just to stretch out.
+2025-03-24,CH,batch 7,CONGHUA TURF,1600,GOOD,VOYAGE BUBBLE,E436,M F Poon,P F Yiu,6,CP,,3>2>2>1,1.35.06,95.06,,On pace without cover; stayed on comfortably.
+2025-03-24,CH,batch 7,CONGHUA TURF,1600,GOOD,GHORGAN,K199,K C Leung,J Richards,5,XB,4L,2>1>1>2,1.35.68,95.68,,Average to begin; led thereafter; kept on when asked.
+2025-03-24,CH,batch 7,CONGHUA TURF,1600,GOOD,SETANTA,G095,N S Li,M Newnham,4,B,4L,7>7>5>3,1.35.69,95.69,,Made progress steadily at 600m; came from behind for 3rd.
+2025-03-24,CH,batch 7,CONGHUA TURF,1600,GOOD,ROSEWOOD FLEETFOOT,J524,Z Zuriman,J Richards,3,B,8-1/4L,6>6>7>4,1.36.37,96.37,,Under whip early; made minor progress near the line.
+2025-03-24,CH,batch 7,CONGHUA TURF,1600,GOOD,MISSION VOICE,H444,J Orman,M Newnham,2,B,8-3/4L,5>5>3>5,1.36.47,96.47,,Ridden along to make progress; but weakened thereafter.
+2025-03-24,CH,batch 7,CONGHUA TURF,1600,GOOD,BEAU GOSSE,G389,C L Chau,C H Yip,1,,10-1/4L,4>4>4>6,1.36.69,96.69,,Failed to respond when under whip and asked.
+2025-03-24,CH,batch 7,CONGHUA TURF,1600,GOOD,GOLDEN FAIRY,E448,K De Melo,W Y So,7,,14L,1>3>6>7,1.37.28,97.28,Failed,Ran on under a hold; stayed on fairly.
+2025-03-21,ST,batch 1,SHA TIN ALL WEATHER TRACK,1200,GOOD,KA YING RISING,J062,Z Purton,D A Hayes,5,,,2>2>1,1.10.24,70.24,,Racing in a very good manner; in top condition.
+2025-03-21,ST,batch 1,SHA TIN ALL WEATHER TRACK,1200,GOOD,SWORD POINT,G448,K C Leung,F C Lor,3,CP,1-3/4L,1>1>2,1.10.54,70.54,,Urged to lead along the rail; stayed on strongly.
+2025-03-21,ST,batch 1,SHA TIN ALL WEATHER TRACK,1200,GOOD,PACKING POWER,J284,C L Chau,C S Shum,4,CP,5L,3>3>3,1.11.05,71.05,,Saved ground throughout; stayed on comfortably.
+2025-03-21,ST,batch 1,SHA TIN ALL WEATHER TRACK,1200,GOOD,HELIOS EXPRESS,H302,B Avdulla,J Size,9,,6-1/4L,7>5>4,1.11.25,71.25,,Swung wide at turn; under a hold thereafter.
+2025-03-21,ST,batch 1,SHA TIN ALL WEATHER TRACK,1200,GOOD,HELENE FEELING,H215,H Bentley,C S Shum,8,B,7-1/2L,8>8>5,1.11.43,71.43,,Made progress under a hold when clear at 200m.
+2025-03-21,ST,batch 1,SHA TIN ALL WEATHER TRACK,1200,GOOD,MIGHTY STRENGTH,H450,M F Poon,P F Yiu,2,B,8L,6>6>6,1.11.51,71.51,,Responded fairly well when persuaded at 200m.
+2025-03-21,ST,batch 1,SHA TIN ALL WEATHER TRACK,1200,GOOD,RED LION,H115,J Orman,J Size,7,,8L,5>4>7,1.11.51,71.51,,Under a hold in the Straight; in good condition.
+2025-03-21,ST,batch 1,SHA TIN ALL WEATHER TRACK,1200,GOOD,GENERAL SMART,K138,H T Mo,C S Shum,1,B/XB,10-3/4L,9>9>8,1.11.94,71.94,,Not much progress when hard ridden.
+2025-03-21,ST,batch 1,SHA TIN ALL WEATHER TRACK,1200,GOOD,MOMENTS IN TIME,H474,A Hamelin,C S Shum,6,,10-3/4L,4>7>9,1.11.94,71.94,,Under restraint throughout; ran on fairly well.
+2025-03-21,ST,batch 2,SHA TIN ALL WEATHER TRACK,1200,GOOD,HE WAS YOU,J547,Y L Chung,A S Cruz,1,B,,1>1>1,1.11.11,71.11,,Led early under fast sectionals; just scored narrowly.
+2025-03-21,ST,batch 2,SHA TIN ALL WEATHER TRACK,1200,GOOD,GALAXY PATCH,H399,Z Purton,P C Ng,10,,1-1/4L,10>9>2,1.11.32,71.32,,Made progress in between runners when persuaded at 200m.
+2025-03-21,ST,batch 2,SHA TIN ALL WEATHER TRACK,1200,GOOD,GORGEOUS WIN,J008,B Avdulla,C S Shum,9,,2-1/2L,6>4>3,1.11.50,71.5,,First to jump; under a hold thereafter; raced under his own steam in the Straight.
+2025-03-21,ST,batch 2,SHA TIN ALL WEATHER TRACK,1200,GOOD,ENSUED,H452,K Teetan,J Size,11,,3-1/4L,9>7>4,1.11.61,71.61,,Racing wide throughout; made steady progress thereafter.
+2025-03-21,ST,batch 2,SHA TIN ALL WEATHER TRACK,1200,GOOD,COME FAST FAY FAY,K121,L Ferraris,K H Ting,8,,4-1/2L,11>11>5,1.11.83,71.83,,Hard ridden to make progress when shifted out at turn.
+2025-03-21,ST,batch 2,SHA TIN ALL WEATHER TRACK,1200,GOOD,CELESTIAL PATCH,K151,M F Poon,D Eustace,6,XB,5-1/4L,7>10>6,1.11.96,71.96,,Caught in traffic in the Straight; hard ridden to make progress when shifted out late.
+2025-03-21,ST,batch 2,SHA TIN ALL WEATHER TRACK,1200,GOOD,MATTERS MOST,K154,H Bentley,C S Shum,7,CP,6-1/4L,8>8>7,1.12.11,72.11,,Made progress in between runners; ran on evenly.
+2025-03-21,ST,batch 2,SHA TIN ALL WEATHER TRACK,1200,GOOD,MAGIC COMBO,K213,C L Chau,C S Shum,5,,7-3/4L,4>6>8,1.12.36,72.36,,Gave ground; ran on ordinary.
+2025-03-21,ST,batch 2,SHA TIN ALL WEATHER TRACK,1200,GOOD,WINNING MACHINE,K239,A Hamelin,C S Shum,4,,8L,2>2>9,1.12.38,72.38,,Led early; weakened in the Straight.
+2025-03-21,ST,batch 2,SHA TIN ALL WEATHER TRACK,1200,GOOD,FOREMOST TEDDY,J058,H T Mo,C S Shum,2,B,9-1/2L,5>5>10,1.12.63,72.63,,Under a hold in the Straight; not tested.
+2025-03-21,ST,batch 2,SHA TIN ALL WEATHER TRACK,1200,GOOD,JOYOUS LILY,J525,J Orman,F C Lor,3,,13-1/4L,3>3>11,1.13.22,73.22,,Up with the pace; weakened badly in the Straight.
+2025-03-21,ST,batch 3,SHA TIN ALL WEATHER TRACK,1050,GOOD,AURORA PATCH,K097,M F Poon,P C Ng,3,V,,1>1>1,1.02.01,62.01,,Led all the way to score.
+2025-03-21,ST,batch 3,SHA TIN ALL WEATHER TRACK,1050,GOOD,MUST GO,J133,A Atzeni,J Size,4,E/PC,SH,2>2>2,1.02.04,62.04,,Under restraint and one-off; ridden conservatively.
+2025-03-21,ST,batch 3,SHA TIN ALL WEATHER TRACK,1050,GOOD,TATTENHAM,H121,C L Chau,T P Yung,6,,5-3/4L,4>4>3,1.02.92,62.92,,Laying in at 300m; came from behind for 3rd when given a reminder.
+2025-03-21,ST,batch 3,SHA TIN ALL WEATHER TRACK,1050,GOOD,MULTISUPER,G416,J Orman,T P Yung,1,B,8-1/4L,3>3>4,1.03.33,63.33,,Slightly slow to begin; raced awkwardly at turn; under a hold in the Straight.
+2025-03-21,ST,batch 3,SHA TIN ALL WEATHER TRACK,1050,GOOD,KIAMA,K359,B Avdulla,J Size,2,,11-1/2L,6>6>5,1.03.85,63.85,Passed,Last to jump; ridden along early; ran on ordinary.
+2025-03-21,ST,batch 3,SHA TIN ALL WEATHER TRACK,1050,GOOD,WIN BEAUTY VIVA,K368,K Teetan,J Size,5,,11-1/2L,5>5>6,1.03.85,63.85,Failed,Niggled along throughout; raced greenly.
+2025-03-20,CH,batch 1,CONGHUA ALL WEATHER TRACK,1200,GOOD,BEAUTY WAVES,H294,R Thomas,P C Ng,3,P/E,,1>1>1,1.09.87,69.87,,Led all the way to score.
+2025-03-20,CH,batch 1,CONGHUA ALL WEATHER TRACK,1200,GOOD,CHARMING LEGEND,K127,Y Salim,C S Shum,2,,1L,2>2>2,1.10.03,70.03,,Second along the rail; stayed on fairly well.
+2025-03-20,CH,batch 1,CONGHUA ALL WEATHER TRACK,1200,GOOD,HAPPY TOGETHER,G446,Z Zuriman,F C Lor,1,H,4L,4>4>3,1.10.50,70.5,,Ran on fairly; stayed on OK.
+2025-03-20,CH,batch 1,CONGHUA ALL WEATHER TRACK,1200,GOOD,STRAIGHT ARRON,G435,C M Thabana,P F Yiu,4,XB,4L,3>3>4,1.10.51,70.51,,Raced under his own steam; ran on smoothly.
+2025-03-20,CH,batch 2,CONGHUA ALL WEATHER TRACK,1200,GOOD,ENDUED,K033,C M Thabana,J Richards,1,,,3>3>1,1.10.04,70.04,,Made progress under a hold; impressive.
+2025-03-20,CH,batch 2,CONGHUA ALL WEATHER TRACK,1200,GOOD,PACKING BOLE,H246,Z Zuriman,C S Shum,4,CP,1/2L,1>1>2,1.10.13,70.13,,Led early; overhauled near the line.
+2025-03-20,CH,batch 2,CONGHUA ALL WEATHER TRACK,1200,GOOD,ACROSS DA UNIVERSE,J328,R Thomas,P C Ng,2,,2-1/4L,5>5>3,1.10.41,70.41,,Slightly slow to begin; made steady progress when hard ridden.
+2025-03-20,CH,batch 2,CONGHUA ALL WEATHER TRACK,1200,GOOD,DEFINITIVE,K037,K L Chui,D Eustace,3,V,3L,2>2>4,1.10.52,70.52,,Kept on evenly when persuaded.
+2025-03-20,CH,batch 2,CONGHUA ALL WEATHER TRACK,1200,GOOD,PRESTIGE ALWAYS,J300,M Kellady,P C Ng,5,B,4-1/4L,4>4>5,1.10.73,70.73,,Ran on fairly when asked in the Straight.
+2025-03-20,CH,batch 3,CONGHUA ALL WEATHER TRACK,1200,GOOD,ROMAN CROWN,J456,C M Thabana,P C Ng,2,B,,4>4>1,1.10.12,70.12,,Came well from behind when shifted racing ground late.
+2025-03-20,CH,batch 3,CONGHUA ALL WEATHER TRACK,1200,GOOD,FANTASTIC FUN,J364,Z Zuriman,C S Shum,3,XB,SH,2>2>2,1.10.15,70.15,Required to pass barrier trial/OVE,First trial for his new handler; ran on fairly well.
+2025-03-20,CH,batch 3,CONGHUA ALL WEATHER TRACK,1200,GOOD,DASHING DRAGON,J464,M Kellady,D A Hayes,5,B,1-1/2L,3>3>3,1.10.38,70.38,,Ridden along throughout; moved better than before.
+2025-03-20,CH,batch 3,CONGHUA ALL WEATHER TRACK,1200,GOOD,NOBLE GO,K053,R Thomas,J Size,4,P,2-1/2L,1>1>4,1.10.50,70.5,,Urged to lead early; weakened at 200m.
+2025-03-20,CH,batch 3,CONGHUA ALL WEATHER TRACK,1200,GOOD,ESCAPE ROUTE,E273,Y Salim,J Size,1,H/P,9-1/2L,5>5>5,1.11.64,71.64,,Slow to begin; raced at rear.
+2025-03-20,CH,batch 4,CONGHUA ALL WEATHER TRACK,1200,GOOD,YODA'S CHOICE,J146,M Kellady,P C Ng,4,CP,,1>1>1,1.10.00,70.0,,Led under a hold; drew away to score.
+2025-03-20,CH,batch 4,CONGHUA ALL WEATHER TRACK,1200,GOOD,ON THE LASH,J182,D J Yang,P C Ng,1,PC/XB,4-1/2L,3>3>2,1.10.73,70.73,,Ridden along to be on pace; kept on evenly.
+2025-03-20,CH,batch 4,CONGHUA ALL WEATHER TRACK,1200,GOOD,PODIUM,H173,K L Chui,D Eustace,3,,5L,5>5>3,1.10.79,70.79,,Raced wide purposely; ran on for 3rd comfortably.
+2025-03-20,CH,batch 4,CONGHUA ALL WEATHER TRACK,1200,GOOD,FLYING PHANTOM,J086,R Thomas,J Size,5,P,6-1/4L,6>6>4,1.11.01,71.01,,Difficult to settle early; raced under his own steam when recovered.
+2025-03-20,CH,batch 4,CONGHUA ALL WEATHER TRACK,1200,GOOD,TIME TO FIRE,K117,Z Zuriman,D J Hall,6,,7-1/4L,2>2>5,1.11.17,71.17,,On pace without cover; weakened and gave ground in the Straight.
+2025-03-20,CH,batch 4,CONGHUA ALL WEATHER TRACK,1200,GOOD,SMART ZIPANG,J165,C M Thabana,W Y So,2,B,8-1/4L,4>4>6,1.11.34,71.34,,Limited response when hard ridden.
+2025-03-18,ST,batch 1,SHA TIN ALL WEATHER TRACK,1200,GOOD,SING DRAGON,J141,P N Wong,M Newnham,9,,,2>3>1,1.09.70,69.7,,On pace without cover; always in touch.
+2025-03-18,ST,batch 1,SHA TIN ALL WEATHER TRACK,1200,GOOD,CANDLELIGHT DINNER,J468,M L Yeung,Y S Tsui,2,H,3/4L,3>1>2,1.09.84,69.84,,Average to begin; urged to lead along the rail thereafter; hard ridden late for 2nd.
+2025-03-18,ST,batch 1,SHA TIN ALL WEATHER TRACK,1200,GOOD,MID WINTER WIND,K208,L Ferraris,M Newnham,7,,3-1/2L,6>6>3,1.10.26,70.26,,Made steady progress when clear in the Straight.
+2025-03-18,ST,batch 1,SHA TIN ALL WEATHER TRACK,1200,GOOD,BEAUTY JOY,E058,B Avdulla,A S Cruz,4,,4L,7>7>4,1.10.35,70.35,,Ridden conservatively early; ran on well when shifted out at 300m.
+2025-03-18,ST,batch 1,SHA TIN ALL WEATHER TRACK,1200,GOOD,SHANGHAI STYLE,J093,E C W Wong,C S Shum,1,B,5-3/4L,5>5>5,1.10.60,70.6,,Saved ground and under a hold.
+2025-03-18,ST,batch 1,SHA TIN ALL WEATHER TRACK,1200,GOOD,CONSPIRATOR,K090,L Hewitson,M Newnham,3,H/XB,5-3/4L,1>2>6,1.10.62,70.62,,On pace early; weakened in the Straight.
+2025-03-18,ST,batch 1,SHA TIN ALL WEATHER TRACK,1200,GOOD,TURIN STARSPANGLED,J209,K C Leung,P C Ng,6,,7-1/4L,4>4>7,1.10.87,70.87,,Up with the pace; under a hold in the Straight.
+2025-03-18,ST,batch 1,SHA TIN ALL WEATHER TRACK,1200,GOOD,GLORIOUS SUCCESS,K062,A Atzeni,D Eustace,5,B,8L,8>8>8,1.10.99,70.99,,Not much progress when ridden along at turn.
+2025-03-18,ST,batch 1,SHA TIN ALL WEATHER TRACK,1200,GOOD,TURIN MASCOT,H165,J Orman,P C Ng,8,PC,9-1/2L,9>9>9,1.11.24,71.24,,Taken back early; ran on ordinary when persuaded in the Straight.
+2025-03-18,ST,batch 2,SHA TIN ALL WEATHER TRACK,1200,GOOD,CALL ME GLORIOUS,H410,J Orman,K W Lui,8,P,,1>1>1,1.10.09,70.09,,Urged to lead along the rail; won cozily.
+2025-03-18,ST,batch 2,SHA TIN ALL WEATHER TRACK,1200,GOOD,AERIS NOVA,J534,K C Leung,T P Yung,3,V/XB,1L,5>5>2,1.10.26,70.26,,Made progress along the rail when hard ridden at 200m.
+2025-03-18,ST,batch 2,SHA TIN ALL WEATHER TRACK,1200,GOOD,TRULY FLUKE,K270,H Bowman,D Eustace,7,XB,2-3/4L,2>2>3,1.10.53,70.53,,On pace and one-off; kept on for 3rd when hard ridden at 200m.
+2025-03-18,ST,batch 2,SHA TIN ALL WEATHER TRACK,1200,GOOD,CHARMING STEED,E494,E C W Wong,C Fownes,5,,3-1/2L,3>3>4,1.10.67,70.67,,Under a hold when shifted out at 300m.
+2025-03-18,ST,batch 2,SHA TIN ALL WEATHER TRACK,1200,GOOD,STAR PERFORMER,K207,L Ferraris,M Newnham,9,H,5-1/4L,7>8>5,1.10.93,70.93,,Mouth opened when under restraint early; made progress in between runners when let go at 200m.
+2025-03-18,ST,batch 2,SHA TIN ALL WEATHER TRACK,1200,GOOD,TOP TIME,K006,K De Melo,W Y So,6,,5-1/2L,4>4>6,1.10.95,70.95,,Not quickened when asked at turn.
+2025-03-18,ST,batch 2,SHA TIN ALL WEATHER TRACK,1200,GOOD,FORTUNE SUPERSTAR,J210,N S Li,M Newnham,1,,6L,8>7>7,1.11.04,71.04,Required to pass barrier trial/OVE,Settled along the rail; unimpressive.
+2025-03-18,ST,batch 2,SHA TIN ALL WEATHER TRACK,1200,GOOD,FOREVER FOLKS,G463,B Thompson,C W Chang,2,,6-1/4L,9>9>8,1.11.09,71.09,,Raced under his own steam when shifted out at turn.
+2025-03-18,ST,batch 2,SHA TIN ALL WEATHER TRACK,1200,GOOD,SUNNY SING SPIRIT,K188,K Teetan,W Y So,4,CP,8-1/4L,6>6>9,1.11.40,71.4,,Found nothing when asked at 200m.
+2025-03-18,ST,batch 3,SHA TIN ALL WEATHER TRACK,1200,GOOD,LITTLE PARADISE,K246,L Ferraris,K H Ting,8,,,1>1>1,1.10.27,70.27,,Cut across early; drew away to score.
+2025-03-18,ST,batch 3,SHA TIN ALL WEATHER TRACK,1200,GOOD,DAILY TROPHY,H283,H Bentley,C Fownes,7,B,3-1/2L,2>2>2,1.10.85,70.85,,On pace and one-off; kept on when asked late.
+2025-03-18,ST,batch 3,SHA TIN ALL WEATHER TRACK,1200,GOOD,YOU'REMYEVERYTHING,E413,P N Wong,C W Chang,4,,5-3/4L,4>3>3,1.11.21,71.21,,Under a hold for 3rd; stayed on comfortably.
+2025-03-18,ST,batch 3,SHA TIN ALL WEATHER TRACK,1200,GOOD,MEEPMEEP,H234,A Badel,J Size,5,E/PC,7L,5>4>4,1.11.39,71.39,,Stretching out nicely when persuaded at 200m.
+2025-03-18,ST,batch 3,SHA TIN ALL WEATHER TRACK,1200,GOOD,GENIUS BABY,K132,K C Leung,D A Hayes,9,,7-1/4L,6>7>5,1.11.42,71.42,,Ran on fairly well when hard ridden at 200m.
+2025-03-18,ST,batch 3,SHA TIN ALL WEATHER TRACK,1200,GOOD,LUCKY IMPACT,J337,M Chadwick,F C Lor,2,,8-1/2L,8>8>6,1.11.62,71.62,,Made progress along the inside; stayed on comfortably.
+2025-03-18,ST,batch 3,SHA TIN ALL WEATHER TRACK,1200,GOOD,SHINKANSEN,H277,J Orman,D J Whyte,1,CP/H,8-3/4L,7>5>7,1.11.67,71.67,,Not much progress when ridden along at turn.
+2025-03-18,ST,batch 3,SHA TIN ALL WEATHER TRACK,1200,GOOD,QINGYUAN STAR,J350,M F Poon,D J Hall,6,B,9L,3>6>8,1.11.73,71.73,,Gave ground; ran on ordinary.
+2025-03-18,ST,batch 3,SHA TIN ALL WEATHER TRACK,1200,GOOD,ONLY U,J037,K H Tsang,T P Yung,3,CP,10L,10>10>9,1.11.85,71.85,,Caught in traffic at 200m; limited response when recovered.
+2025-03-18,ST,batch 3,SHA TIN ALL WEATHER TRACK,1200,GOOD,PERFECT PAIRING,J331,B Thompson,J Size,10,PC,11-1/2L,9>9>10,1.12.09,72.09,,Ridden along after start; racing wide at rear.
+2025-03-18,ST,batch 4,SHA TIN ALL WEATHER TRACK,1050,GOOD,BOTTOMUPTOGETHER,J316,M F Poon,F C Lor,3,,,1>1>1,1.01.77,61.77,,Led under fast sectional; stayed on well.
+2025-03-18,ST,batch 4,SHA TIN ALL WEATHER TRACK,1050,GOOD,HORSEPOWER,J431,M Chadwick,F C Lor,2,XB,1-1/4L,4>3>2,1.01.97,61.97,,Under restraint throughout; stayed on strongly.
+2025-03-18,ST,batch 4,SHA TIN ALL WEATHER TRACK,1050,GOOD,SIGHT DREAMER,J542,B Thompson,J Size,4,,1-1/2L,2>2>3,1.02.00,62.0,,Under a hold for 3rd; stayed on comfortably.
+2025-03-18,ST,batch 4,SHA TIN ALL WEATHER TRACK,1050,GOOD,BEAUTY MISSILE,H123,A Hamelin,F C Lor,1,PC,3L,3>4>4,1.02.23,62.23,,Responded fairly well when asked at 200m.
+2025-03-14,HV,batch 1,HAPPY VALLEY TURF,1700,GOOD TO FIRM,WINNING WING,K129,H T Mo,K W Lui,9,,,8>8>8>1,1.46.69,106.69,,Made progress saving ground; stayed on to score.
+2025-03-14,HV,batch 1,HAPPY VALLEY TURF,1700,GOOD TO FIRM,MONDIAL,K206,K Teetan,D A Hayes,12,B,1-1/4L,2>2>2>2,1.46.88,106.88,,Shifted out on jumping; ridden along coming down the Rock; hard ridden for 2nd.
+2025-03-14,HV,batch 1,HAPPY VALLEY TURF,1700,GOOD TO FIRM,WAH MAY WAI WAI,J193,Y L Chung,A S Cruz,6,,2-3/4L,1>1>1>3,1.47.14,107.14,,Led early; kept on evenly for 3rd.
+2025-03-14,HV,batch 1,HAPPY VALLEY TURF,1700,GOOD TO FIRM,IGOR STRAVINSKY,K086,B Avdulla,A S Cruz,2,,5-1/2L,3>3>3>4,1.47.58,107.58,,Head in the air in the Straight; limited response when hard ridden.
+2025-03-14,HV,batch 1,HAPPY VALLEY TURF,1700,GOOD TO FIRM,LUPO SOLITARIO,J495,J Orman,F C Lor,4,CP,6-1/2L,6>6>6>5,1.47.72,107.72,,Ran on evenly when clear in the Straight.
+2025-03-14,HV,batch 1,HAPPY VALLEY TURF,1700,GOOD TO FIRM,LEAN HERO,G402,L Hewitson,D A Hayes,8,,7L,7>7>7>6,1.47.81,107.81,,Settled midfield; not fully tested.
+2025-03-14,HV,batch 1,HAPPY VALLEY TURF,1700,GOOD TO FIRM,MEGA FORCE,K200,K C Leung,P C Ng,10,,7-1/2L,9>9>9>7,1.47.90,107.9,,Failed to respond when hard ridden.
+2025-03-14,HV,batch 1,HAPPY VALLEY TURF,1700,GOOD TO FIRM,ALL EYES ON ME,J453,M L Yeung,C W Chang,1,,7-1/2L,4>5>5>8,1.47.91,107.91,,Weakened in the Straight; unimpressive.
+2025-03-14,HV,batch 1,HAPPY VALLEY TURF,1700,GOOD TO FIRM,CHARITY TOGETHER,K254,A Atzeni,D Eustace,7,B,8-1/4L,5>4>4>9,1.48.00,108.0,,Weakened in the Straight; gave ground.
+2025-03-14,HV,batch 1,HAPPY VALLEY TURF,1700,GOOD TO FIRM,RAGGA BOMB,K162,M F Poon,D Eustace,11,XB,8-1/4L,10>10>10>10,1.48.02,108.02,,Slightly slow to begin; never in contention.
+2025-03-14,HV,batch 2,HAPPY VALLEY TURF,1200,GOOD TO FIRM,PAKISTAN LEGACY,J363,M L Yeung,W Y So,8,CP,,2>1>1,1.11.92,71.92,,Always in touch; moved better than before; in good condition.
+2025-03-14,HV,batch 2,HAPPY VALLEY TURF,1200,GOOD TO FIRM,ONE MORE,K261,L Ferraris,M Newnham,7,H/XB,Neck,3>2>2,1.11.97,71.97,,Hard ridden for 2nd when clear in the Straight.
+2025-03-14,HV,batch 2,HAPPY VALLEY TURF,1200,GOOD TO FIRM,NORTHERN BEACHES,H266,H Bentley,W Y So,1,CP,1/2L,6>6>3,1.12.02,72.02,,Shifted out at 200m; hard ridden for 3rd.
+2025-03-14,HV,batch 2,HAPPY VALLEY TURF,1200,GOOD TO FIRM,TIN FOOK,K167,K Teetan,D J Hall,5,,2-1/4L,4>4>4,1.12.30,72.3,,Under a hold in the Straight; ran on nicely.
+2025-03-14,HV,batch 2,HAPPY VALLEY TURF,1200,GOOD TO FIRM,SILO,J399,H Bowman,M Newnham,9,CP,2-3/4L,8>7>5,1.12.37,72.37,,Taken back early; made progress in between runners when balanced up at 200m.
+2025-03-14,HV,batch 2,HAPPY VALLEY TURF,1200,GOOD TO FIRM,HOLMES A COURT,J511,B Avdulla,A S Cruz,4,,3L,1>3>6,1.12.40,72.4,,Gave ground; ran on ordinary.
+2025-03-14,HV,batch 2,HAPPY VALLEY TURF,1200,GOOD TO FIRM,KA YING ATTACK,J391,M F Poon,D J Hall,2,,3-1/2L,5>5>7,1.12.47,72.47,,Held ground when asked in the Straight.
+2025-03-14,HV,batch 2,HAPPY VALLEY TURF,1200,GOOD TO FIRM,SUPER LEGENDS,H364,P N Wong,C S Shum,6,B,4L,7>8>8,1.12.56,72.56,,Raced at rear; just to stretch out.
+2025-03-14,HV,batch 3,HAPPY VALLEY TURF,1200,GOOD TO FIRM,INCREDIBLE MOMENT,K275,L Ferraris,M Newnham,3,,,1>1>1,1.11.49,71.49,,Led under fast sectional; ran on nicely to score.
+2025-03-14,HV,batch 3,HAPPY VALLEY TURF,1200,GOOD TO FIRM,PEJIBAYE,K297,B Avdulla,J Richards,2,,1-1/4L,7>7>2,1.11.67,71.67,,Last to jump; hard ridden for 2nd when shifted to the outside.
+2025-03-14,HV,batch 3,HAPPY VALLEY TURF,1200,GOOD TO FIRM,KING LOTUS,K186,L Hewitson,M Newnham,7,,1-1/4L,3>4>3,1.11.70,71.7,,Stayed on comfortably for 3rd.
+2025-03-14,HV,batch 3,HAPPY VALLEY TURF,1200,GOOD TO FIRM,DIRIYA,K282,M F Poon,C H Yip,6,,3L,5>5>4,1.11.98,71.98,,Responded fairly well when hard ridden at 200m.
+2025-03-14,HV,batch 3,HAPPY VALLEY TURF,1200,GOOD TO FIRM,QUICK CONTRIBUTION,K112,P N Wong,D J Hall,5,,3-1/4L,8>9>5,1.12.00,72.0,,Shifted out at turn; made progress steadily.
+2025-03-14,HV,batch 3,HAPPY VALLEY TURF,1200,GOOD TO FIRM,VICTOR THE RAPID,J393,C L Chau,D J Whyte,4,XB,3-1/4L,6>6>6,1.12.02,72.02,,Shifted racing ground at 200m; held ground.
+2025-03-14,HV,batch 3,HAPPY VALLEY TURF,1200,GOOD TO FIRM,NO OTHER CHOICE,K049,H Bowman,C Fownes,9,B,3-3/4L,2>2>7,1.12.10,72.1,Passed,Led early; weakened badly in the Straight.
+2025-03-14,HV,batch 3,HAPPY VALLEY TURF,1200,GOOD TO FIRM,ACE,K307,J Orman,J Richards,8,B,4-1/2L,9>8>8,1.12.22,72.22,,Bounded on jumping; found nothing when under whip at 300m.
+2025-03-14,HV,batch 3,HAPPY VALLEY TURF,1200,GOOD TO FIRM,LEADING ARTICLE,K071,A Hamelin,W K Mo,1,,5-1/4L,4>3>9,1.12.34,72.34,,Weakened halfway; finished last.
+2025-03-14,HV,batch 4,HAPPY VALLEY TURF,1200,GOOD TO FIRM,SHAMUS STORM,K031,M L Yeung,D A Hayes,1,,,8>8>1,1.11.49,71.49,Passed,Shifted out at 300m; made ground under whip.
+2025-03-14,HV,batch 4,HAPPY VALLEY TURF,1200,GOOD TO FIRM,JUBILANT WINNER,J346,B Thompson,J Richards,7,,Nose,4>4>2,1.11.49,71.49,,Hit the front momentarily; stayed on fairly well.
+2025-03-14,HV,batch 4,HAPPY VALLEY TURF,1200,GOOD TO FIRM,RATTAN GALAXY,K143,K C Leung,K L Man,8,B,2-1/4L,5>5>3,1.11.84,71.84,Passed,Racing wide throughout; made progress along the outside.
+2025-03-14,HV,batch 4,HAPPY VALLEY TURF,1200,GOOD TO FIRM,METAL KING,K135,L Ferraris,K H Ting,6,,3-3/4L,7>7>4,1.12.07,72.07,,Made progress in between runners; stayed on comfortably.
+2025-03-14,HV,batch 4,HAPPY VALLEY TURF,1200,GOOD TO FIRM,KA YING RESILIENCE,J439,M F Poon,D A Hayes,5,H,3-3/4L,2>2>5,1.12.10,72.1,,On pace and one-off; limited response in the Straight.
+2025-03-14,HV,batch 4,HAPPY VALLEY TURF,1200,GOOD TO FIRM,SUGAR QUEEN PRAWN,K149,J Orman,D J Whyte,3,CP/XB,5-1/4L,1>1>6,1.12.34,72.34,,Led early; weakened badly in the Straight.
+2025-03-14,HV,batch 4,HAPPY VALLEY TURF,1200,GOOD TO FIRM,BEAU CADEAU,J334,C L Chau,W K Mo,4,B,6-3/4L,3>3>7,1.12.57,72.57,,On pace early; limited response when asked in the Straight.
+2025-03-14,HV,batch 4,HAPPY VALLEY TURF,1200,GOOD TO FIRM,IRON FIGHTER,J497,A Hamelin,K H Ting,2,B,12-1/2L,6>6>8,1.13.47,73.47,,Ridden along going up the Rock; weakened thereafter.
+2025-03-14,HV,batch 5,HAPPY VALLEY TURF,1200,GOOD TO FIRM,KA YING GLORY,K247,K Teetan,D A Hayes,5,,,1>1>1,1.11.57,71.57,,Led early; kept on well to score.
+2025-03-14,HV,batch 5,HAPPY VALLEY TURF,1200,GOOD TO FIRM,WITH A SMILE,K136,M L Yeung,W Y So,1,,1-1/2L,5>3>2,1.11.79,71.79,,Responded fairly well when under whip late.
+2025-03-14,HV,batch 5,HAPPY VALLEY TURF,1200,GOOD TO FIRM,KING VICTOR,K042,M F Poon,K L Man,9,P,4-1/2L,2>2>3,1.12.31,72.31,Passed,Laying in slightly when under whip at 200m.
+2025-03-14,HV,batch 5,HAPPY VALLEY TURF,1200,GOOD TO FIRM,CIRCUS REEL,J274,B Avdulla,D J Hall,3,,5L,6>7>4,1.12.38,72.38,,Ran on well from behind when clear in the Straight.
+2025-03-14,HV,batch 5,HAPPY VALLEY TURF,1200,GOOD TO FIRM,GROOVY FEELING,J515,B Thompson,J Richards,4,,5-1/4L,4>5>5,1.12.39,72.39,,Caught in traffic at 200m; not fully tested.
+2025-03-14,HV,batch 5,HAPPY VALLEY TURF,1200,GOOD TO FIRM,BILLION TWO,K212,K C Leung,K H Ting,8,,6L,3>4>6,1.12.52,72.52,,Racing wide throughout; ran on ordinary.
+2025-03-14,HV,batch 5,HAPPY VALLEY TURF,1200,GOOD TO FIRM,CASA RUBICK,K299,L Hewitson,J Richards,7,CP,6-1/4L,7>6>7,1.12.58,72.58,,Never in contention when asked at 200m.
+2025-03-14,HV,batch 5,HAPPY VALLEY TURF,1200,GOOD TO FIRM,DEAL COMPLETED,J378,J Orman,D J Whyte,6,CP/XB,6-1/2L,8>8>8,1.12.61,72.61,,Raced clumsily; never a threat.
+2025-03-14,HV,batch 6,HAPPY VALLEY TURF,1000,GOOD TO FIRM,CASA OF HONOR,K310,M F Poon,C W Chang,7,,,1>1>1,0.58.47,58.47,,Led all the way to score; ran on nicely.
+2025-03-14,HV,batch 6,HAPPY VALLEY TURF,1000,GOOD TO FIRM,ALL'S WELL,K294,B Thompson,C H Yip,2,H,3/4L,7>5>2,0.58.59,58.59,,Hit the line strongly when shifted out gradually at 300m.
+2025-03-14,HV,batch 6,HAPPY VALLEY TURF,1000,GOOD TO FIRM,MOON ROCKET,K324,K C Leung,C S Shum,6,,3/4L,2>2>3,0.58.62,58.62,,Hard ridden for 3rd in a less competitive field.
+2025-03-14,HV,batch 6,HAPPY VALLEY TURF,1000,GOOD TO FIRM,COLOURFUL PRINCE,E418,P N Wong,D J Whyte,3,SR,1-1/4L,3>3>4,0.58.69,58.69,,Niggled along throughout; ran on ordinary.
+2025-03-14,HV,batch 6,HAPPY VALLEY TURF,1000,GOOD TO FIRM,WISEMAN,K211,H Bentley,C S Shum,1,,2L,4>4>5,0.58.78,58.78,,Ridden along at turn; raced greenly.
+2025-03-14,HV,batch 6,HAPPY VALLEY TURF,1000,GOOD TO FIRM,ALL ROUND WINNER,K382,K Teetan,D A Hayes,8,,2-1/2L,8>8>6,0.58.88,58.88,Passed,Made minor inroads when asked at 200m.
+2025-03-14,HV,batch 6,HAPPY VALLEY TURF,1000,GOOD TO FIRM,MARVEL AND GOLD,K109,Y L Chung,C H Yip,4,H,3L,6>6>7,0.58.96,58.96,,Laying in in the Straight; gave ground thereafter.
+2025-03-14,HV,batch 6,HAPPY VALLEY TURF,1000,GOOD TO FIRM,STAR SATYR,K231,B Avdulla,A S Cruz,5,H,4-1/4L,5>7>8,0.59.16,59.16,,Racing wide throughout; limited response when asked.
+2025-03-14,HV,batch 7,HAPPY VALLEY TURF,1000,GOOD TO FIRM,SUNNY GALAXY,K328,P N Wong,C S Shum,4,,,1>1>1,0.59.35,59.35,,Niggled along to lead; kept on when asked late.
+2025-03-14,HV,batch 7,HAPPY VALLEY TURF,1000,GOOD TO FIRM,GALLANT REX,K243,B Avdulla,D A Hayes,7,,1/2L,6>3>2,0.59.44,59.44,Passed,Made progress steadily; stayed on comfortably.
+2025-03-14,HV,batch 7,HAPPY VALLEY TURF,1000,GOOD TO FIRM,COOL BLUE,H011,M Chadwick,W Y So,1,E/P,1L,8>7>3,0.59.51,59.51,,Average to begin; came from behind for 3rd when shifted out gradually at 200m.
+2025-03-14,HV,batch 7,HAPPY VALLEY TURF,1000,GOOD TO FIRM,HANDSOME BLOND,K241,M F Poon,C H Yip,6,H,1L,5>6>4,0.59.52,59.52,Failed,Stumbled after start; shifted widest in the Straight; made progress when hard ridden.
+2025-03-14,HV,batch 7,HAPPY VALLEY TURF,1000,GOOD TO FIRM,GOOD CHAP,J499,H Bowman,D J Hall,9,,1-1/4L,2>2>5,0.59.54,59.54,,On pace and one-off; limited response late.
+2025-03-14,HV,batch 7,HAPPY VALLEY TURF,1000,GOOD TO FIRM,BOOMBAYAH,H307,Y L Chung,A S Cruz,2,,1-1/2L,3>4>6,0.59.59,59.59,,Saved ground throughout; failed to respond when under whip in the Straight.
+2025-03-14,HV,batch 7,HAPPY VALLEY TURF,1000,GOOD TO FIRM,NEW ASIA GREAT,J412,B Thompson,D A Hayes,3,,2-1/4L,4>5>7,0.59.73,59.73,,Ran on ordinary when shifted out at 200m.
+2025-03-14,HV,batch 7,HAPPY VALLEY TURF,1000,GOOD TO FIRM,TOP TO SKY,K339,K Teetan,C H Yip,8,,2-3/4L,9>8>8,0.59.78,59.78,Passed,Under restraint in the Straight; ridden conservatively.
+2025-03-14,HV,batch 7,HAPPY VALLEY TURF,1000,GOOD TO FIRM,VOYAGE BOSS,K321,K C Leung,F C Lor,5,,2-3/4L,7>9>9,0.59.78,59.78,Passed,Slightly slow to begin; raced at rear.
+2025-03-13,ST,batch 1,CONGHUA ALL WEATHER TRACK,1200,GOOD,LUCK IS BACK,J398,C M Thabana,K W Lui,5,,,1>1>1,1.11.11,71.11,,Ridden along to take the lead; kept on to score.
+2025-03-13,ST,batch 1,CONGHUA ALL WEATHER TRACK,1200,GOOD,FLAMINGO TRILLION,H192,Z Zuriman,F C Lor,1,,1/2L,2>2>2,1.11.18,71.18,,On pace for 2nd; raced under his own steam.
+2025-03-13,ST,batch 1,CONGHUA ALL WEATHER TRACK,1200,GOOD,SAVVY WARRIOR,K257,K L Chui,D Eustace,3,XB,1L,3>3>3,1.11.27,71.27,,Made progress; ran on fairly well.
+2025-03-13,ST,batch 1,SHA TIN ALL WEATHER TRACK,1200,GOOD,ENTHRALLED,K252,B Avdulla,J Size,7,,,8>6>1,1.11.54,71.54,,Swung wide at turn; ran on to score under a hold.
+2025-03-13,ST,batch 1,SHA TIN ALL WEATHER TRACK,1200,GOOD,TELECOM FIGHTERS,D482,Y L Chung,Y S Tsui,8,,Head,2>2>2,1.11.58,71.58,Passed,Hard ridden for 2nd; veteran in good condition.
+2025-03-13,ST,batch 1,SHA TIN ALL WEATHER TRACK,1200,GOOD,ALWAYS MY FOLKS,J345,B Thompson,C W Chang,2,H,2L,6>7>3,1.11.85,71.85,,Eased back early; made progress when shifted to the inside in the Straight.
+2025-03-13,ST,batch 1,SHA TIN ALL WEATHER TRACK,1200,GOOD,FIGOPUMPKIN,K137,K Teetan,J Size,6,B,2-1/2L,1>1>4,1.11.96,71.96,,Hard ridden to take the lead; weakened late.
+2025-03-13,ST,batch 1,SHA TIN ALL WEATHER TRACK,1200,GOOD,PACKING TURBINE,J470,A Atzeni,P C Ng,3,,3L,7>9>5,1.12.03,72.03,,Shifted out at turn; ran on fairly well.
+2025-03-13,ST,batch 1,SHA TIN ALL WEATHER TRACK,1200,GOOD,STORM RUNNER,J452,M F Poon,P C Ng,1,,3L,9>8>6,1.12.04,72.04,,Shifted out gradually at 200m; made progress under whip.
+2025-03-13,ST,batch 1,SHA TIN ALL WEATHER TRACK,1200,GOOD,WAVE GARDEN,K209,H Bentley,K H Ting,5,CP,3-1/4L,5>5>7,1.12.05,72.05,,Not quickened when asked in the Straight.
+2025-03-13,ST,batch 1,SHA TIN ALL WEATHER TRACK,1200,GOOD,ANOTHER ZONDA,K176,J Orman,Y S Tsui,4,B,3-1/2L,3>3>8,1.12.12,72.12,,Up with the pace; under a hold in the Straight.
+2025-03-13,ST,batch 1,CONGHUA ALL WEATHER TRACK,1200,GOOD,SPIRIT OF PEACE,K007,R Thomas,J Size,4,,7-1/2L,5>5>4,1.12.30,72.3,,Not fully tested; stayed on well.
+2025-03-13,ST,batch 1,CONGHUA ALL WEATHER TRACK,1200,GOOD,LA CITY BLANCHE,G371,Y Salim,A S Cruz,2,,9-3/4L,4>4>5,1.12.68,72.68,,Limited response when given reminders.
+2025-03-13,ST,batch 1,SHA TIN ALL WEATHER TRACK,1200,GOOD,WUKONG JEWELLERY,K314,H Bowman,J Size,9,,7-1/4L,4>4>9,1.12.71,72.71,Passed,On pace without cover; weakened in the Straight.
+2025-03-13,ST,batch 2,CONGHUA ALL WEATHER TRACK,1200,GOOD,SOLID SHALAA,H228,Q Y Ng,D A Hayes,4,,,1>1>1,1.10.18,70.18,,Led early; drew away to score.
+2025-03-13,ST,batch 2,CONGHUA ALL WEATHER TRACK,1200,GOOD,MAGIC HALLOW,J329,D J Yang,K L Man,5,XB,5-1/4L,2>2>2,1.11.01,71.01,,Over-racing early; kept on evenly when recovered.
+2025-03-13,ST,batch 2,CONGHUA ALL WEATHER TRACK,1200,GOOD,LUCKY TOUCH,J203,Z Zuriman,J Richards,2,,6-1/4L,4>4>3,1.11.19,71.19,,Settled midfield; ran on smoothly.
+2025-03-13,ST,batch 2,SHA TIN ALL WEATHER TRACK,1200,GOOD,SUPER EXPRESS,K245,B Thompson,J Size,7,,,3>2>1,1.11.50,71.5,,Made progress steadily; impressive.
+2025-03-13,ST,batch 2,SHA TIN ALL WEATHER TRACK,1200,GOOD,BEAUTY VIVA,K155,A Atzeni,P C Ng,5,B/SR,Neck,4>4>2,1.11.56,71.56,Passed,Racing wide throughout; stayed on well when persuaded late.
+2025-03-13,ST,batch 2,CONGHUA ALL WEATHER TRACK,1200,GOOD,ENDEARED,H161,R Thomas,J Size,6,P/XB,9L,6>6>4,1.11.61,71.61,,Racing wide throughout; stayed on well.
+2025-03-13,ST,batch 2,SHA TIN ALL WEATHER TRACK,1200,GOOD,CALIFORNIA STAR,J123,Y L Chung,A S Cruz,6,B,1-3/4L,7>6>3,1.11.77,71.77,Passed,Jumped clumsily; hard ridden for 3rd when clear in the Straight.
+2025-03-13,ST,batch 2,CONGHUA ALL WEATHER TRACK,1200,GOOD,MASTEROFMYUNIVERSE,J325,C M Thabana,J Size,3,H,10-1/4L,5>5>5,1.11.82,71.82,,Taken back; ran on with plenty in hand.
+2025-03-13,ST,batch 2,CONGHUA ALL WEATHER TRACK,1200,GOOD,FIVE G PATCH,G286,Y Salim,A S Cruz,1,,10-3/4L,3>3>6,1.11.88,71.88,,Limited response when asked; not as expected.
+2025-03-13,ST,batch 2,SHA TIN ALL WEATHER TRACK,1200,GOOD,ISLAND BREEZES,J479,J Orman,P C Ng,4,B,2-3/4L,2>5>4,1.11.93,71.93,,Not fully tested when under whip at 200m.
+2025-03-13,ST,batch 2,SHA TIN ALL WEATHER TRACK,1200,GOOD,YEABOI,G372,M F Poon,C H Yip,1,,3-1/4L,6>7>5,1.12.01,72.01,,Slightly slow to begin; quickened when asked at 300m.
+2025-03-13,ST,batch 2,SHA TIN ALL WEATHER TRACK,1200,GOOD,COLOURFUL BARON,G301,K Teetan,D J Whyte,2,B,3-1/4L,1>1>6,1.12.03,72.03,,Led along the rail until the final 200m; weakened thereafter.
+2025-03-13,ST,batch 2,SHA TIN ALL WEATHER TRACK,1200,GOOD,THE PRIME,J352,H Bowman,J Richards,3,,5L,5>3>7,1.12.31,72.31,,Limited response when hard ridden.
+2025-03-13,ST,batch 3,SHA TIN ALL WEATHER TRACK,1050,GOOD,KING SHOW,K047,K Teetan,Y S Tsui,2,B,,1>1>1,1.01.99,61.99,Passed,Led all the way to score; stayed on strongly.
+2025-03-13,ST,batch 3,SHA TIN ALL WEATHER TRACK,1050,GOOD,HAYDAY,H321,M F Poon,P F Yiu,3,,Neck,2>2>2,1.02.05,62.05,,Under a hold for 2nd; ran on comfortably.
+2025-03-13,ST,batch 3,SHA TIN ALL WEATHER TRACK,1050,GOOD,TEAM TEAM FOLKS,K302,B Thompson,C W Chang,1,SR,3L,3>4>3,1.02.46,62.46,,Slightly slow to begin; over-racing at 800m; ran on for 3rd when recovered.
+2025-03-13,ST,batch 3,SHA TIN ALL WEATHER TRACK,1050,GOOD,MAJESTIC EXPRESS,J244,B Avdulla,J Size,5,E,3-1/2L,4>3>4,1.02.54,62.54,,Mouth opened early; under a hold and racing wide throughout.
+2025-03-13,ST,batch 3,SHA TIN ALL WEATHER TRACK,1050,GOOD,FUNG,J101,H T Mo,C W Chang,4,B,6-3/4L,5>5>5,1.03.06,63.06,Passed,Average to begin; under whip and asked in the Straight.
+2025-03-13,ST,batch 3,CONGHUA ALL WEATHER TRACK,1200,GOOD,NEW FOREST,K094,N S Li,M Newnham,2,,,1>1>1,1.10.79,70.79,,Led under slow tempo; kept on to score.
+2025-03-13,ST,batch 3,CONGHUA ALL WEATHER TRACK,1200,GOOD,BUNTA BABY,J465,D J Yang,K L Man,3,CP,1-1/4L,2>2>2,1.11.00,71.0,,On pace without cover; kept on when asked.
+2025-03-13,ST,batch 3,CONGHUA ALL WEATHER TRACK,1200,GOOD,DREAMING WINNER,K046,Z Zuriman,F C Lor,1,H,2-1/4L,3>3>3,1.11.14,71.14,,Shifted racing ground for a clear running; responded well.
+2025-03-13,ST,batch 3,CONGHUA ALL WEATHER TRACK,1200,GOOD,MIGHTY STEED,J384,Q Y Ng,K W Lui,4,,4-1/2L,4>4>4,1.11.52,71.52,,Settled midfield; ran on evenly.
+2025-03-13,ST,batch 3,CONGHUA ALL WEATHER TRACK,1200,GOOD,YOUNG CHAMPION,J195,Y Salim,J Size,5,B/E,5L,5>5>5,1.11.61,71.61,,Under a hold and not tested.
+2025-03-13,ST,batch 3,CONGHUA ALL WEATHER TRACK,1200,GOOD,SURE JOYFUL,G125,C M Thabana,P F Yiu,6,,6-1/4L,6>6>6,1.11.80,71.8,,Racing wide purposely; not fully tested.
+2025-03-13,ST,batch 4,CONGHUA ALL WEATHER TRACK,1200,GOOD,PRECIOUS HILL,J475,R Thomas,K L Man,5,,,1>1>1,1.10.03,70.03,,Niggled along to lead; kept on to score when asked.
+2025-03-13,ST,batch 4,CONGHUA ALL WEATHER TRACK,1200,GOOD,MASSIVE ACTION,E445,Z Zuriman,F C Lor,7,SR/V,1-1/2L,2>2>2,1.10.28,70.28,Failed,Stayed on comfortably for 2nd.
+2025-03-13,ST,batch 4,CONGHUA ALL WEATHER TRACK,1200,GOOD,SMART FIGHTER,H278,C M Thabana,P F Yiu,3,,3-1/2L,4>3>3,1.10.61,70.61,,Dashed on under his own steam; stayed on well.
+2025-03-13,ST,batch 4,CONGHUA ALL WEATHER TRACK,1200,GOOD,ENSHINE,J196,Y Salim,K L Man,2,B/H,7-1/2L,3>4>4,1.11.21,71.21,,Limited response when asked at 300m.
+2025-03-13,ST,batch 4,CONGHUA ALL WEATHER TRACK,1200,GOOD,LUCKY KING,J449,M Kellady,W K Mo,1,B/H,12L,5>5>5,1.11.95,71.95,,Not much progress when hard ridden.
+2025-03-13,ST,batch 4,CONGHUA ALL WEATHER TRACK,1200,GOOD,PATCH OF DIAMONDS,J450,Q Y Ng,W K Mo,4,B,14L,7>6>6,1.12.27,72.27,,Slightly slow to begin; ran on ordinary.
+2025-03-13,ST,batch 4,CONGHUA ALL WEATHER TRACK,1200,GOOD,INNO SUPER,K319,K L Chui,D Eustace,6,,15-3/4L,6>7>7,1.12.53,72.53,Passed,Settled at rear; never a threat.
+2025-03-13,ST,batch 5,CONGHUA ALL WEATHER TRACK,1200,GOOD,SAME TO YOU,H057,N S Li,M Newnham,4,H/P,,1>1>1,1.09.64,69.64,,Good early speed; led all the way to score.
+2025-03-13,ST,batch 5,CONGHUA ALL WEATHER TRACK,1200,GOOD,TOP DRAGON,J481,C M Thabana,W Y So,5,,SH,3>2>2,1.09.67,69.67,,Made steady progress when hard ridden.
+2025-03-13,ST,batch 5,CONGHUA ALL WEATHER TRACK,1200,GOOD,TURTLE AGAIN,H083,Z Zuriman,T P Yung,1,B,5-3/4L,2>3>3,1.10.58,70.58,,On pace along the rail; held ground.
+2025-03-13,ST,batch 5,CONGHUA ALL WEATHER TRACK,1200,GOOD,CARRYON SMILING,J392,R Thomas,W Y So,3,CP,6-3/4L,6>6>4,1.10.74,70.74,,Made steady progress when ridden along; stayed on well.
+2025-03-13,ST,batch 5,CONGHUA ALL WEATHER TRACK,1200,GOOD,ALL ARE MINE,H293,Y Salim,A S Cruz,2,H,10-1/2L,4>4>5,1.11.30,71.3,,Limited response when persuaded.
+2025-03-13,ST,batch 5,CONGHUA ALL WEATHER TRACK,1200,GOOD,SPORTIC WARRIOR,J385,M Kellady,K L Man,7,H,12-1/2L,7>7>6,1.11.62,71.62,Failed,Tardy start; limited response when hard ridden.
+2025-03-13,ST,batch 5,CONGHUA ALL WEATHER TRACK,1200,GOOD,SHINRA TENSEI,K346,S Mutaza,D Eustace,6,,13-1/2L,5>5>7,1.11.80,71.8,Passed,Raced greenly; needs time.
+2025-03-13,ST,batch 6,CONGHUA ALL WEATHER TRACK,1200,GOOD,RISING FORCE,K236,C M Thabana,P F Yiu,6,,,2>2>1,1.09.46,69.46,,Won cozily; ran on nicely.
+2025-03-13,ST,batch 6,CONGHUA ALL WEATHER TRACK,1200,GOOD,DOUBLE SHOW,G250,M Ntuli,D J Whyte,3,PC,1-1/2L,4>4>2,1.09.71,69.71,,Ran on fairly when asked.
+2025-03-13,ST,batch 6,CONGHUA ALL WEATHER TRACK,1200,GOOD,DECRELOT,J551,R Thomas,D A Hayes,1,,1-3/4L,7>6>3,1.09.75,69.75,,Made up good ground when shifted out at turn.
+2025-03-13,ST,batch 6,CONGHUA ALL WEATHER TRACK,1200,GOOD,PATCH OF WATCH,H476,D J Yang,K L Man,5,B,2-1/2L,1>1>4,1.09.87,69.87,,Urged to take the lead; weakened near the line.
+2025-03-13,ST,batch 6,CONGHUA ALL WEATHER TRACK,1200,GOOD,SONIC BOOM,H144,Q Y Ng,W K Mo,4,,5L,5>5>5,1.10.26,70.26,,Raced under his own steam; not beaten far.
+2025-03-13,ST,batch 6,CONGHUA ALL WEATHER TRACK,1200,GOOD,CHEER FOR SOUTH,H178,Z Zuriman,F C Lor,2,PC,5-3/4L,3>3>6,1.10.38,70.38,,Fractious in stall; under a hold throughout.
+2025-03-13,ST,batch 6,CONGHUA ALL WEATHER TRACK,1200,GOOD,FALCON COURT,J056,T R Han,D A Hayes,7,B,7L,6>7>7,1.10.56,70.56,Passed,Unable to obtain a clear passage; not tested.
+2025-03-11,ST,batch 1,SHA TIN ALL WEATHER TRACK,1200,GOOD,CALIFORNIA SPANGLE,E314,B Avdulla,A S Cruz,1,,,1>1>1,1.10.95,70.95,,Led all the way to score under fast sectionals; back in condition.
+2025-03-11,ST,batch 1,SHA TIN ALL WEATHER TRACK,1200,GOOD,INVINCIBLE SHIELD,K168,J Orman,K W Lui,4,,1-1/4L,2>2>2,1.11.14,71.14,,Under restraint for 2nd; stayed on comfortably.
+2025-03-11,ST,batch 1,SHA TIN ALL WEATHER TRACK,1200,GOOD,GALAXY PATCH,H399,M F Poon,P C Ng,5,,3-1/4L,7>7>3,1.11.45,71.45,,Taken back to cut across after start; made progress along the rail when let go at 200m.
+2025-03-11,ST,batch 1,SHA TIN ALL WEATHER TRACK,1200,GOOD,HELIOS EXPRESS,H302,H Bowman,J Size,8,,3-1/4L,4>3>4,1.11.46,71.46,,Hit the line strongly when persuaded in the Straight.
+2025-03-11,ST,batch 1,SHA TIN ALL WEATHER TRACK,1200,GOOD,NUCLEOZOR,K285,H Bentley,C S Shum,3,,5L,6>6>5,1.11.74,71.74,,Responded OK when asked in the Straight.
+2025-03-11,ST,batch 1,SHA TIN ALL WEATHER TRACK,1200,GOOD,SUPERB KID,H298,R Kingscote,K W Lui,2,CP,5-3/4L,3>4>6,1.11.86,71.86,,Under a hold in the Straight; not fully tested.
+2025-03-11,ST,batch 1,SHA TIN ALL WEATHER TRACK,1200,GOOD,BEAUTY ETERNAL,H008,A Atzeni,J Size,9,E,6L,5>5>7,1.11.90,71.9,,Racing wide and under a hold throughout.
+2025-03-11,ST,batch 1,SHA TIN ALL WEATHER TRACK,1200,GOOD,ENSUED,H452,K Teetan,J Size,7,,6-1/4L,9>9>8,1.11.94,71.94,,Swung wide at turn; ran on well when shifted racing ground at 300m.
+2025-03-11,ST,batch 1,SHA TIN ALL WEATHER TRACK,1200,GOOD,RED LION,H115,A Badel,J Size,6,,7L,8>8>9,1.12.06,72.06,,Ran on comfortably when shifted out at turn.
+2025-03-11,ST,batch 2,SHA TIN ALL WEATHER TRACK,1200,GOOD,MAGNIFIQUE,K141,B Avdulla,D J Hall,7,,,2>2>1,1.10.31,70.31,,On pace and one-off; ran on to score cozily when let go late.
+2025-03-11,ST,batch 2,SHA TIN ALL WEATHER TRACK,1200,GOOD,G LINER,H072,K Teetan,J Richards,4,H/P/XB,3/4L,1>1>2,1.10.44,70.44,,Urged to lead along the rail; just caught.
+2025-03-11,ST,batch 2,SHA TIN ALL WEATHER TRACK,1200,GOOD,INVINCIBLE IBIS,K296,L Ferraris,M Newnham,3,,1-1/4L,4>3>3,1.10.52,70.52,,Quickened for 3rd when persuaded late.
+2025-03-11,ST,batch 2,SHA TIN ALL WEATHER TRACK,1200,GOOD,SUPER INFINITY,J320,H Bentley,M Newnham,6,CP,1-1/2L,5>4>4,1.10.56,70.56,,Responded fairly well when hard ridden at 200m.
+2025-03-11,ST,batch 2,SHA TIN ALL WEATHER TRACK,1200,GOOD,SNOWFIELD,K251,M F Poon,M Newnham,10,XB,5L,10>10>5,1.11.12,71.12,,Shifted out at 300m; ran on well when hard ridden.
+2025-03-11,ST,batch 2,SHA TIN ALL WEATHER TRACK,1200,GOOD,MAJESTIC DELIGHT,K189,R Kingscote,D Eustace,2,H,8-3/4L,7>5>6,1.11.70,71.7,,Held ground when hard ridden.
+2025-03-11,ST,batch 2,SHA TIN ALL WEATHER TRACK,1200,GOOD,POPE CODY,K313,J Orman,Y S Tsui,9,,11-1/4L,6>9>7,1.12.10,72.1,,Laying in when under whip in the Straight.
+2025-03-11,ST,batch 2,SHA TIN ALL WEATHER TRACK,1200,GOOD,SECOND TO NONE,H319,Q Y Ng,K W Lui,1,,12L,9>7>8,1.12.25,72.25,,Ran on ordinary when asked in the Straight.
+2025-03-11,ST,batch 2,SHA TIN ALL WEATHER TRACK,1200,GOOD,MOVE ON,K195,A Atzeni,D Eustace,8,,15-3/4L,3>6>9,1.12.81,72.81,Failed,Gave ground; failed to respond.
+2025-03-11,ST,batch 2,SHA TIN ALL WEATHER TRACK,1200,GOOD,WITHOUT DELAY,K262,D McDonogh,D Eustace,5,,17L,8>8>10,1.13.02,73.02,,Over-racing early; weakened badly in the Straight.
+2025-03-11,ST,batch 3,SHA TIN ALL WEATHER TRACK,1200,GOOD,KA YING VICTORY,H287,M F Poon,D J Hall,10,CP,,1>1>1,1.10.80,70.8,,Led all the way to score; always in touch.
+2025-03-11,ST,batch 3,SHA TIN ALL WEATHER TRACK,1200,GOOD,MAGIC COMBO,K213,H Bentley,C S Shum,6,CP,2-1/4L,2>2>2,1.11.18,71.18,,Stumbled after start; striding out evenly when niggled along throughout.
+2025-03-11,ST,batch 3,SHA TIN ALL WEATHER TRACK,1200,GOOD,BULL ATTITUDE,K305,L Hewitson,M Newnham,4,,2-1/2L,7>6>3,1.11.21,71.21,,Crowded on jumping; hard ridden for 3rd when shifted out at 300m.
+2025-03-11,ST,batch 3,SHA TIN ALL WEATHER TRACK,1200,GOOD,SMART ENGINEER,K244,K C Leung,K W Lui,8,,3L,5>5>4,1.11.27,71.27,,Dashed on in between runners; good fighting heart.
+2025-03-11,ST,batch 3,SHA TIN ALL WEATHER TRACK,1200,GOOD,RUNJEET,K276,L Ferraris,D Eustace,2,XB,3-3/4L,4>4>5,1.11.40,71.4,,Under restraint; stayed on well.
+2025-03-11,ST,batch 3,SHA TIN ALL WEATHER TRACK,1200,GOOD,NEVER TOO SOON,E434,H Bowman,D J Hall,7,,6-3/4L,6>7>6,1.11.88,71.88,,Settled midfield when shifted out at turn.
+2025-03-11,ST,batch 3,SHA TIN ALL WEATHER TRACK,1200,GOOD,HE WAS ME,J535,B Avdulla,A S Cruz,3,V,7L,3>3>7,1.11.92,71.92,,Led early; weakened and gave ground when under whip in the Straight.
+2025-03-11,ST,batch 3,SHA TIN ALL WEATHER TRACK,1200,GOOD,GLORIOUS RYDER,K290,K Teetan,D Eustace,5,,7-1/2L,10>9>8,1.12.01,72.01,,Brushed after start; found nothing when ridden along at turn.
+2025-03-11,ST,batch 3,SHA TIN ALL WEATHER TRACK,1200,GOOD,RAINBOW SEVEN,K145,C L Chau,K W Lui,1,,7-1/2L,9>8>9,1.12.01,72.01,,Stumbled at 600m; limited response when asked in the Straight.
+2025-03-11,ST,batch 3,SHA TIN ALL WEATHER TRACK,1200,GOOD,KYRUS TREASURE,K300,A Atzeni,D Eustace,9,XB,9-3/4L,8>10>10,1.12.38,72.38,,Never in contention; unimpressive.
+2025-03-11,ST,batch 4,SHA TIN ALL WEATHER TRACK,1200,GOOD,VERBIER,J187,L Ferraris,C Fownes,1,V,,1>1>1,1.11.20,71.2,,Jumped well; led all the way to score.
+2025-03-11,ST,batch 4,SHA TIN ALL WEATHER TRACK,1200,GOOD,DOUBLE BINGO,J309,M L Yeung,Y S Tsui,2,H/P,3/4L,4>3>2,1.11.32,71.32,,Ran on well when asked late.
+2025-03-11,ST,batch 4,SHA TIN ALL WEATHER TRACK,1200,GOOD,HAPPY SHOOTER,J427,H Bentley,C S Shum,6,,1-1/2L,7>7>3,1.11.44,71.44,,Jumped clumsily; caught in traffic at 300m; hit the line strongly when clear late.
+2025-03-11,ST,batch 4,SHA TIN ALL WEATHER TRACK,1200,GOOD,APOLAR FIGHTER,J169,K Teetan,D Eustace,3,B,1-3/4L,8>6>4,1.11.49,71.49,,Last to jump; made progress along the rail.
+2025-03-11,ST,batch 4,SHA TIN ALL WEATHER TRACK,1200,GOOD,EVERYONE'S STAR,K172,M F Poon,F C Lor,10,,2L,3>4>5,1.11.53,71.53,Passed,Racing wide throughout; ran on fairly well.
+2025-03-11,ST,batch 4,SHA TIN ALL WEATHER TRACK,1200,GOOD,STAR BROSE,J463,H Bowman,D A Hayes,7,,2-3/4L,6>8>6,1.11.65,71.65,,Made progress under whip when clear in the Straight.
+2025-03-11,ST,batch 4,SHA TIN ALL WEATHER TRACK,1200,GOOD,LAHORE,K043,B Avdulla,J Richards,8,,3-3/4L,5>5>7,1.11.80,71.8,,Ran on when shifted racing ground at 200m.
+2025-03-11,ST,batch 4,SHA TIN ALL WEATHER TRACK,1200,GOOD,SEA SAPPHIRE,H343,B Thompson,D Eustace,5,,4-1/4L,2>2>8,1.11.89,71.89,,On pace until early Straight; limited response late.
+2025-03-11,ST,batch 4,SHA TIN ALL WEATHER TRACK,1200,GOOD,CELESTIAL PATCH,K151,A Atzeni,D Eustace,9,XB,5-1/4L,9>9>9,1.12.04,72.04,,Raced at rear when clear in the Straight.
+2025-03-11,ST,batch 4,SHA TIN ALL WEATHER TRACK,1200,GOOD,D STAR,G374,Y L Chung,A S Cruz,4,B,16-1/4L,10>10>10,1.13.81,73.81,,Niggled along throughout; laid back type.
+2025-03-11,ST,batch 5,SHA TIN ALL WEATHER TRACK,1050,GOOD,STELLAR EXPRESS,J186,B Avdulla,J Size,4,,,1>1>1,1.02.04,62.04,,Always in touch; won with plenty in hand.
+2025-03-11,ST,batch 5,SHA TIN ALL WEATHER TRACK,1050,GOOD,DIVINE LUNA,J473,L Hewitson,C Fownes,1,H/P,1L,4>3>2,1.02.21,62.21,Passed,Slightly slow to begin; shifted racing ground at 200m; hard ridden for 2nd.
+2025-03-11,ST,batch 5,SHA TIN ALL WEATHER TRACK,1050,GOOD,WATCH THIS ONE,K268,M F Poon,P C Ng,3,,1-1/2L,5>5>3,1.02.27,62.27,,Four wide at turn; hard ridden for 3rd.
+2025-03-11,ST,batch 5,SHA TIN ALL WEATHER TRACK,1050,GOOD,SPARKLING FELLOW,K175,P N Wong,D J Hall,8,,2L,7>8>4,1.02.35,62.35,,Made progress in between runners when hard ridden at 200m.
+2025-03-11,ST,batch 5,SHA TIN ALL WEATHER TRACK,1050,GOOD,HOWDEEPISYOURLOVE,H093,B Thompson,J Size,9,,2L,9>6>5,1.02.38,62.38,,Under restraint in the Straight; raced under his own steam.
+2025-03-11,ST,batch 5,SHA TIN ALL WEATHER TRACK,1050,GOOD,BULLISH PRIDE,K181,Y L Chung,A S Cruz,5,H,2-1/4L,2>2>6,1.02.39,62.39,Failed,Behind the leader until the final 200m; limited response when hard ridden.
+2025-03-11,ST,batch 5,SHA TIN ALL WEATHER TRACK,1050,GOOD,WARRIORS DREAM,K255,K Teetan,D Eustace,2,H/P/XB,4-1/2L,3>4>7,1.02.78,62.78,,Slightly slow to begin; limited response when asked at 200m.
+2025-03-11,ST,batch 5,SHA TIN ALL WEATHER TRACK,1050,GOOD,BUNDLE OF CHARM,G213,A Badel,J Size,7,P,5-1/4L,6>7>8,1.02.87,62.87,,Swung wide at turn; just to stretch out.
+2025-03-11,ST,batch 5,SHA TIN ALL WEATHER TRACK,1050,GOOD,HAPPY BUDDIES,K344,K C Leung,W K Mo,6,H,21-1/2L,8>9>9,1.05.50,65.5,Failed,Average to begin; found nothing when asked in the Straight.
+2025-03-10,CH,batch 1,CONGHUA TURF,1000,GOOD,WINNING OVATION,K350,Y L Chung,A S Cruz,4,,,5>6>1,0.57.58,57.58,,Average to begin; quickened passing halfway; stayed on well.
+2025-03-10,CH,batch 1,CONGHUA TURF,1000,GOOD,CELESTIAL COLOURS,H362,Z Zuriman,J Richards,6,,Neck,2>3>2,0.57.64,57.64,,On pace without cover; ran on comfortably.
+2025-03-10,CH,batch 1,CONGHUA TURF,1000,GOOD,SKY CAP,K125,E C W Wong,C Fownes,1,XB,2-1/4L,1>1>3,0.57.94,57.94,,Fractious in stall; led along the rail; under a hold thereafter.
+2025-03-10,CH,batch 1,CONGHUA TURF,1000,GOOD,KING OF DUBAI,J433,M F Poon,M Newnham,2,,2-1/4L,3>4>4,0.57.95,57.95,,Hard ridden to be nearest at finish; moved better than before.
+2025-03-10,CH,batch 1,CONGHUA TURF,1000,GOOD,KAHOLO ANGEL,H216,R Thomas,C Fownes,5,,3L,6>5>5,0.58.06,58.06,,Crowded on jumping; raced behind runners thereafter.
+2025-03-10,CH,batch 1,CONGHUA TURF,1000,GOOD,LA FORZA,J285,C M Thabana,J Richards,3,,3-1/4L,4>2>6,0.58.10,58.1,,Slightly slow to begin; raced under his own steam.
+2025-03-10,CH,batch 2,CONGHUA TURF,1000,GOOD,GIDDY UP,J020,C M Thabana,J Richards,5,,,2>1>1,0.58.19,58.19,,Hit the front halfway; won cozily.
+2025-03-10,CH,batch 2,CONGHUA TURF,1000,GOOD,NIGHT PUROSANGUE,J510,R Thomas,D A Hayes,6,,1/2L,4>3>2,0.58.29,58.29,,Made progress steadily; moved better than before.
+2025-03-10,CH,batch 2,CONGHUA TURF,1000,GOOD,GREAT LOOKING,J198,M F Poon,M Newnham,2,XB,1-3/4L,1>2>3,0.58.49,58.49,,Ridden along for 3rd; held ground.
+2025-03-10,CH,batch 2,CONGHUA TURF,1000,GOOD,THE RED HARE,K312,Z Zuriman,F C Lor,1,,2-3/4L,3>4>4,0.58.62,58.62,,Average to begin; kept on evenly when given reminders.
+2025-03-10,CH,batch 2,CONGHUA TURF,1000,GOOD,GALVANIC,H147,E C W Wong,C Fownes,3,,5L,5>5>5,0.59.01,59.01,,Ridden conservatively; raced under his own steam.
+2025-03-10,CH,batch 2,CONGHUA TURF,1000,GOOD,DASHING DRAGON,J464,T R Han,D A Hayes,4,,8-1/4L,6>6>6,0.59.50,59.5,,Slightly slow to begin; finished last.
+2025-03-10,CH,batch 3,CONGHUA TURF,1000,GOOD,SKY PROPHET,J095,E C W Wong,C Fownes,1,B,,1>1>1,0.58.33,58.33,,Jumped well; led all the way to score.
+2025-03-10,CH,batch 3,CONGHUA TURF,1000,GOOD,ANOTHER WORLD,K005,M F Poon,T P Yung,2,CP,2-1/4L,3>3>2,0.58.70,58.7,,On pace early; stayed on comfortably for 2nd.
+2025-03-10,CH,batch 3,CONGHUA TURF,1000,GOOD,NOBLE DELUXE,K052,Z Zuriman,J Size,5,B,6-1/2L,2>2>3,0.59.39,59.39,,On pace without cover; limited response when asked.
+2025-03-10,CH,batch 3,CONGHUA TURF,1000,GOOD,JOYFUL FRIENDSHIP,H295,C M Thabana,P F Yiu,3,B,8-1/2L,7>6>4,0.59.68,59.68,,Begin ordinary; made progress when hard ridden; stayed on fairly well.
+2025-03-10,CH,batch 3,CONGHUA TURF,1000,GOOD,HOSS,H055,R Thomas,W Y So,6,B/XB,8-1/2L,5>4>5,0.59.68,59.68,,Average to begin; raced under his own steam midfield.
+2025-03-10,CH,batch 3,CONGHUA TURF,1000,GOOD,SMART ZIPANG,J165,Y Salim,W Y So,4,B,13L,4>7>6,1.00.42,60.42,,Ran on well after the post when ridden along.
+2025-03-10,CH,batch 3,CONGHUA TURF,1000,GOOD,DASHING MAURISON,K374,M Kellady,D A Hayes,7,,22L,6>5>7,1.01.87,61.87,Passed,Jumped awkwardly; raced greenly.
+2025-03-10,CH,batch 4,CONGHUA TURF,1600,GOOD,BRAVEHEARTS,H389,M F Poon,M Newnham,7,,,7>7>7>1,1.38.52,98.52,,Hit the line strongly when clear at 300m.
+2025-03-10,CH,batch 4,CONGHUA TURF,1600,GOOD,ROCKET SPADE,G170,E C W Wong,C Fownes,6,XB,SH,6>6>6>2,1.38.55,98.55,,Shifted to the outside for clear running; came well from behind.
+2025-03-10,CH,batch 4,CONGHUA TURF,1600,GOOD,PACKING HURRICANE,H137,Q Y Ng,D Eustace,1,,1L,4>5>4>3,1.38.69,98.69,,Ran on smoothly; stayed on OK.
+2025-03-10,CH,batch 4,CONGHUA TURF,1600,GOOD,HARRY'S HERO,H332,C M Thabana,P F Yiu,2,,2-1/2L,5>4>5>4,1.38.92,98.92,,Ran on fairly when persuaded.
+2025-03-10,CH,batch 4,CONGHUA TURF,1600,GOOD,FAMILY FORTUNE,H447,R Thomas,C Fownes,4,,4-1/4L,3>3>3>5,1.39.20,99.2,,In handy position; ran on fairly when asked.
+2025-03-10,CH,batch 4,CONGHUA TURF,1600,GOOD,LEGENDARY YEARS,K286,D J Yang,K L Man,5,,4-1/2L,2>2>2>6,1.39.26,99.26,,On pace in 2nd position early; limited response when under whip late.
+2025-03-10,CH,batch 4,CONGHUA TURF,1600,GOOD,GOOD GOOD,J224,Y Salim,J Size,3,B,6-1/2L,1>1>1>7,1.39.55,99.55,,Led but one-paced; under a hold thereafter.
+2025-03-07,CH,batch 1,CONGHUA TURF,1000,GOOD,SUPER FORTUNE,G065,M L Yeung,A S Cruz,2,,,1>1>1,0.57.52,57.52,,Led all the way to score.
+2025-03-07,CH,batch 1,CONGHUA TURF,1000,GOOD,MASTER CHAMPION,K266,H T Mo,C S Shum,4,,1/2L,2>2>2,0.57.60,57.6,,Tardy start; on pace for 2nd; ran on OK.
+2025-03-07,CH,batch 1,CONGHUA TURF,1000,GOOD,VIEW OF THE WORLD,J348,K H Tsang,C H Yip,5,,2L,5>4>3,0.57.84,57.84,,No early speed; made progress steadily; ran on to be nearest at finish.
+2025-03-07,CH,batch 1,CONGHUA TURF,1000,GOOD,SETANTA,G095,N S Li,M Newnham,3,B,2-1/2L,3>3>4,0.57.94,57.94,,Kept on evenly when ridden along.
+2025-03-07,CH,batch 1,CONGHUA TURF,1000,GOOD,HELENE WARRIOR,J207,Y T Leung,C S Shum,1,XB,6-1/2L,4>5>5,0.58.57,58.57,,Under a hold; just to trial.
+2025-03-07,CH,batch 10,CONGHUA TURF,1200,GOOD,SOARING BRONCO,J162,H T Mo,P C Ng,3,PC,,3>3>1,1.11.11,71.11,,Slow to respond; ran on well near the line.
+2025-03-07,CH,batch 10,CONGHUA TURF,1200,GOOD,YODA'S CHOICE,J146,P N Wong,P C Ng,6,CP,3/4L,2>2>2,1.11.22,71.22,,Average to begin; ridden along to be on pace; stayed on OK.
+2025-03-07,CH,batch 10,CONGHUA TURF,1200,GOOD,ISLAND GOLDEN,H018,K C Leung,K L Man,7,B,1L,7>7>3,1.11.28,71.28,Passed,Made progress along the rail; ran on for 3rd under whip.
+2025-03-07,CH,batch 10,CONGHUA TURF,1200,GOOD,CHATER GOLD,J004,Q Y Ng,D A Hayes,5,,2-1/4L,6>6>4,1.11.47,71.47,,Shifted wide at turn; not fully tested.
+2025-03-07,CH,batch 10,CONGHUA TURF,1200,GOOD,SHINING POWER,K185,C M Thabana,J Size,4,,2-1/2L,5>5>5,1.11.51,71.51,,Slightly slow to begin; moved better than before when asked.
+2025-03-07,CH,batch 10,CONGHUA TURF,1200,GOOD,VIGOR ELLEEGANT,J375,M L Yeung,K L Man,2,,4L,1>1>6,1.11.74,71.74,,Led early; weakened abruptly at 200m.
+2025-03-07,CH,batch 10,CONGHUA TURF,1200,GOOD,IVICTORIAM,J226,B Thompson,J Richards,1,,4-3/4L,4>4>7,1.11.88,71.88,,Taken back early; not fully tested.
+2025-03-07,CH,batch 2,CONGHUA TURF,1000,GOOD,AMAZING RUN,H401,K H Tsang,D A Hayes,8,,,9>6>1,0.58.62,58.62,,Quickened passing halfway; hit the line strongly and scored.
+2025-03-07,CH,batch 2,CONGHUA TURF,1000,GOOD,PACKING BOLE,H246,Y T Leung,C S Shum,2,CP,1-1/2L,1>1>2,0.58.86,58.86,,Good early speed; under a hold thereafter.
+2025-03-07,CH,batch 2,CONGHUA TURF,1000,GOOD,FANTASTIC HONOUR,K100,B Thompson,D A Hayes,5,,3-1/4L,7>4>3,0.59.12,59.12,,Average to begin; striding out nicely; stayed on comfortably.
+2025-03-07,CH,batch 2,CONGHUA TURF,1000,GOOD,WORLDWIDE,K233,C M Thabana,P F Yiu,1,,4-3/4L,3>3>4,0.59.40,59.4,,Limited response when hard ridden.
+2025-03-07,CH,batch 2,CONGHUA TURF,1000,GOOD,NEBRASKAN,J304,Y Salim,J Size,4,B,5-3/4L,5>9>5,0.59.54,59.54,,Ridden conservatively; ran on well after the post.
+2025-03-07,CH,batch 2,CONGHUA TURF,1000,GOOD,LEGEND STAR,K271,K C Leung,C S Shum,9,,6L,8>8>6,0.59.58,59.58,Passed,Moved better than before when given reminders.
+2025-03-07,CH,batch 2,CONGHUA TURF,1000,GOOD,NOBLE GO,K053,Z Zuriman,J Size,7,,6-1/2L,4>5>7,0.59.66,59.66,,Settled midfield; ran on OK.
+2025-03-07,CH,batch 2,CONGHUA TURF,1000,GOOD,NEW ASIA GREAT,J412,M L Yeung,D A Hayes,3,,7-1/2L,2>2>8,0.59.82,59.82,,Ran on fairly well early; gave ground over the concluding stages.
+2025-03-07,CH,batch 2,CONGHUA TURF,1000,GOOD,WATCH THE FORT,J522,P N Wong,D J Hall,6,,9L,6>7>9,1.00.06,60.06,,Limited response when asked.
+2025-03-07,CH,batch 3,CONGHUA TURF,1000,GOOD,THRIVING BROTHERS,J396,K H Tsang,C H Yip,8,,,2>2>1,0.57.92,57.92,Passed,Ran on well with his new handler.
+2025-03-07,CH,batch 3,CONGHUA TURF,1000,GOOD,GOLDENTRONICMIGHTY,K002,Z Zuriman,J Richards,7,B,1-1/4L,6>3>2,0.58.10,58.1,Passed,Made progress steadily; in good condition.
+2025-03-07,CH,batch 3,CONGHUA TURF,1000,GOOD,GUSTY FIGHTER,J029,B Thompson,D J Whyte,1,,2-3/4L,1>1>3,0.58.35,58.35,,Good early speed; under a hold thereafter.
+2025-03-07,CH,batch 3,CONGHUA TURF,1000,GOOD,THE ALL OUT,K291,M Kellady,J Richards,4,,6-3/4L,3>4>4,0.59.01,59.01,,Tardy start; ran on OK.
+2025-03-07,CH,batch 3,CONGHUA TURF,1000,GOOD,COUNTRY DANCER,H436,R Thomas,J Size,3,E,8L,8>7>5,0.59.19,59.19,,Raced under his own steam; not tested.
+2025-03-07,CH,batch 3,CONGHUA TURF,1000,GOOD,SPARKLE AND GOLD,K259,C M Thabana,C H Yip,6,B,8-1/4L,5>5>6,0.59.23,59.23,Passed,Limited response when hard ridden; needs time.
+2025-03-07,CH,batch 3,CONGHUA TURF,1000,GOOD,LIGHT YEARS GLORY,K204,K C Leung,W K Mo,5,H,8-1/2L,7>6>7,0.59.27,59.27,,Never in contention when ridden along.
+2025-03-07,CH,batch 3,CONGHUA TURF,1000,GOOD,GO GENERAL,H330,M L Yeung,C H Yip,2,CP,8-3/4L,4>8>8,0.59.33,59.33,,Ran on ordinary when asked.
+2025-03-07,CH,batch 4,CONGHUA TURF,800,GOOD,CHEVAL VALIANT,E336,P N Wong,D J Whyte,1,B,,1>1>1,0.45.75,45.75,,Jumped well; led all the way to score.
+2025-03-07,CH,batch 4,CONGHUA TURF,800,GOOD,BEAUTY WAVES,H294,M L Yeung,P C Ng,4,E/P,1-3/4L,3>2>2,0.46.05,46.05,,Ran on well after a break.
+2025-03-07,CH,batch 4,CONGHUA TURF,800,GOOD,FATAL BLOW,J484,N S Li,M Newnham,3,,6-1/2L,2>3>3,0.46.81,46.81,,Hard ridden for 3rd; ran on evenly.
+2025-03-07,CH,batch 4,CONGHUA TURF,800,GOOD,FAST SPEED,K351,H T Mo,C S Shum,5,,7L,5>4>4,0.46.88,46.88,Passed,Pretending to be ridden along; needs time.
+2025-03-07,CH,batch 4,CONGHUA TURF,800,GOOD,PRESTIGE ALWAYS,J300,K C Leung,P C Ng,2,B,9-1/2L,4>5>5,0.47.28,47.28,,Slightly slow to begin; limited response when asked.
+2025-03-07,CH,batch 5,CONGHUA TURF,800,GOOD,WINNING DIAMOND,K216,B Thompson,C H Yip,2,,,2>3>1,0.46.56,46.56,Passed,Hit the front at 200m; won cozily.
+2025-03-07,CH,batch 5,CONGHUA TURF,800,GOOD,BLAZING WUKONG,K335,C M Thabana,P F Yiu,4,,1/2L,8>6>2,0.46.66,46.66,Passed,Slow to begin; quickened passing halfway; good turn of foot.
+2025-03-07,CH,batch 5,CONGHUA TURF,800,GOOD,MY DAY MY WAY,J519,H T Mo,C S Shum,6,CP,1L,4>2>3,0.46.72,46.72,,On pace without cover; stayed on well.
+2025-03-07,CH,batch 5,CONGHUA TURF,800,GOOD,PERIDOT,K148,Z Zuriman,D J Hall,1,,2L,1>1>4,0.46.88,46.88,,Led along the rail; always in touch.
+2025-03-07,CH,batch 5,CONGHUA TURF,800,GOOD,GREAT LEGACY,K187,P N Wong,D J Hall,8,XB,2-3/4L,5>5>5,0.47.00,47.0,Passed,Settled midfield; ran on fairly well.
+2025-03-07,CH,batch 5,CONGHUA TURF,800,GOOD,TOURBILLON GOLFER,K320,M Kellady,P F Yiu,7,,3-1/4L,3>4>6,0.47.10,47.1,Passed,Under a hold; just to stretch out.
+2025-03-07,CH,batch 5,CONGHUA TURF,800,GOOD,RISING PHOENIX,J498,Q Y Ng,D J Hall,3,,4-1/4L,7>8>7,0.47.24,47.24,,Responded well when persuaded; ran on well after the post.
+2025-03-07,CH,batch 5,CONGHUA TURF,800,GOOD,LUCKY FIELD,K292,K C Leung,K L Man,5,,8-3/4L,6>7>8,0.47.95,47.95,Passed,Weakened passing halfway; unimpressive.
+2025-03-07,CH,batch 6,CONGHUA TURF,1200,GOOD,GREEN N WHITE,H186,C M Thabana,P F Yiu,6,,,6>6>1,1.11.96,71.96,,Hit the line strongly to score in the Straight.
+2025-03-07,CH,batch 6,CONGHUA TURF,1200,GOOD,ACROSS DA UNIVERSE,J328,H T Mo,P C Ng,5,,Neck,3>3>2,1.12.01,72.01,,Striding out evenly; moved better than before.
+2025-03-07,CH,batch 6,CONGHUA TURF,1200,GOOD,STAR CONTACT,E472,P N Wong,D A Hayes,3,,3/4L,4>4>3,1.12.08,72.08,,Tardy start; up with the pace; ran on OK.
+2025-03-07,CH,batch 6,CONGHUA TURF,1200,GOOD,JUNEAU PRIDE,J443,B Thompson,J Size,2,,1L,2>2>4,1.12.12,72.12,,In handy position; stayed on comfortably.
+2025-03-07,CH,batch 6,CONGHUA TURF,1200,GOOD,SUNLIGHT POWER,H244,M L Yeung,P F Yiu,4,CP/H,2L,5>5>5,1.12.30,72.3,,In good condition and not tested.
+2025-03-07,CH,batch 6,CONGHUA TURF,1200,GOOD,GENIUS BABY,K132,K C Leung,D A Hayes,1,B,7-1/2L,1>1>6,1.13.16,73.16,,Slightly slow to begin; led along the rail; weakened late.
+2025-03-07,CH,batch 7,CONGHUA TURF,1200,GOOD,SOLID IMPACT,E447,P N Wong,D J Hall,5,,,1>1>1,1.11.38,71.38,,Niggled along to take the lead; kept on strongly in the Straight.
+2025-03-07,CH,batch 7,CONGHUA TURF,1200,GOOD,MAGNIAC,H141,M L Yeung,T P Yung,7,V,Neck,3>4>2,1.11.42,71.42,,Limited response when clear early Straight.
+2025-03-07,CH,batch 7,CONGHUA TURF,1200,GOOD,MISSION VOICE,H444,N S Li,M Newnham,2,B,1-1/2L,4>3>3,1.11.60,71.6,,Caught in traffic majority of the race; raced under his own steam.
+2025-03-07,CH,batch 7,CONGHUA TURF,1200,GOOD,SKY JEWELLERY,K032,B Thompson,J Size,6,,1-1/2L,5>5>4,1.11.62,71.62,,Ridden conservatively; made progress under his own steam.
+2025-03-07,CH,batch 7,CONGHUA TURF,1200,GOOD,KA YING RADIANCE,K134,K H Tsang,D A Hayes,3,,2L,2>2>5,1.11.69,71.69,,On pace without cover; kept on evenly.
+2025-03-07,CH,batch 7,CONGHUA TURF,1200,GOOD,REGENCY WIN WIN,K214,K C Leung,C S Shum,1,,3L,6>6>6,1.11.85,71.85,,Average to begin; ran on greenly.
+2025-03-07,CH,batch 7,CONGHUA TURF,1200,GOOD,GENERAL SMART,K138,H T Mo,C S Shum,4,B/XB,4-1/4L,7>7>7,1.12.05,72.05,,Tardy start; not much progress when under whip late.
+2025-03-07,CH,batch 8,CONGHUA TURF,1200,GOOD,VIRTUOUS PHANTOM,K147,C M Thabana,C H Yip,1,B,,5>4>1,1.11.26,71.26,,Began awkwardly; made steady progress when hard ridden at turn.
+2025-03-07,CH,batch 8,CONGHUA TURF,1200,GOOD,ROMAN CROWN,J456,P N Wong,P C Ng,6,B,1-1/4L,1>1>2,1.11.46,71.46,Passed,Led under restraint; kept on well.
+2025-03-07,CH,batch 8,CONGHUA TURF,1200,GOOD,TEAM HAPPY,J218,H T Mo,P C Ng,3,PC,1-1/2L,3>2>3,1.11.50,71.5,,In box seat position; always in touch.
+2025-03-07,CH,batch 8,CONGHUA TURF,1200,GOOD,FORTUNE BOY,K098,K H Tsang,D A Hayes,4,,1-1/2L,7>7>4,1.11.51,71.51,,Taken back early; stormed home in the Straight.
+2025-03-07,CH,batch 8,CONGHUA TURF,1200,GOOD,LUCKY STATEMENT,J521,K C Leung,K L Man,7,B,4-1/2L,2>3>5,1.11.97,71.97,Passed,Limited response when under whip halfway in the Straight.
+2025-03-07,CH,batch 8,CONGHUA TURF,1200,GOOD,SPIRIT OF PEACE,K007,B Thompson,J Size,5,,5-1/4L,6>6>6,1.12.09,72.09,,Ridden conservatively with plenty in hand.
+2025-03-07,CH,batch 8,CONGHUA TURF,1200,GOOD,CONSPIRACY WITNESS,J541,M L Yeung,D A Hayes,2,,7-1/4L,4>5>7,1.12.43,72.43,,Crowded on jumping; limited response when under whip late.
+2025-03-07,CH,batch 9,CONGHUA TURF,1200,GOOD,DEVILDOM,H445,M L Yeung,T P Yung,6,CP,,5>5>1,1.11.59,71.59,Passed,Ran on strongly when ridden along at 400m.
+2025-03-07,CH,batch 9,CONGHUA TURF,1200,GOOD,YOUTH POWER,H358,P N Wong,D A Hayes,4,,1/2L,3>4>2,1.11.67,71.67,,Made steady progress when given reminders.
+2025-03-07,CH,batch 9,CONGHUA TURF,1200,GOOD,CERVIN,H253,C M Thabana,W Y So,2,,1-1/2L,2>1>3,1.11.84,71.84,,Settled along the rail; kept on evenly.
+2025-03-07,CH,batch 9,CONGHUA TURF,1200,GOOD,BIG STRIDE,K194,B Thompson,M Newnham,1,,1-3/4L,4>3>4,1.11.88,71.88,,Ran on smoothly; stayed om fairly well.
+2025-03-07,CH,batch 9,CONGHUA TURF,1200,GOOD,WINNING MACHINE,K239,H T Mo,C S Shum,5,,3-1/2L,1>2>5,1.12.14,72.14,,On pace without cover; failed to respond.
+2025-03-07,CH,batch 9,CONGHUA TURF,1200,GOOD,FOREMOST TEDDY,J058,K C Leung,C S Shum,3,,6-1/4L,6>6>6,1.12.60,72.6,,Slightly slow to begin; limited response when under whip in the Straight.
+2025-03-06,ST,batch 1,SHA TIN ALL WEATHER TRACK,1200,WET SLOW,KA YING GLORY,K247,K Teetan,D A Hayes,3,,,3>2>1,1.10.89,70.89,,Under restraint; drew away to score when persuaded at 200m.
+2025-03-06,ST,batch 1,SHA TIN ALL WEATHER TRACK,1200,WET SLOW,AUTUMN DELIGHT,J090,L Ferraris,C Fownes,4,,2-1/2L,2>1>2,1.11.27,71.27,,Led from middle gate; stayed on comfortably.
+2025-03-06,ST,batch 1,SHA TIN ALL WEATHER TRACK,1200,WET SLOW,FLAGSHIP WARRIOR,G452,H Bowman,C Fownes,8,,3L,7>6>3,1.11.38,71.38,,Five wide at turn; ran on well.
+2025-03-06,ST,batch 1,SHA TIN ALL WEATHER TRACK,1200,WET SLOW,HANDSOME BOMB,H402,A Atzeni,W Y So,5,CP,4L,1>4>4,1.11.51,71.51,,On pace without cover; ridden along at turn; held ground.
+2025-03-06,ST,batch 1,SHA TIN ALL WEATHER TRACK,1200,WET SLOW,BEAUTY JOY,E058,B Avdulla,A S Cruz,10,,4-1/4L,10>10>5,1.11.58,71.58,Passed,Taken back early; made up good ground when shifted out at 300m.
+2025-03-06,ST,batch 1,SHA TIN ALL WEATHER TRACK,1200,WET SLOW,SHINY RAPIDASH,J492,J Orman,P C Ng,2,B/H,4-1/4L,4>3>6,1.11.59,71.59,Passed,On pace early; limited response when asked in the Straight.
+2025-03-06,ST,batch 1,SHA TIN ALL WEATHER TRACK,1200,WET SLOW,GLACIATED,K272,A Badel,P C Ng,6,,5-1/4L,5>5>7,1.11.72,71.72,,Not quickened when asked in the Straight.
+2025-03-06,ST,batch 1,SHA TIN ALL WEATHER TRACK,1200,WET SLOW,CELESTIAL HARMONY,K059,B Thompson,D A Hayes,7,CP,5-1/4L,9>8>8,1.11.72,71.72,,Under a hold in the Straight; not tested.
+2025-03-06,ST,batch 1,SHA TIN ALL WEATHER TRACK,1200,WET SLOW,SKY DEEP,K041,A Hamelin,C Fownes,1,V/XB,5-3/4L,6>7>9,1.11.80,71.8,Passed,Average to begin; niggled along throughout; laid back type.
+2025-03-06,ST,batch 1,SHA TIN ALL WEATHER TRACK,1200,WET SLOW,BASIC INSTINCT,K289,M L Yeung,Y S Tsui,9,B,15-3/4L,8>9>10,1.13.42,73.42,,Racing wide throughout; unimpressive.
+2025-03-06,ST,batch 2,SHA TIN ALL WEATHER TRACK,1200,WET SLOW,SOVEREIGN FUND,J402,B Thompson,C W Chang,9,B,,1>1>1,1.11.18,71.18,,Cut across early; stayed on well.
+2025-03-06,ST,batch 2,SHA TIN ALL WEATHER TRACK,1200,WET SLOW,BLING BLING GENIUS,J397,K Teetan,D J Whyte,3,XB,1/2L,4>3>2,1.11.27,71.27,,Made steady progress when asked at turn.
+2025-03-06,ST,batch 2,SHA TIN ALL WEATHER TRACK,1200,WET SLOW,TARGET AUDIENCE,K107,M L Yeung,C Fownes,10,,2L,5>2>3,1.11.52,71.52,,On pace and wide; kept on evenly in the Straight.
+2025-03-06,ST,batch 2,SHA TIN ALL WEATHER TRACK,1200,WET SLOW,GUSTOSISIMO,J303,B Avdulla,A S Cruz,4,,2-3/4L,2>5>4,1.11.62,71.62,,Shifted to the inside in the Straight; stayed on comfortably.
+2025-03-06,ST,batch 2,SHA TIN ALL WEATHER TRACK,1200,WET SLOW,MONARCH COUNTY,J421,H Bowman,C Fownes,8,B,3-1/4L,6>4>5,1.11.71,71.71,,Four wide at turn; stayed on comfortably.
+2025-03-06,ST,batch 2,SHA TIN ALL WEATHER TRACK,1200,WET SLOW,MILES AWAY,J221,A Atzeni,J Richards,2,P,8L,3>6>6,1.12.47,72.47,,Raced under his own steam when shifted out gradually at 300m.
+2025-03-06,ST,batch 2,SHA TIN ALL WEATHER TRACK,1200,WET SLOW,SOMELOVEFROMABOVE,J503,L Ferraris,C Fownes,6,B/XB,9L,10>8>7,1.12.60,72.6,,Ridden conservatively early; swung wide at turn; under a hold thereafter.
+2025-03-06,ST,batch 2,SHA TIN ALL WEATHER TRACK,1200,WET SLOW,MR GOOD VIBES,H180,Q Y Ng,D J Hall,1,V,9-1/4L,8>7>8,1.12.67,72.67,,Not much progress when asked in the Straight.
+2025-03-06,ST,batch 2,SHA TIN ALL WEATHER TRACK,1200,WET SLOW,CHILLI BABA,G339,J Orman,P F Yiu,5,B,9-3/4L,9>10>9,1.12.75,72.75,,Made minor inroads when under whip at 300m.
+2025-03-06,ST,batch 2,SHA TIN ALL WEATHER TRACK,1200,WET SLOW,BLUE BARON,J448,K C Leung,W K Mo,7,H/P/XB,10-1/4L,7>9>10,1.12.83,72.83,,Gave ground; needs more time.
+2025-03-06,ST,batch 3,SHA TIN ALL WEATHER TRACK,1050,WET SLOW,VICTORYTHIRTYTHREE,J216,M Chadwick,P F Yiu,1,H,,1>1>1,1.01.77,61.77,,Jumped well and led; ran on to score after a breather.
+2025-03-06,ST,batch 3,SHA TIN ALL WEATHER TRACK,1050,WET SLOW,CROSSBORDERPEGASUS,K008,H Bowman,J Size,6,P,SH,4>4>2,1.01.78,61.78,,Racing 3/4 wide throughout; laying in at 200m; but still be able to made ground.
+2025-03-06,ST,batch 3,SHA TIN ALL WEATHER TRACK,1050,WET SLOW,PARENTS' LOVE,H405,Y L Chung,A S Cruz,2,H,1/2L,2>2>3,1.01.84,61.84,,Hit the front momentarily at 200m; just caught.
+2025-03-06,ST,batch 3,SHA TIN ALL WEATHER TRACK,1050,WET SLOW,AURORA PATCH,K097,J Orman,P C Ng,5,V,1-3/4L,3>3>4,1.02.04,62.04,,Responded fairly well when persuaded at 200m.
+2025-03-06,ST,batch 3,SHA TIN ALL WEATHER TRACK,1050,WET SLOW,NORTHERN FIRE BALL,J488,E C W Wong,C H Yip,3,H,2-1/2L,5>5>5,1.02.18,62.18,,Shifted racing ground at 300m; under a hold thereafter.
+2025-03-06,ST,batch 3,SHA TIN ALL WEATHER TRACK,1050,WET SLOW,LIFELINE EXPRESS,H439,B Avdulla,J Size,8,E/P,9-3/4L,7>7>6,1.03.34,63.34,,Racing wide along the outside throughout.
+2025-03-06,ST,batch 3,SHA TIN ALL WEATHER TRACK,1050,WET SLOW,COLOURFUL KING,K227,A Atzeni,D Eustace,7,H,10L,6>6>7,1.03.37,63.37,,Ridden along at turn; ran on ordinary.
+2025-03-06,ST,batch 3,SHA TIN ALL WEATHER TRACK,1050,WET SLOW,GLAMOUR,J455,L Ferraris,P F Yiu,4,V,30L,8>8>8,1.06.58,66.58,Required to pass barrier trial/OVE,Crowded and slightly slow to begin; never in contention.
+2025-03-04,ST,batch 1,SHA TIN ALL WEATHER TRACK,1200,GOOD,DREAM WINNER,H308,L Ferraris,F C Lor,1,CP,,1>1>1,1.09.77,69.77,,Led along the rail; stayed on fairly well.
+2025-03-04,ST,batch 1,SHA TIN ALL WEATHER TRACK,1200,GOOD,CIRCUIT JOLLY,J506,K Teetan,D A Hayes,5,,Head,2>2>2,1.09.80,69.8,,Shared lead early; stayed on comfortably.
+2025-03-04,ST,batch 1,SHA TIN ALL WEATHER TRACK,1200,GOOD,DRAGON AIR FORCE,J279,M Chadwick,P F Yiu,6,,1-3/4L,6>6>3,1.10.06,70.06,,Eased back early; ran on impressively when persuaded at 200m.
+2025-03-04,ST,batch 1,SHA TIN ALL WEATHER TRACK,1200,GOOD,STAR MAC,J053,B Avdulla,D A Hayes,8,,2L,8>8>4,1.10.10,70.1,,Taken back early; swung wide at turn; made up good ground in the Straight.
+2025-03-04,ST,batch 1,SHA TIN ALL WEATHER TRACK,1200,GOOD,HONG LOK GOLF,J517,H Bentley,W Y So,7,,3-1/4L,7>7>5,1.10.29,70.29,,Ridden along early; slow into stride.
+2025-03-04,ST,batch 1,SHA TIN ALL WEATHER TRACK,1200,GOOD,FORTUNE STAR,K003,J Orman,M Newnham,3,,3-1/2L,5>5>6,1.10.32,70.32,,Ridden along at turn; ran on when shifted out gradually at 200m.
+2025-03-04,ST,batch 1,SHA TIN ALL WEATHER TRACK,1200,GOOD,CHEVAL VICTORIOUS,J458,L Hewitson,D J Whyte,2,XB,4-1/4L,4>4>7,1.10.44,70.44,,Weakened and gave ground when asked in the Straight.
+2025-03-04,ST,batch 1,SHA TIN ALL WEATHER TRACK,1200,GOOD,CIRCUIT DUFFY,J501,K C Leung,F C Lor,4,CP,4-3/4L,3>3>8,1.10.53,70.53,,Up with the pace; raced under his own steam in the Straight.
+2025-03-04,ST,batch 2,SHA TIN ALL WEATHER TRACK,1200,GOOD,STAR PERFORMER,K207,L Ferraris,M Newnham,7,,,1>1>1,1.09.68,69.68,,Led early; kept on to score.
+2025-03-04,ST,batch 2,SHA TIN ALL WEATHER TRACK,1200,GOOD,FUN TOGETHER,H041,P N Wong,T P Yung,1,CP,3/4L,2>2>2,1.09.83,69.83,,On pace for 2nd; stayed on comfortably.
+2025-03-04,ST,batch 2,SHA TIN ALL WEATHER TRACK,1200,GOOD,POWER KOEPP,E301,H Bowman,M Newnham,5,,6-1/2L,3>4>3,1.10.71,70.71,,Under a hold for 3rd; stayed on fairly well.
+2025-03-04,ST,batch 2,SHA TIN ALL WEATHER TRACK,1200,GOOD,ZETTA FORCE,J546,L Hewitson,T P Yung,3,B,9-1/2L,8>6>4,1.11.21,71.21,,Made minor inroads when shifted out at 300m.
+2025-03-04,ST,batch 2,SHA TIN ALL WEATHER TRACK,1200,GOOD,STRAIGHT TO GLORY,K340,K C Leung,T P Yung,8,,12L,5>3>5,1.11.61,71.61,Failed,Jumped awkwardly; dashed on momentarily at turn; weakened in the Straight.
+2025-03-04,ST,batch 2,SHA TIN ALL WEATHER TRACK,1200,GOOD,CIRCUIT CENTURY,K308,H Bentley,D J Whyte,2,CP,12-3/4L,4>5>6,1.11.74,71.74,,Slightly slow to begin; lost momentum at turn; raced awkwardly in the Straight.
+2025-03-04,ST,batch 2,SHA TIN ALL WEATHER TRACK,1200,GOOD,SPLENDID FORCE,K120,J Orman,D J Whyte,4,P/XB,14L,6>7>7,1.11.91,71.91,,Niggled along throughout; raced greenly.
+2025-03-04,ST,batch 2,SHA TIN ALL WEATHER TRACK,1200,GOOD,SANDMAN,K220,A Badel,D Eustace,6,,15-1/2L,7>8>8,1.12.16,72.16,,Racing wide throughout; failed to respond.
+2025-03-04,ST,batch 3,SHA TIN ALL WEATHER TRACK,1200,GOOD,DAZZLING FIT,K298,L Ferraris,D Eustace,7,XB,,8>8>1,1.10.44,70.44,,Ran on to score when shifted out at turn.
+2025-03-04,ST,batch 3,SHA TIN ALL WEATHER TRACK,1200,GOOD,SUPER EXPRESS,K245,R Moore,J Size,9,,SH,4>3>2,1.10.46,70.46,,Made progress steadily; stayed on well.
+2025-03-04,ST,batch 3,SHA TIN ALL WEATHER TRACK,1200,GOOD,DASH,K250,L Hewitson,D J Whyte,2,,Neck,3>4>3,1.10.50,70.5,,Dashed on along the inside; impressive.
+2025-03-04,ST,batch 3,SHA TIN ALL WEATHER TRACK,1200,GOOD,TRULY FLUKE,K270,H Bowman,D Eustace,5,XB,1-1/4L,7>7>4,1.10.65,70.65,,Responded fairly well when hard ridden.
+2025-03-04,ST,batch 3,SHA TIN ALL WEATHER TRACK,1200,GOOD,TRADITION,J111,H Bentley,Y S Tsui,3,B,1-1/2L,6>5>5,1.10.70,70.7,,Raced behind runners in the Straight; ridden conservatively.
+2025-03-04,ST,batch 3,SHA TIN ALL WEATHER TRACK,1200,GOOD,SUPER EAGLE,G408,K Teetan,W Y So,1,,2L,5>6>6,1.10.78,70.78,,Under restraint early; made progress along the rail.
+2025-03-04,ST,batch 3,SHA TIN ALL WEATHER TRACK,1200,GOOD,EVERYONE'S GALLOP,K140,M L Yeung,F C Lor,8,V,3L,2>2>7,1.10.90,70.9,Passed,On pace and one-off; limited response late.
+2025-03-04,ST,batch 3,SHA TIN ALL WEATHER TRACK,1200,GOOD,BULLION BLITZ,K304,J Orman,D J Whyte,4,XB,5-3/4L,1>1>8,1.11.37,71.37,,Led early; weakened badly late.
+2025-03-04,ST,batch 3,SHA TIN ALL WEATHER TRACK,1200,GOOD,JUST FOLLOW ME,K332,K C Leung,T P Yung,6,,8L,9>9>9,1.11.74,71.74,Failed,Brushed and slightly slow to begin; never in contention.

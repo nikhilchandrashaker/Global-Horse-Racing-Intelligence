@@ -1,0 +1,101 @@
+race_date,race_course,race_no,race_track,distance,race_class,going,horse_id,rtg,draw,trainer,jockey,act_wt,declar_horse_wt,gear
+2025/03/05,HV,Race 1,"TURF - ""C+3"" Course",2200M,Class 5,GOOD,J252,40,6,J Size,R Moore,135,1034,E
+2025/03/05,HV,Race 1,"TURF - ""C+3"" Course",2200M,Class 5,GOOD,J131,39,2,A S Cruz,H Bowman,134,1082,B/TT
+2025/03/05,HV,Race 1,"TURF - ""C+3"" Course",2200M,Class 5,GOOD,H202,-,-,-,-,-,-,
+2025/03/05,HV,Race 1,"TURF - ""C+3"" Course",2200M,Class 5,GOOD,J182,35,8,P C Ng,R Kingscote,130,1203,PC/XB
+2025/03/05,HV,Race 1,"TURF - ""C+3"" Course",2200M,Class 5,GOOD,J035,34,7,C Fownes,L Ferraris,129,1111,TT
+2025/03/05,HV,Race 1,"TURF - ""C+3"" Course",2200M,Class 5,GOOD,H106,32,5,D J Hall,K De Melo,127,1059,CP
+2025/03/05,HV,Race 1,"TURF - ""C+3"" Course",2200M,Class 5,GOOD,H386,32,4,P C Ng,M Chadwick,127,1081,PC/TT
+2025/03/05,HV,Race 1,"TURF - ""C+3"" Course",2200M,Class 5,GOOD,D241,32,3,C H Yip,L Hewitson,127,1047,V/TT
+2025/03/05,HV,Race 1,"TURF - ""C+3"" Course",2200M,Class 5,GOOD,E448,30,10,W Y So,A Badel,125,1032,
+2025/03/05,HV,Race 1,"TURF - ""C+3"" Course",2200M,Class 5,GOOD,G470,29,1,C S Shum,D McDonogh,124,1227,TT
+2025/03/05,HV,Race 1,"TURF - ""C+3"" Course",2200M,Class 5,GOOD,G072,15,9,C W Chang,M L Yeung,115,1171,TT
+2025/03/05,HV,Race 2,"TURF - ""C+3"" Course",1200M,Class 4,GOOD,H208,58,8,J Richards,H Bowman,134,1148,P2/TT
+2025/03/05,HV,Race 2,"TURF - ""C+3"" Course",1200M,Class 4,GOOD,H460,54,4,P F Yiu,R Moore,130,1177,TT
+2025/03/05,HV,Race 2,"TURF - ""C+3"" Course",1200M,Class 4,GOOD,K178,52,7,D J Hall,B Thompson,128,1010,XB
+2025/03/05,HV,Race 2,"TURF - ""C+3"" Course",1200M,Class 4,GOOD,J247,51,6,D J Whyte,J Orman,127,1035,B
+2025/03/05,HV,Race 2,"TURF - ""C+3"" Course",1200M,Class 4,GOOD,H151,50,2,C Fownes,K De Melo,126,1033,TT
+2025/03/05,HV,Race 2,"TURF - ""C+3"" Course",1200M,Class 4,GOOD,K113,50,3,W Y So,D McDonogh,126,1070,
+2025/03/05,HV,Race 2,"TURF - ""C+3"" Course",1200M,Class 4,GOOD,D090,48,9,M Newnham,L Ferraris,124,1196,B
+2025/03/05,HV,Race 2,"TURF - ""C+3"" Course",1200M,Class 4,GOOD,J368,48,10,K L Man,M L Yeung,124,1096,CP/TT
+2025/03/05,HV,Race 2,"TURF - ""C+3"" Course",1200M,Class 4,GOOD,H331,47,11,D Eustace,R Kingscote,123,1052,B/XB/TT
+2025/03/05,HV,Race 2,"TURF - ""C+3"" Course",1200M,Class 4,GOOD,H235,46,1,W K Mo,M Chadwick,122,1080,B/TT
+2025/03/05,HV,Race 2,"TURF - ""C+3"" Course",1200M,Class 4,GOOD,C531,44,5,K H Ting,Y L Chung,120,1045,
+2025/03/05,HV,Race 2,"TURF - ""C+3"" Course",1200M,Class 4,GOOD,J099,40,12,F C Lor,A Badel,116,1074,B
+2025/03/05,HV,Race 3,"TURF - ""C+3"" Course",1650M,Class 3,GOOD,G466,70,5,C Fownes,H Bowman,130,1204,P/TT
+2025/03/05,HV,Race 3,"TURF - ""C+3"" Course",1650M,Class 3,GOOD,H070,69,4,D A Hayes,L Hewitson,129,1177,CP/TT
+2025/03/05,HV,Race 3,"TURF - ""C+3"" Course",1650M,Class 3,GOOD,K062,67,8,D Eustace,R Moore,127,1100,B/TT
+2025/03/05,HV,Race 3,"TURF - ""C+3"" Course",1650M,Class 3,GOOD,H289,65,3,P C Ng,L Ferraris,125,1066,
+2025/03/05,HV,Race 3,"TURF - ""C+3"" Course",1650M,Class 3,GOOD,H116,65,2,D J Whyte,R Kingscote,125,1209,BO/XB/TT
+2025/03/05,HV,Race 3,"TURF - ""C+3"" Course",1650M,Class 3,GOOD,H481,64,6,F C Lor,M L Yeung,124,1085,TT
+2025/03/05,HV,Race 3,"TURF - ""C+3"" Course",1650M,Class 3,GOOD,H435,63,7,W Y So,K De Melo,123,1093,CP/TT
+2025/03/05,HV,Race 3,"TURF - ""C+3"" Course",1650M,Class 3,GOOD,K093,63,1,M Newnham,H Bentley,123,1223,B/TT
+2025/03/05,HV,Race 3,"TURF - ""C+3"" Course",1650M,Class 3,GOOD,H090,60,9,A S Cruz,Y L Chung,120,1139,V/TT
+2025/03/05,HV,Race 4,"TURF - ""C+3"" Course",1200M,Class 4,GOOD,K033,58,6,J Richards,R Moore,134,1176,B/TT
+2025/03/05,HV,Race 4,"TURF - ""C+3"" Course",1200M,Class 4,GOOD,K089,58,3,D A Hayes,L Hewitson,134,1147,B
+2025/03/05,HV,Race 4,"TURF - ""C+3"" Course",1200M,Class 4,GOOD,H366,54,12,C S Shum,H T Mo,130,1145,TT
+2025/03/05,HV,Race 4,"TURF - ""C+3"" Course",1200M,Class 4,GOOD,J317,53,1,K L Man,H Bowman,129,1185,B
+2025/03/05,HV,Race 4,"TURF - ""C+3"" Course",1200M,Class 4,GOOD,J550,52,7,J Size,B Thompson,128,1104,B/H/TT
+2025/03/05,HV,Race 4,"TURF - ""C+3"" Course",1200M,Class 4,GOOD,H320,51,11,C Fownes,M L Yeung,127,1073,TT
+2025/03/05,HV,Race 4,"TURF - ""C+3"" Course",1200M,Class 4,GOOD,J403,51,2,A S Cruz,M Chadwick,127,1076,B/TT
+2025/03/05,HV,Race 4,"TURF - ""C+3"" Course",1200M,Class 4,GOOD,J549,50,9,K W Lui,J Orman,126,985,TT
+2025/03/05,HV,Race 4,"TURF - ""C+3"" Course",1200M,Class 4,GOOD,J076,50,10,F C Lor,A Badel,126,1074,B
+2025/03/05,HV,Race 4,"TURF - ""C+3"" Course",1200M,Class 4,GOOD,K024,48,5,D J Hall,K De Melo,124,1103,
+2025/03/05,HV,Race 4,"TURF - ""C+3"" Course",1200M,Class 4,GOOD,J184,47,4,M Newnham,L Ferraris,123,1097,PC
+2025/03/05,HV,Race 4,"TURF - ""C+3"" Course",1200M,Class 4,GOOD,J332,41,8,Y S Tsui,H Bentley,117,1040,B
+2025/03/05,HV,Race 5,"TURF - ""C+3"" Course",1200M,Class 4,GOOD,H242,57,10,J Size,R Moore,135,1013,B
+2025/03/05,HV,Race 5,"TURF - ""C+3"" Course",1200M,Class 4,GOOD,G328,56,9,A S Cruz,J Orman,134,1065,V/TT
+2025/03/05,HV,Race 5,"TURF - ""C+3"" Course",1200M,Class 4,GOOD,E184,54,1,P F Yiu,L Ferraris,132,1273,V
+2025/03/05,HV,Race 5,"TURF - ""C+3"" Course",1200M,Class 4,GOOD,K215,52,5,J Richards,H Bowman,130,1088,TT
+2025/03/05,HV,Race 5,"TURF - ""C+3"" Course",1200M,Class 4,GOOD,J314,49,8,C S Shum,H Bentley,127,1138,H/TT
+2025/03/05,HV,Race 5,"TURF - ""C+3"" Course",1200M,Class 4,GOOD,J312,48,4,W Y So,M L Yeung,126,1176,CP
+2025/03/05,HV,Race 5,"TURF - ""C+3"" Course",1200M,Class 4,GOOD,J087,46,11,W K Mo,M Chadwick,124,1077,H2/TT
+2025/03/05,HV,Race 5,"TURF - ""C+3"" Course",1200M,Class 4,GOOD,K073,44,7,P C Ng,Y L Chung,122,1034,B
+2025/03/05,HV,Race 5,"TURF - ""C+3"" Course",1200M,Class 4,GOOD,J532,44,2,C H Yip,B Thompson,122,1043,B
+2025/03/05,HV,Race 5,"TURF - ""C+3"" Course",1200M,Class 4,GOOD,G272,44,12,D A Hayes,E C W Wong,122,1152,CP
+2025/03/05,HV,Race 5,"TURF - ""C+3"" Course",1200M,Class 4,GOOD,J043,41,3,C Fownes,A Badel,119,1090,CP/TT
+2025/03/05,HV,Race 5,"TURF - ""C+3"" Course",1200M,Class 4,GOOD,J371,41,6,K H Ting,L Hewitson,119,1164,V/XB
+2025/03/05,HV,Race 6,"TURF - ""C+3"" Course",1800M,Class 4,GOOD,J260,57,9,J Size,R Moore,135,1193,
+2025/03/05,HV,Race 6,"TURF - ""C+3"" Course",1800M,Class 4,GOOD,H087,56,2,F C Lor,A Badel,134,1159,B/TT
+2025/03/05,HV,Race 6,"TURF - ""C+3"" Course",1800M,Class 4,GOOD,H168,56,8,J Richards,H Bowman,134,1098,B/TT
+2025/03/05,HV,Race 6,"TURF - ""C+3"" Course",1800M,Class 4,GOOD,J268,56,12,C W Chang,L Hewitson,134,1177,H/SR
+2025/03/05,HV,Race 6,"TURF - ""C+3"" Course",1800M,Class 4,GOOD,J377,53,4,M Newnham,L Ferraris,131,1018,
+2025/03/05,HV,Race 6,"TURF - ""C+3"" Course",1800M,Class 4,GOOD,G138,52,7,C H Yip,J Orman,130,1103,SR/TT
+2025/03/05,HV,Race 6,"TURF - ""C+3"" Course",1800M,Class 4,GOOD,K102,50,11,P C Ng,R Kingscote,128,1050,TT
+2025/03/05,HV,Race 6,"TURF - ""C+3"" Course",1800M,Class 4,GOOD,J271,47,1,T P Yung,H T Mo,125,1090,B/TT
+2025/03/05,HV,Race 6,"TURF - ""C+3"" Course",1800M,Class 4,GOOD,J074,45,3,D J Whyte,A Hamelin,123,1036,CP/TT
+2025/03/05,HV,Race 6,"TURF - ""C+3"" Course",1800M,Class 4,GOOD,G395,43,5,D A Hayes,E C W Wong,121,1110,B/TT
+2025/03/05,HV,Race 6,"TURF - ""C+3"" Course",1800M,Class 4,GOOD,J105,42,10,C S Shum,H Bentley,120,1127,B/TT
+2025/03/05,HV,Race 6,"TURF - ""C+3"" Course",1800M,Class 4,GOOD,H339,42,6,A S Cruz,M Chadwick,120,1110,H/TT
+2025/03/05,HV,Race 7,"TURF - ""C+3"" Course",1200M,Class 3,GOOD,K011,74,4,D Eustace,H Bowman,133,1062,TT
+2025/03/05,HV,Race 7,"TURF - ""C+3"" Course",1200M,Class 3,GOOD,G467,69,8,C S Shum,A Hamelin,128,1155,TT
+2025/03/05,HV,Race 7,"TURF - ""C+3"" Course",1200M,Class 3,GOOD,J394,68,6,W K Mo,M Chadwick,127,1099,TT
+2025/03/05,HV,Race 7,"TURF - ""C+3"" Course",1200M,Class 3,GOOD,J118,67,7,W Y So,R Moore,126,1165,TT
+2025/03/05,HV,Race 7,"TURF - ""C+3"" Course",1200M,Class 3,GOOD,E490,66,10,K W Lui,L Hewitson,125,1083,B
+2025/03/05,HV,Race 7,"TURF - ""C+3"" Course",1200M,Class 3,GOOD,J537,66,5,D A Hayes,H Bentley,125,1156,
+2025/03/05,HV,Race 7,"TURF - ""C+3"" Course",1200M,Class 3,GOOD,K124,64,9,M Newnham,L Ferraris,123,1068,
+2025/03/05,HV,Race 7,"TURF - ""C+3"" Course",1200M,Class 3,GOOD,H377,63,2,J Size,A Badel,122,1148,
+2025/03/05,HV,Race 7,"TURF - ""C+3"" Course",1200M,Class 3,GOOD,J360,62,3,C Fownes,J Orman,121,1051,H/TT
+2025/03/05,HV,Race 7,"TURF - ""C+3"" Course",1200M,Class 3,GOOD,G333,61,1,C Fownes,B Thompson,120,1155,TT
+2025/03/05,HV,Race 8,"TURF - ""C+3"" Course",1650M,Class 4,GOOD,K131,60,6,P F Yiu,R Kingscote,135,1105,V/TT
+2025/03/05,HV,Race 8,"TURF - ""C+3"" Course",1650M,Class 4,GOOD,G150,60,3,K L Man,J Orman,135,1102,XB
+2025/03/05,HV,Race 8,"TURF - ""C+3"" Course",1650M,Class 4,GOOD,J494,59,11,M Newnham,L Hewitson,134,937,
+2025/03/05,HV,Race 8,"TURF - ""C+3"" Course",1650M,Class 4,GOOD,E294,59,5,C H Yip,R Moore,134,1070,TT
+2025/03/05,HV,Race 8,"TURF - ""C+3"" Course",1650M,Class 4,GOOD,J434,51,2,T P Yung,D McDonogh,126,1007,TT
+2025/03/05,HV,Race 8,"TURF - ""C+3"" Course",1650M,Class 4,GOOD,H047,51,9,W Y So,K De Melo,126,1277,TT
+2025/03/05,HV,Race 8,"TURF - ""C+3"" Course",1650M,Class 4,GOOD,J193,51,7,A S Cruz,Y L Chung,126,1052,
+2025/03/05,HV,Race 8,"TURF - ""C+3"" Course",1650M,Class 4,GOOD,K054,50,8,C Fownes,H Bowman,125,1092,H/TT
+2025/03/05,HV,Race 8,"TURF - ""C+3"" Course",1650M,Class 4,GOOD,J342,47,1,Y S Tsui,M L Yeung,122,1069,B
+2025/03/05,HV,Race 8,"TURF - ""C+3"" Course",1650M,Class 4,GOOD,G195,46,4,D Eustace,A Hamelin,121,1316,B
+2025/03/05,HV,Race 8,"TURF - ""C+3"" Course",1650M,Class 4,GOOD,H344,44,12,J Size,B Thompson,119,1170,H
+2025/03/05,HV,Race 8,"TURF - ""C+3"" Course",1650M,Class 4,GOOD,J409,41,10,C S Shum,A Badel,116,1087,CP/TT
+2025/03/05,HV,Race 9,"TURF - ""C+3"" Course",1200M,Class 3,GOOD,G016,77,2,C Fownes,L Ferraris,134,1102,B/TT
+2025/03/05,HV,Race 9,"TURF - ""C+3"" Course",1200M,Class 3,GOOD,G061,72,4,P F Yiu,H Bowman,129,1160,
+2025/03/05,HV,Race 9,"TURF - ""C+3"" Course",1200M,Class 3,GOOD,H223,72,3,J Richards,J Orman,129,1129,B/TT
+2025/03/05,HV,Race 9,"TURF - ""C+3"" Course",1200M,Class 3,GOOD,H456,72,1,C S Shum,H T Mo,129,1190,B/TT
+2025/03/05,HV,Race 9,"TURF - ""C+3"" Course",1200M,Class 3,GOOD,H440,68,5,M Newnham,A Badel,125,1216,P/TT
+2025/03/05,HV,Race 9,"TURF - ""C+3"" Course",1200M,Class 3,GOOD,H037,67,8,J Size,R Moore,124,1106,B
+2025/03/05,HV,Race 9,"TURF - ""C+3"" Course",1200M,Class 3,GOOD,G451,64,9,A S Cruz,M Chadwick,121,1102,B/TT
+2025/03/05,HV,Race 9,"TURF - ""C+3"" Course",1200M,Class 3,GOOD,K035,64,7,W K Mo,H Bentley,121,1200,TT
+2025/03/05,HV,Race 9,"TURF - ""C+3"" Course",1200M,Class 3,GOOD,K056,63,10,D A Hayes,M L Yeung,120,1148,SR/TT
+2025/03/05,HV,Race 9,"TURF - ""C+3"" Course",1200M,Class 3,GOOD,H044,63,6,K W Lui,L Hewitson,120,1081,V/TT

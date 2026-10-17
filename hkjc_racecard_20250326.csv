@@ -1,0 +1,117 @@
+race_date,race_course,race_no,race_track,distance,race_class,going,horse_id,rtg,draw,trainer,jockey,act_wt,declar_horse_wt,gear
+2025/03/26,ST,Race 1,All Weather Track,1800M,Class 5,GOOD,J004,40,6,D A Hayes,H Bowman,135,1024,CP
+2025/03/26,ST,Race 1,All Weather Track,1800M,Class 5,GOOD,H234,40,5,J Size,A Atzeni,135,1075,E/PC/TT
+2025/03/26,ST,Race 1,All Weather Track,1800M,Class 5,GOOD,J211,39,2,K H Ting,E C W Wong,134,1005,B
+2025/03/26,ST,Race 1,All Weather Track,1800M,Class 5,GOOD,J146,39,7,P C Ng,L Ferraris,134,1114,CP/TT
+2025/03/26,ST,Race 1,All Weather Track,1800M,Class 5,GOOD,G477,37,11,A S Cruz,Y L Chung,132,1105,B/H/TT
+2025/03/26,ST,Race 1,All Weather Track,1800M,Class 5,GOOD,J165,37,1,W Y So,D McDonogh,132,1025,B/TT
+2025/03/26,ST,Race 1,All Weather Track,1800M,Class 5,GOOD,G301,36,13,D J Whyte,K Teetan,131,1121,B
+2025/03/26,ST,Race 1,All Weather Track,1800M,Class 5,GOOD,J111,36,8,Y S Tsui,H Bentley,131,1050,B
+2025/03/26,ST,Race 1,All Weather Track,1800M,Class 5,GOOD,D087,34,4,C H Yip,C L Chau,129,1042,CP
+2025/03/26,ST,Race 1,All Weather Track,1800M,Class 5,GOOD,J182,33,10,P C Ng,J Orman,128,1191,PC/XB/TT2
+2025/03/26,ST,Race 1,All Weather Track,1800M,Class 5,GOOD,H332,32,9,P F Yiu,B Thompson,127,1056,
+2025/03/26,ST,Race 1,All Weather Track,1800M,Class 5,GOOD,G372,29,12,C H Yip,M F Poon,124,1147,TT
+2025/03/26,ST,Race 1,All Weather Track,1800M,Class 5,GOOD,H083,28,3,T P Yung,K C Leung,123,1198,B/TT
+2025/03/26,ST,Race 1,All Weather Track,1800M,Class 5,GOOD,G072,15,14,C W Chang,M L Yeung,115,1159,B2/TT
+2025/03/26,ST,Race 2,All Weather Track,1200M,Class 5,GOOD,J028,40,8,D J Hall,L Ferraris,135,1118,P2
+2025/03/26,ST,Race 2,All Weather Track,1200M,Class 5,GOOD,J167,39,4,D J Whyte,J Orman,134,1085,SR
+2025/03/26,ST,Race 2,All Weather Track,1200M,Class 5,GOOD,G352,38,9,C H Yip,M Chadwick,133,1033,B/TT
+2025/03/26,ST,Race 2,All Weather Track,1200M,Class 5,GOOD,J352,38,1,J Richards,H Bowman,133,1137,TT
+2025/03/26,ST,Race 2,All Weather Track,1200M,Class 5,GOOD,J430,38,3,W K Mo,K C Leung,133,1098,TT
+2025/03/26,ST,Race 2,All Weather Track,1200M,Class 5,GOOD,H489,37,2,C Fownes,Y L Chung,132,1115,B
+2025/03/26,ST,Race 2,All Weather Track,1200M,Class 5,GOOD,J056,34,6,D A Hayes,K Teetan,129,1100,B/TT
+2025/03/26,ST,Race 2,All Weather Track,1200M,Class 5,GOOD,J086,32,5,J Size,A Atzeni,127,1009,P
+2025/03/26,ST,Race 2,All Weather Track,1200M,Class 5,GOOD,H476,32,7,K L Man,P N Wong,127,1212,B/TT
+2025/03/26,ST,Race 2,All Weather Track,1200M,Class 5,GOOD,G251,28,11,C W Chang,B Thompson,123,1117,H/B2
+2025/03/26,ST,Race 2,All Weather Track,1200M,Class 5,GOOD,H011,21,12,W Y So,H Bentley,116,1059,E/P/TT
+2025/03/26,ST,Race 2,All Weather Track,1200M,Class 5,GOOD,E281,18,10,Y S Tsui,M F Poon,115,1054,B
+2025/03/26,ST,Race 3,All Weather Track,1650M,Class 4,GOOD,H111,59,10,Y S Tsui,A Atzeni,135,1186,TT
+2025/03/26,ST,Race 3,All Weather Track,1650M,Class 4,GOOD,J093,58,14,C S Shum,P N Wong,134,1164,B
+2025/03/26,ST,Race 3,All Weather Track,1650M,Class 4,GOOD,K198,56,5,D A Hayes,B Thompson,132,1111,
+2025/03/26,ST,Race 3,All Weather Track,1650M,Class 4,GOOD,J456,52,7,P C Ng,J Orman,128,1071,B/TT
+2025/03/26,ST,Race 3,All Weather Track,1650M,Class 4,GOOD,J486,49,9,P F Yiu,R Kingscote,125,1083,V
+2025/03/26,ST,Race 3,All Weather Track,1650M,Class 4,GOOD,J493,49,4,J Richards,D McDonogh,125,1073,PC/TT
+2025/03/26,ST,Race 3,All Weather Track,1650M,Class 4,GOOD,G354,46,13,C Fownes,E C W Wong,122,1035,TT
+2025/03/26,ST,Race 3,All Weather Track,1650M,Class 4,GOOD,H403,45,1,C H Yip,H Bentley,121,1147,TT
+2025/03/26,ST,Race 3,All Weather Track,1650M,Class 4,GOOD,G427,45,11,K L Man,M F Poon,121,1082,B/TT
+2025/03/26,ST,Race 3,All Weather Track,1650M,Class 4,GOOD,J337,44,6,F C Lor,M Chadwick,120,1086,
+2025/03/26,ST,Race 3,All Weather Track,1650M,Class 4,GOOD,J271,44,2,T P Yung,Y L Chung,120,1107,B/TT
+2025/03/26,ST,Race 3,All Weather Track,1650M,Class 4,GOOD,J169,42,12,D Eustace,K Teetan,118,1054,PC/TT
+2025/03/26,ST,Race 3,All Weather Track,1650M,Class 4,GOOD,J331,42,8,J Size,A Hamelin,118,1014,PC2/TT
+2025/03/26,ST,Race 3,All Weather Track,1650M,Class 4,GOOD,J453,41,3,C W Chang,M L Yeung,117,1078,
+2025/03/26,ST,Race 4,All Weather Track,1200M,Class 5,GOOD,D075,39,10,Y S Tsui,M F Poon,135,1226,B
+2025/03/26,ST,Race 4,All Weather Track,1200M,Class 5,GOOD,H384,39,2,W Y So,H Bentley,135,1112,BO
+2025/03/26,ST,Race 4,All Weather Track,1200M,Class 5,GOOD,J112,37,5,C W Chang,M L Yeung,133,1068,B
+2025/03/26,ST,Race 4,All Weather Track,1200M,Class 5,GOOD,J095,36,6,C Fownes,E C W Wong,132,1106,B/TT
+2025/03/26,ST,Race 4,All Weather Track,1200M,Class 5,GOOD,H097,36,11,D Eustace,P N Wong,132,1045,P2/TT
+2025/03/26,ST,Race 4,All Weather Track,1200M,Class 5,GOOD,J057,35,1,D J Hall,K Teetan,131,1081,B
+2025/03/26,ST,Race 4,All Weather Track,1200M,Class 5,GOOD,H144,34,9,W K Mo,M Chadwick,130,1162,TT
+2025/03/26,ST,Race 4,All Weather Track,1200M,Class 5,GOOD,J423,33,7,T P Yung,C L Chau,129,1168,
+2025/03/26,ST,Race 4,All Weather Track,1200M,Class 5,GOOD,E360,33,3,C H Yip,A Hamelin,129,1227,
+2025/03/26,ST,Race 4,All Weather Track,1200M,Class 5,GOOD,H178,27,4,F C Lor,A Atzeni,123,1061,PC
+2025/03/26,ST,Race 4,All Weather Track,1200M,Class 5,GOOD,G201,26,8,P F Yiu,B Thompson,122,1196,B/TT
+2025/03/26,ST,Race 4,All Weather Track,1200M,Class 5,GOOD,H404,19,12,A S Cruz,Y L Chung,115,1155,B/TT
+2025/03/26,ST,Race 5,All Weather Track,1200M,Class 4,GOOD,K264,60,4,Y S Tsui,M F Poon,135,1157,CP
+2025/03/26,ST,Race 5,All Weather Track,1200M,Class 4,GOOD,H228,60,5,D A Hayes,E C W Wong,135,1172,B/TT
+2025/03/26,ST,Race 5,All Weather Track,1200M,Class 4,GOOD,J365,59,11,D J Hall,P N Wong,134,1121,B
+2025/03/26,ST,Race 5,All Weather Track,1200M,Class 4,GOOD,H483,56,3,W K Mo,K Teetan,131,1177,
+2025/03/26,ST,Race 5,All Weather Track,1200M,Class 4,GOOD,K140,52,8,F C Lor,K C Leung,127,1260,V
+2025/03/26,ST,Race 5,All Weather Track,1200M,Class 4,GOOD,K214,52,10,C S Shum,C L Chau,127,1178,TT
+2025/03/26,ST,Race 5,All Weather Track,1200M,Class 4,GOOD,J171,51,1,P C Ng,J Orman,126,1165,B/TT
+2025/03/26,ST,Race 5,All Weather Track,1200M,Class 4,GOOD,K022,50,9,M Newnham,L Ferraris,125,1048,B/TT
+2025/03/26,ST,Race 5,All Weather Track,1200M,Class 4,GOOD,K053,48,7,J Size,A Atzeni,123,1152,XB/P/TT
+2025/03/26,ST,Race 5,All Weather Track,1200M,Class 4,GOOD,J308,47,6,K H Ting,A Hamelin,122,1171,CP/TT
+2025/03/26,ST,Race 5,All Weather Track,1200M,Class 4,GOOD,J123,42,2,A S Cruz,Y L Chung,117,1167,B/TT
+2025/03/26,ST,Race 5,All Weather Track,1200M,Class 4,GOOD,J043,40,12,C Fownes,H Bentley,115,1107,CP/TT
+2025/03/26,ST,Race 6,All Weather Track,1650M,Class 4,GOOD,K084,60,13,T P Yung,C L Chau,135,1117,TT
+2025/03/26,ST,Race 6,All Weather Track,1650M,Class 4,GOOD,K193,59,11,D A Hayes,J Orman,134,1096,
+2025/03/26,ST,Race 6,All Weather Track,1650M,Class 4,GOOD,H016,53,6,D A Hayes,L Ferraris,128,1085,TT
+2025/03/26,ST,Race 6,All Weather Track,1650M,Class 4,GOOD,E494,52,10,C Fownes,E C W Wong,127,1107,TT
+2025/03/26,ST,Race 6,All Weather Track,1650M,Class 4,GOOD,G463,49,5,C W Chang,B Thompson,124,1186,
+2025/03/26,ST,Race 6,All Weather Track,1650M,Class 4,GOOD,G368,49,12,P C Ng,K Teetan,124,1067,H/PC/TT
+2025/03/26,ST,Race 6,All Weather Track,1650M,Class 4,GOOD,H293,47,2,A S Cruz,Y L Chung,122,1010,H/TT
+2025/03/26,ST,Race 6,All Weather Track,1650M,Class 4,GOOD,E273,46,14,J Size,A Atzeni,121,1080,H/P
+2025/03/26,ST,Race 6,All Weather Track,1650M,Class 4,GOOD,J350,46,7,D J Hall,M F Poon,121,1117,B
+2025/03/26,ST,Race 6,All Weather Track,1650M,Class 4,GOOD,J080,45,4,D Eustace,R Kingscote,120,1076,
+2025/03/26,ST,Race 6,All Weather Track,1650M,Class 4,GOOD,J322,43,9,W K Mo,H Bentley,118,1156,V/TT
+2025/03/26,ST,Race 6,All Weather Track,1650M,Class 4,GOOD,H420,43,8,F C Lor,M Chadwick,118,1176,H/P/TT
+2025/03/26,ST,Race 6,All Weather Track,1650M,Class 4,GOOD,E478,42,1,C S Shum,P N Wong,117,1060,CP/TT
+2025/03/26,ST,Race 6,All Weather Track,1650M,Class 4,GOOD,G112,41,3,K W Lui,M L Yeung,116,1190,V
+2025/03/26,ST,Race 7,All Weather Track,1200M,Class 4,GOOD,H455,59,8,A S Cruz,Y L Chung,135,1123,H/TT
+2025/03/26,ST,Race 7,All Weather Track,1200M,Class 4,GOOD,H229,58,4,D Eustace,L Ferraris,134,1133,P/XB/TT
+2025/03/26,ST,Race 7,All Weather Track,1200M,Class 4,GOOD,K236,52,3,P F Yiu,R Kingscote,128,1070,
+2025/03/26,ST,Race 7,All Weather Track,1200M,Class 4,GOOD,J505,50,12,J Size,H Bowman,126,1026,PC/TT
+2025/03/26,ST,Race 7,All Weather Track,1200M,Class 4,GOOD,J343,49,9,K L Man,M Chadwick,125,1150,TT
+2025/03/26,ST,Race 7,All Weather Track,1200M,Class 4,GOOD,J150,49,10,Y S Tsui,A Atzeni,125,1139,
+2025/03/26,ST,Race 7,All Weather Track,1200M,Class 4,GOOD,H283,48,11,C Fownes,H Bentley,124,1186,B/TT
+2025/03/26,ST,Race 7,All Weather Track,1200M,Class 4,GOOD,J312,46,6,W Y So,M L Yeung,122,1176,CP
+2025/03/26,ST,Race 7,All Weather Track,1200M,Class 4,GOOD,J314,45,5,C S Shum,C L Chau,121,1130,H/TT
+2025/03/26,ST,Race 7,All Weather Track,1200M,Class 4,GOOD,K110,44,7,T P Yung,K C Leung,120,1154,CP/TT
+2025/03/26,ST,Race 7,All Weather Track,1200M,Class 4,GOOD,G003,40,1,D J Hall,P N Wong,116,1179,B/XB
+2025/03/26,ST,Race 7,All Weather Track,1200M,Class 4,GOOD,J099,40,2,F C Lor,K Teetan,116,1066,B
+2025/03/26,ST,Race 8,All Weather Track,1650M,Class 3,GOOD,D482,85,12,Y S Tsui,Y L Chung,135,1116,
+2025/03/26,ST,Race 8,All Weather Track,1650M,Class 3,GOOD,H192,82,2,F C Lor,K C Leung,132,1234,
+2025/03/26,ST,Race 8,All Weather Track,1650M,Class 3,GOOD,G213,81,13,J Size,H Bowman,131,1203,P2
+2025/03/26,ST,Race 8,All Weather Track,1650M,Class 3,GOOD,G326,81,5,K W Lui,D McDonogh,131,1217,XB
+2025/03/26,ST,Race 8,All Weather Track,1650M,Class 3,GOOD,H165,80,6,P C Ng,J Orman,130,1130,PC/TT
+2025/03/26,ST,Race 8,All Weather Track,1650M,Class 3,GOOD,G476,76,11,W K Mo,A Atzeni,126,1172,CP/TT
+2025/03/26,ST,Race 8,All Weather Track,1650M,Class 3,GOOD,H120,75,10,C Fownes,E C W Wong,125,1073,TT
+2025/03/26,ST,Race 8,All Weather Track,1650M,Class 3,GOOD,K190,71,1,C S Shum,M F Poon,121,995,CP/TT
+2025/03/26,ST,Race 8,All Weather Track,1650M,Class 3,GOOD,H135,71,14,C H Yip,C L Chau,121,1150,B
+2025/03/26,ST,Race 8,All Weather Track,1650M,Class 3,GOOD,J015,70,3,P C Ng,H Bentley,120,1086,SR/V
+2025/03/26,ST,Race 8,All Weather Track,1650M,Class 3,GOOD,J200,70,8,F C Lor,M L Yeung,120,1134,V/TT
+2025/03/26,ST,Race 8,All Weather Track,1650M,Class 3,GOOD,G223,69,7,D A Hayes,P N Wong,119,1207,B/TT
+2025/03/26,ST,Race 8,All Weather Track,1650M,Class 3,GOOD,K094,63,4,M Newnham,M Chadwick,115,1134,TT
+2025/03/26,ST,Race 8,All Weather Track,1650M,Class 3,GOOD,J203,61,9,J Richards,K Teetan,115,1126,V/TT
+2025/03/26,ST,Race 9,All Weather Track,1200M,Class 3,GOOD,J141,85,11,M Newnham,P N Wong,135,1195,
+2025/03/26,ST,Race 9,All Weather Track,1200M,Class 3,GOOD,H311,84,12,K H Ting,K C Leung,134,1210,H
+2025/03/26,ST,Race 9,All Weather Track,1200M,Class 3,GOOD,H337,84,5,K L Man,M F Poon,134,1108,B/TT
+2025/03/26,ST,Race 9,All Weather Track,1200M,Class 3,GOOD,H410,80,10,K W Lui,J Orman,130,1216,P
+2025/03/26,ST,Race 9,All Weather Track,1200M,Class 3,GOOD,H089,79,2,T P Yung,H Bowman,129,1212,B
+2025/03/26,ST,Race 9,All Weather Track,1200M,Class 3,GOOD,K169,76,3,W Y So,K Teetan,126,1140,TT
+2025/03/26,ST,Race 9,All Weather Track,1200M,Class 3,GOOD,H456,74,1,C S Shum,C L Chau,124,1186,B/TT
+2025/03/26,ST,Race 9,All Weather Track,1200M,Class 3,GOOD,J133,69,6,J Size,A Atzeni,119,1163,E/PC/TT
+2025/03/26,ST,Race 9,All Weather Track,1200M,Class 3,GOOD,G110,65,9,C Fownes,H Bentley,115,1233,B/TT
+2025/03/26,ST,Race 9,All Weather Track,1200M,Class 3,GOOD,J279,63,8,P F Yiu,M Chadwick,115,1044,TT
+2025/03/26,ST,Race 9,All Weather Track,1200M,Class 3,GOOD,H072,61,7,J Richards,Y L Chung,115,1117,H/P/XB/TT
+2025/03/26,ST,Race 9,All Weather Track,1200M,Class 3,GOOD,J468,60,4,Y S Tsui,M L Yeung,115,1109,H
